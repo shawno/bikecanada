@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Rides</h1>
+
+<% @rides.each do |ride| %>
+  <h3>
+  	<%= link_to ride['name'], ride_path(:id => ride['id']) %>
+  </h3>
+  
+  <p><%= ride %></p>
+
+  <hr />
+<% end %>
+
+<br>
