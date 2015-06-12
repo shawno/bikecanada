@@ -4,7 +4,26 @@ class RidesController < ApplicationController
   # GET /rides
   # GET /rides.json
   def index
-    @rides = @strava.list_athlete_activities
+    @start_date = Time.local(2015, 5, 20)
+    @end_date = Time.local(2015, 9, 15)
+    @keyword = 'acking'
+    @per_page_count = 100 #max is 200
+    @rides = []
+
+    @all_rides = @strava.list_athlete_activities(
+      {'after'    => @start_date.to_i, 
+       'before'   => @end_date.to_i,
+       'per_page' => @per_page_count})
+
+    #For each ride, see if the name contains the keyword
+    # if so, strip the keyword out of the name, but keep the ride
+    @all_rides.each { |ride| 
+        if(ride['name'].include? @keyword)
+          ride['name'].gsub!(@keyword, '') #remove the substring from the name
+          @rides << ride #and keep the ride
+        end
+      }
+    # @rides.reverse! # 'after' param flips the order, correct it if necessary
   end
 
   # GET /rides/1
