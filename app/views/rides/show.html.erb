@@ -1,14 +1,28 @@
 <% provide(:title, @ride['name']) %>
 
+<img src="https://maps.googleapis.com/maps/api/staticmap?size=500x200&path=weight:3%7Ccolor:red%7Cenc:<%= @ride['map']['summary_polyline'] %>">
+
 <h1><%= @ride['name'] %></h1>
+<p class="ride-description"><%= @ride['description'] %></p>
 
+<% if @ride['total_photo_count'] > 0 %>
+	<img src="<%= @ride['photos']['primary']['urls']['600'] %>">
+<% end %>	
+
+<h2>Ride Stats</h2>
 <ul>
-	<li>description: <%= @ride['description'] %></li> 
-	<li>total_photo_count: <%= @ride['total_photo_count'] %></li>
-	<li>primary photo: 
-		<img src="<%= @ride['photos']['primary']['urls']['600'] %>">
-	</li>
-	
+  	<li>Distance: <%= @ride['distance'] %> meters</li>
+  	<li>Riding Time: <%= @ride['moving_time'] %> seconds</li>
+  	<li>Total Time: <%= @ride['elapsed_time'] %> seconds</li>
+  	<li>total_elevation_gain: <%= @ride['total_elevation_gain'] %> meters</li>
+  	<li>start_latlng: <%= @ride['start_latlng'] %></li>
+  	<li>end_latlng: <%= @ride['end_latlng'] %></li>
+  	<li>average_speed: <%= @ride['average_speed'] %></li>
+  	<li>max_speed: <%= @ride['max_speed'] %></li>
+  	<li>average_temp: <%= @ride['average_temp'] %></li>
+  	<li>average_watts: <%= @ride['average_watts'] %></li>
+  	<li>kilojoules: <%= @ride['kilojoules'] %></li>
+  	<li>average_heartrate: <%= @ride['average_heartrate'] %></li>
+  	<li>max_heartrate: <%= @ride['max_heartrate'] %></li>
 </ul>
-
 
