@@ -1,6 +1,14 @@
 <% provide(:title, @ride['name']) %>
 
 <h1><%= @ride['name'] %></h1>
-  <%= @ride %>
-</p>
+
+<ul>
+	<li>description: <%= @ride['description'] %></li> 
+	<li>total_photo_count: <%= @ride['total_photo_count'] %></li>
+	<li>primary photo: 
+		<img src="<%= @ride['photos']['primary']['urls']['600'] %>">
+	</li>
+	
+</ul>
+
 
