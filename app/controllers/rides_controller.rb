@@ -6,7 +6,7 @@ class RidesController < ApplicationController
   def index
     @start_date = Time.local(2015, 5, 20)
     @end_date = Time.local(2015, 9, 15)
-    @keyword = 'acking'
+    @keyword = ''
     @per_page_count = 100 #max is 200
     @rides = []
 
