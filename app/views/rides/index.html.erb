@@ -1,18 +1,27 @@
 <p id="notice"><%= notice %></p>
 
 <% @rides.each do |ride| %>
-  <h3>
-  	<%= link_to ride['name'], ride_path(:id => ride['id']) %>
-  </h3>
+
+  <!-- Google static maps API -->
+  <img src="https://maps.googleapis.com/maps/api/staticmap?size=620x320&path=weight:5%7Ccolor:blue%7Cenc:<%= ride['map']['summary_polyline'] %>"
+  alt="Google Map of the ride"
+  class="listing-image">
+
+  <h2><%= link_to ride['name'], ride_path(:id => ride['id']) %></h2>
   
+  <% ride_date = DateTime.parse(ride['start_date_local']) %>
+  <% ride_duration = Time.at(ride['moving_time']).utc %>
+  <p><%= ride_date.strftime("Ridden on %A, %B %e, %Y") %></p>
+ 
   <ul>
-  	<li>Date: <%= ride['start_date_local'] %> (<%= ride['timezone'] %>)</li>
-  	<li>Distance: <%= ride['distance'] %> meters</li>
-  	<li>Riding Time: <%= ride['moving_time'] %> seconds</li>
-  	<li>
-<!--   	Google static maps API -->
-  		<img src="https://maps.googleapis.com/maps/api/staticmap?size=50x50&path=weight:3%7Ccolor:red%7Cenc:<%= ride['map']['summary_polyline'] %>">
+  	<li>Start Time: <%= ride_date.strftime("%l:%M %P") %></li>
+  	<li>Riding Time: 
+  		<% if ride_duration.hour > 0 %>
+  			<%= ride_duration.strftime('%k hours, ') %>
+  		<% end %>
+  		<%= ride_duration.strftime('%M minutes') %>
   	</li>
+  	<li>Distance: <%= (ride['distance']/1000).round(1) %> KM</li>
   </ul>
   
   <hr />

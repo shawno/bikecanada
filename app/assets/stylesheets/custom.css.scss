@@ -1,6 +1,12 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+.listing-image{
+	width:100%;
+	max-width:100%;
+}
+
 .ride-description{
 	white-space: pre-wrap;
 }
+
