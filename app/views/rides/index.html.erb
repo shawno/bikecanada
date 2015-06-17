@@ -10,20 +10,15 @@
   <h2><%= link_to ride['name'], ride_path(:id => ride['id']) %></h2>
   
   <% ride_date = DateTime.parse(ride['start_date_local']) %>
-  <% ride_duration = Time.at(ride['moving_time']).utc %>
   <p><%= ride_date.strftime("Ridden on %A, %B %e, %Y") %></p>
  
   <ul>
   	<li>Start Time: <%= ride_date.strftime("%l:%M %P") %></li>
-  	<li>Riding Time: 
-  		<% if ride_duration.hour > 0 %>
-  			<%= ride_duration.strftime('%k hours, ') %>
-  		<% end %>
-  		<%= ride_duration.strftime('%M minutes') %>
-  	</li>
-  	<li>Distance: <%= (ride['distance']/1000).round(1) %> KM</li>
+  	<li>Riding Time: <%= format_time_h_mm(ride['moving_time']) %></li>
+  	<li>Distance: <%= format_km(ride['distance']) %></li>
   </ul>
-  
+
+  <%= link_to 'See ride details', ride_path(:id => ride['id']) %>  
   <hr />
 <% end %>
 

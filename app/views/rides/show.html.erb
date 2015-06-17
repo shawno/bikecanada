@@ -11,18 +11,30 @@
 
 <h2>Ride Stats</h2>
 <ul>
-  	<li>Distance: <%= @ride['distance'] %> meters</li>
-  	<li>Riding Time: <%= @ride['moving_time'] %> seconds</li>
-  	<li>Total Time: <%= @ride['elapsed_time'] %> seconds</li>
-  	<li>total_elevation_gain: <%= @ride['total_elevation_gain'] %> meters</li>
-  	<li>start_latlng: <%= @ride['start_latlng'] %></li>
-  	<li>end_latlng: <%= @ride['end_latlng'] %></li>
-  	<li>average_speed: <%= @ride['average_speed'] %></li>
-  	<li>max_speed: <%= @ride['max_speed'] %></li>
-  	<li>average_temp: <%= @ride['average_temp'] %></li>
-  	<li>average_watts: <%= @ride['average_watts'] %></li>
-  	<li>kilojoules: <%= @ride['kilojoules'] %></li>
-  	<li>average_heartrate: <%= @ride['average_heartrate'] %></li>
-  	<li>max_heartrate: <%= @ride['max_heartrate'] %></li>
+    <li>Distance: <%= format_km(@ride['distance']) %></li>
+    <li>Elevation Gain: <%= @ride['total_elevation_gain'].round() %> m</li>
+  	<li>Riding Time: <%= format_time_h_mm(@ride['moving_time']) %></li>
+  	<li>Total Time: <%= format_time_h_mm(@ride['elapsed_time']) %></li>
+   
+  	<li>Average Speed: <%= format_speed(@ride['average_speed']) %></li>
+  	<li>Top Speed: <%= format_speed(@ride['max_speed']) %></li>
+
+    <li>Average Temperature: <%= @ride['average_temp'] %><%= raw ' &deg;C' %></li>
+    <li>Average Power: <%= @ride['average_watts']%> W</li>
+    <li>Energy Burned: <%= @ride['calories']%> Calories</li>
+    <li>Average Cadence: <%= @ride['average_cadence']%> revolutions/minute</li>
+
+
+    <li>Average Heart Rate: <%= @ride['average_heartrate']%> beats/minute</li>
+    <li>Peak Heart Rate: <%= @ride['max_heartrate']%> beats/minute</li>
+
+
+    <li>start_latlng: <%= @ride['start_latlng'] %></li>
+    <li>end_latlng: <%= @ride['end_latlng'] %></li>
+    
 </ul>
+
+<%= link_to 'See more ride details on Strava', 
+            'https://www.strava.com/activities/' + @ride['id'].to_s,
+            :target => "_blank" %> 
 
