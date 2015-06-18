@@ -14,11 +14,13 @@
     <%= render 'layouts/analytics' %>
   </head>
   <body>
-	  <%=	render 'layouts/unsupported_browser' %>
-    <%=	render 'layouts/header' %>
-    
-    <div class="container">
-      <%= yield %>
+    <div class="page-content">
+  	  <%=	render 'layouts/unsupported_browser' %>
+      <%=	render 'layouts/header' %>
+      
+      <div class="container">
+        <%= yield %>
+      </div>
     </div>
 
     <%= render 'layouts/footer' %>

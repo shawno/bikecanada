@@ -6,6 +6,17 @@ p{
 	max-width: 50em;
 }
 
+.nerd{
+	font-family: $font-family-monospace;
+	border: 15px inset #ccc;
+	padding: 1em;
+	color: #09D009;
+	background: black;
+	margin-bottom: 2em;
+	a:hover, a:active, a:focus{
+		color:#fff;
+	}
+}
 
 header, footer{
 	background: #444;
@@ -62,8 +73,36 @@ header{
 	}
 }
 
+/**
+ * Sticky Footer
+ * From http://css-tricks.com/snippets/css/sticky-footer/
+ */
+$footer-height: 4em;
+
+html, body{
+	height: 100%;
+}
+
+.page-content{
+	min-height: 100%;
+	margin-bottom: (-1 * ($footer-height));
+
+	&:after{
+		content:"";
+		display: block;
+	};
+}
+
+.page-content:after{
+	height: $footer-height;
+}
+
 footer{
+	height: $footer-height;
 	a, a:hover, a:active, a:focus{
 		text-decoration: underline;
+	}
+	.container{
+		padding-top:1em;
 	}
 }
