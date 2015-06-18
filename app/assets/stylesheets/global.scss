@@ -2,10 +2,10 @@ img{
 	max-width: 100%;
 }
 
-header{
+header, footer{
 	background: #444;
 	padding: 0.3em 0;
-	
+	color: $gray-lighter;
 	a{
 		color: $gray-lighter;
 		&:hover, &:active, &:focus, .selected{
@@ -13,7 +13,9 @@ header{
 			text-decoration: none;
 		}	
 	}
-	
+}
+
+header{
 	.logo{
 		float:left;
 		text-align: center;
@@ -46,5 +48,11 @@ header{
 				}
 			}
 		}
+	}
+}
+
+footer{
+	a, a:hover, a:active, a:focus{
+		text-decoration: underline;
 	}
 }
