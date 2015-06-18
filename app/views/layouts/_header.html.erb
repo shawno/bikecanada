@@ -1,9 +1,12 @@
 <header>
   <div class="container">
-    <%= link_to "Site Logo", root_path, class: "logo" %>
+    <%= link_to root_path, class: 'logo' do %>
+      <%= image_tag('logo144.png', :alt => 'Bike Canada Logo') %>
+      <span>Bike Canada</span>
+    <% end %>
     <nav>
       <ul>
-        <li><%= link_to "All Rides/Home", root_path %></li>
+        <li><%= link_to "All Rides", root_path %></li>
         <li><%= link_to "About", about_path %></li>
         <li><%= link_to "Gear", gear_path %></li>
       </ul>
