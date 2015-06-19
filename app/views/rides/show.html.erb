@@ -2,10 +2,11 @@
 
 <% ride_date = DateTime.parse(@ride['start_date_local']) %>
 
+</div> <!-- close container -->
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?size=500x200&path=weight:3%7Ccolor:red%7Cenc:<%= @ride['map']['summary_polyline'] %>">
+<img class="hero-map" src="https://maps.googleapis.com/maps/api/staticmap?size=640x200&scale=2&path=weight:3%7Ccolor:red%7Cenc:<%= @ride['map']['summary_polyline'] %>">
 
-
+<div class="container">
 <h1><%= @ride['name'] %></h1>
 <p class="ride-description"><%= @ride['description'] %></p>
 
@@ -14,30 +15,29 @@
 <% end %>	
 
 <h2>Ride Stats</h2>
-<ul>
-    <li>Distance: <%= format_km(@ride['distance']) %></li>
-    <li>Elevation Gain: <%= @ride['total_elevation_gain'].round() %> m</li>
-    <li>Start Time: <%= ride_date.strftime("%l:%M %P") %></li>
-  	<li>Riding Time: <%= format_time_h_mm(@ride['moving_time']) %></li>
-  	<li>Total Time: <%= format_time_h_mm(@ride['elapsed_time']) %></li>
+<table class="table table-responsive table-striped">
+    <tr><td>Distance</td><td><%= format_km(@ride['distance']) %></td>
+    <tr><td>Elevation Gain</td><td><%= @ride['total_elevation_gain'].round() %> m</td>
+    <tr><td>Start Time</td><td><%= ride_date.strftime("%l:%M %P") %></td>
+  	<tr><td>Riding Time</td><td><%= format_time_h_mm(@ride['moving_time']) %></td>
+  	<tr><td>Total Time</td><td><%= format_time_h_mm(@ride['elapsed_time']) %></td>
    
-  	<li>Average Speed: <%= format_speed(@ride['average_speed']) %></li>
-  	<li>Top Speed: <%= format_speed(@ride['max_speed']) %></li>
+  	<tr><td>Average Speed</td><td><%= format_speed(@ride['average_speed']) %></td>
+  	<tr><td>Top Speed</td><td><%= format_speed(@ride['max_speed']) %></td>
 
-    <li>Average Temperature: <%= @ride['average_temp'] %><%= raw ' &deg;C' %></li>
-    <li>Average Power: <%= @ride['average_watts']%> W</li>
-    <li>Energy Burned: <%= @ride['calories']%> Calories</li>
-    <li>Average Cadence: <%= @ride['average_cadence']%> revolutions/minute</li>
-
-
-    <li>Average Heart Rate: <%= @ride['average_heartrate']%> beats/minute</li>
-    <li>Peak Heart Rate: <%= @ride['max_heartrate']%> beats/minute</li>
+    <tr><td>Average Temperature</td><td><%= @ride['average_temp'] %><%= raw ' &deg;C' %></td>
+    <tr><td>Average Power</td><td><%= @ride['average_watts']%> W</td>
+    <tr><td>Energy Burned</td><td><%= @ride['calories']%> Calories</td>
+    <tr><td>Average Cadence</td><td><%= @ride['average_cadence']%> rpm</td>
 
 
-    <li>start_latlng: <%= @ride['start_latlng'] %></li>
-    <li>end_latlng: <%= @ride['end_latlng'] %></li>
-    
-</ul>
+    <tr><td>Average Heart Rate</td><td><%= @ride['average_heartrate']%> bpm</td>
+    <tr><td>Peak Heart Rate</td><td><%= @ride['max_heartrate']%> bpm</td>
+
+
+    <tr><td>start_latlng</td><td><%= @ride['start_latlng'] %></td>
+    <tr><td>end_latlng</td><td><%= @ride['end_latlng'] %></td>
+</table>
 
 <%= link_to 'See more ride details on Strava', 
             'https://www.strava.com/activities/' + @ride['id'].to_s,
