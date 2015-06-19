@@ -1,25 +1,17 @@
-<h1>Listing Rides</h1>
-
+<ul class="ride-list">
 <% @rides.each do |ride| %>
-
-  <!-- Google static maps API -->
-  <img src="https://maps.googleapis.com/maps/api/staticmap?size=620x320&path=weight:5%7Ccolor:blue%7Cenc:<%= ride['map']['summary_polyline'] %>"
-  alt="Google Map of the ride"
-  class="listing-image">
-
-  <h2><%= link_to ride['name'], ride_path(:id => ride['id']) %></h2>
-  
   <% ride_date = DateTime.parse(ride['start_date_local']) %>
-  <p><%= ride_date.strftime("Ridden on %A, %B %e, %Y") %></p>
- 
-  <ul>
-  	<li>Start Time: <%= ride_date.strftime("%l:%M %P") %></li>
-  	<li>Riding Time: <%= format_time_h_mm(ride['moving_time']) %></li>
-  	<li>Distance: <%= format_km(ride['distance']) %></li>
-  </ul>
 
-  <%= link_to 'See ride details', ride_path(:id => ride['id']) %>  
-  <hr />
+  <%= link_to ride_path(:id => ride['id']) do %>
+    <li class="ride-list-item btn btn-default btn-block">
+      <h2><%= ride_date.strftime("%A, %B %e") %></h2>
+      <h3><%= link_to ride['name'], ride_path(:id => ride['id']) %></h3>
+      <div class="mini-stats">
+        <span><%= format_km(ride['distance']) %></span>
+        <span><%= format_time_h_mm(ride['moving_time']) %></span>
+      </div>
+    </li>
+  <% end %>
+
 <% end %>
-
-<br>
+</ul>

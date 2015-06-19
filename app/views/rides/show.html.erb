@@ -1,6 +1,10 @@
 <% provide(:title, @ride['name']) %>
 
+<% ride_date = DateTime.parse(@ride['start_date_local']) %>
+
+
 <img src="https://maps.googleapis.com/maps/api/staticmap?size=500x200&path=weight:3%7Ccolor:red%7Cenc:<%= @ride['map']['summary_polyline'] %>">
+
 
 <h1><%= @ride['name'] %></h1>
 <p class="ride-description"><%= @ride['description'] %></p>
@@ -13,6 +17,7 @@
 <ul>
     <li>Distance: <%= format_km(@ride['distance']) %></li>
     <li>Elevation Gain: <%= @ride['total_elevation_gain'].round() %> m</li>
+    <li>Start Time: <%= ride_date.strftime("%l:%M %P") %></li>
   	<li>Riding Time: <%= format_time_h_mm(@ride['moving_time']) %></li>
   	<li>Total Time: <%= format_time_h_mm(@ride['elapsed_time']) %></li>
    
