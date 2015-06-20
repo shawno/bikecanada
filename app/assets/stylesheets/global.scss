@@ -63,6 +63,9 @@ header{
 				&:last-child{
 					padding-right:0;
 				}
+				a{
+					text-decoration: underline;
+				}
 			}
 		}
 		@media (min-width: 500px) {
