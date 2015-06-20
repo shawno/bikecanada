@@ -4,8 +4,8 @@
 
   <%= link_to ride_path(:id => ride['id']) do %>
     <li class="ride-list-item btn btn-default btn-block">
-      <h2><%= ride_date.strftime("%A, %B %e") %></h2>
-      <h3><%= link_to ride['name'], ride_path(:id => ride['id']) %></h3>
+      <h3><%= ride_date.strftime("%A, %B %e") %></h3>
+      <h1><%= link_to ride['name'], ride_path(:id => ride['id']) %></h1>
       <div class="mini-stats">
         <span><%= format_km(ride['distance']) %></span>
         <span><%= format_time_h_mm(ride['moving_time']) %></span>
