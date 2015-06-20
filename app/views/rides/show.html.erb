@@ -34,12 +34,16 @@
     <tr><td>Average Heart Rate</td><td><%= @ride['average_heartrate']%> bpm</td>
     <tr><td>Peak Heart Rate</td><td><%= @ride['max_heartrate']%> bpm</td>
 
-
+<!-- 
     <tr><td>start_latlng</td><td><%= @ride['start_latlng'] %></td>
     <tr><td>end_latlng</td><td><%= @ride['end_latlng'] %></td>
-</table>
+ --></table>
 
 <%= link_to 'See more ride details on Strava', 
             'https://www.strava.com/activities/' + @ride['id'].to_s,
-            :target => "_blank" %> 
+            :target => "_blank", 
+            :class => "btn btn-primary"%>
+
+<br/>
+<br/> 
 

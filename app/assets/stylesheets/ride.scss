@@ -10,12 +10,16 @@
 	margin:1em 0;
 	background: #eee;
 	max-width: 50em;
+	white-space: normal;
 
 	&:last-child{
 		border-bottom: none;
 	};
 	h2{
 		font-weight:bold;
+	}
+	h3 a{
+		max-width: 100%;
 	}
 }
 
