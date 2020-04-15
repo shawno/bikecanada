@@ -6,4 +6,4 @@ by [Shawn O'Neill](http://shawno.ca)
 
 #License
 
-Copyright (c) 2015 Shawn O'Neill - See LICENSE for details 
+Copyright (c) 2020 Shawn O'Neill - See LICENSE for details 
