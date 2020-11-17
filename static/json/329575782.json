@@ -1,0 +1,274 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "Day 0 - Part 2: Ferry to the Campsite",
+  "distance": 3447.5,
+  "moving_time": 767,
+  "elapsed_time": 809,
+  "total_elevation_gain": 43,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 329575782,
+  "external_id": "garmin_push_809960363",
+  "upload_id": 373155275,
+  "start_date": "2015-06-20T22:37:27Z",
+  "start_date_local": "2015-06-20T15:37:27Z",
+  "timezone": "(GMT-08:00) America/Vancouver",
+  "utc_offset": -25200,
+  "start_latlng": [
+    48.687074,
+    -123.410896
+  ],
+  "end_latlng": [
+    48.67372,
+    -123.425524
+  ],
+  "location_city": null,
+  "location_state": "British Columbia",
+  "location_country": "Canada",
+  "start_latitude": 48.687074,
+  "start_longitude": -123.410896,
+  "achievement_count": 0,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a329575782",
+    "polyline": "eedhHbufpVdC_@bCYr@?j@LVJt@r@\\f@~D`HdClE?ZC?y@eAg@w@Wy@Ri@zBgENSRK`@Cb@HXNBT?VOjCClAKx@@^VpALf@xAtCz@~ApApCpE~Kb@t@BZRVVp@\\pA|@`CjA|C\\l@T`ApAbDhAnDt@jBf@n@LXD\\xAhD\\`Ad@nBT`@LFRA`Ao@`@g@xAgDFIb@_@r@WtASx@IjACrAMvAk@rAeAp@{@n@kATg@jDqLCMCAKRUbAiBpGa@jAe@fAa@p@w@z@q@d@cAd@GNENARBvCM~AEFaA@KCGFYN",
+    "resource_state": 3,
+    "summary_polyline": "eedhHbufpV`K_@tKfRyBwD~CeGrBHJzMjd@jiAjGcHnOyD~GoRwEzNwEhEQzGuB\\"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "373155275",
+  "average_speed": 4.495,
+  "max_speed": 8.9,
+  "average_temp": 20,
+  "average_watts": 120,
+  "kilojoules": 92.1,
+  "device_watts": false,
+  "has_heartrate": true,
+  "average_heartrate": 126.9,
+  "max_heartrate": 149,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 43.8,
+  "elev_low": 19,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 5,
+  "description": "That's about it for the first day. Simon and I arrived smoothly, and set up shop before 4:00 pm.\n\nRich will be meeting us here in a couple of hours, and Paul is en route from St. John's. We'll ride to the airport to meet him later this evening, blinky light style.\n\nThe trip is starting to feel real now. I got my first fly bite on my foot as I wrote this.\n\nSeems like reseating the battery in my power meter did the trick... Hopefully that doesn't happen again.",
+  "calories": 102.6,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 23328866752,
+      "resource_state": 2,
+      "name": "Tryon to Macdonald (watch the gate)",
+      "activity": {
+        "id": 329575782,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2015-06-20T22:41:42Z",
+      "start_date_local": "2015-06-20T15:41:42Z",
+      "distance": 1208.9,
+      "start_index": 90,
+      "end_index": 163,
+      "device_watts": false,
+      "average_watts": 93.1,
+      "average_heartrate": 114.8,
+      "max_heartrate": 131,
+      "segment": {
+        "id": 14675994,
+        "resource_state": 2,
+        "name": "Tryon to Macdonald (watch the gate)",
+        "activity_type": "Ride",
+        "distance": 1208.9,
+        "average_grade": -1.2,
+        "maximum_grade": 1.7,
+        "elevation_high": 23.4,
+        "elevation_low": 4.8,
+        "start_latlng": [
+          48.682479,
+          -123.413413
+        ],
+        "end_latlng": [
+          48.676021,
+          -123.425908
+        ],
+        "elevation_profile": null,
+        "start_latitude": 48.682479,
+        "start_longitude": -123.413413,
+        "end_latitude": 48.676021,
+        "end_longitude": -123.425908,
+        "climb_category": 0,
+        "city": "North Saanich",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1013.5,
+      "elapsed_time": 260,
+      "elevation_difference": 4.6,
+      "moving_time": 260,
+      "split": 1,
+      "average_speed": 3.9,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.63888888888889,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.6,
+      "elapsed_time": 152,
+      "elevation_difference": -5.8,
+      "moving_time": 152,
+      "split": 2,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.16447368421052,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 212,
+      "elevation_difference": -2.2,
+      "moving_time": 193,
+      "split": 3,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.0880829015544,
+      "pace_zone": 0
+    },
+    {
+      "distance": 444.5,
+      "elapsed_time": 185,
+      "elevation_difference": 24,
+      "moving_time": 162,
+      "split": 4,
+      "average_speed": 2.74,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.35220125786162,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1616.2,
+      "elapsed_time": 345,
+      "elevation_difference": -3,
+      "moving_time": 345,
+      "split": 1,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 126.32640949554896,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618,
+      "elapsed_time": 321,
+      "elevation_difference": 0.6,
+      "moving_time": 302,
+      "split": 2,
+      "average_speed": 5.36,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 123.4635761589404,
+      "pace_zone": 0
+    },
+    {
+      "distance": 217.8,
+      "elapsed_time": 143,
+      "elevation_difference": 23,
+      "moving_time": 120,
+      "split": 3,
+      "average_speed": 1.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.64102564102564,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1045761922,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 329575782,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 817,
+      "moving_time": 817,
+      "start_date": "2015-06-20T22:37:27Z",
+      "start_date_local": "2015-06-20T15:37:27Z",
+      "distance": 3452,
+      "start_index": 0,
+      "end_index": 273,
+      "total_elevation_gain": 43,
+      "average_speed": 4.23,
+      "max_speed": 8.9,
+      "device_watts": false,
+      "average_watts": 120,
+      "average_heartrate": 126.9,
+      "max_heartrate": 149,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": {
+      "id": null,
+      "unique_id": "F806BB96-5FBA-4DF9-862C-46F667DFCD59",
+      "urls": {
+        "100": "https://dgtzuqphqg23d.cloudfront.net/1etrqhOzwsdgjz0yCdOzRwn0Zn1WDq4YfwEclYlQUyc-128x96.jpg",
+        "600": "https://dgtzuqphqg23d.cloudfront.net/1etrqhOzwsdgjz0yCdOzRwn0Zn1WDq4YfwEclYlQUyc-768x576.jpg"
+      },
+      "source": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "cefc5e536eb7f47ac37cd3e57010866b1726fa4d",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

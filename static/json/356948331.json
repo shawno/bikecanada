@@ -1,0 +1,5933 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "Zig zag to Ottawa",
+  "distance": 107477,
+  "moving_time": 16910,
+  "elapsed_time": 33972,
+  "total_elevation_gain": 391,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 356948331,
+  "external_id": "garmin_push_848760596",
+  "upload_id": 403860376,
+  "start_date": "2015-07-29T10:54:43Z",
+  "start_date_local": "2015-07-29T06:54:43Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400,
+  "start_latlng": [
+    45.531208,
+    -76.682294
+  ],
+  "end_latlng": [
+    45.435108,
+    -75.692689
+  ],
+  "location_city": "Renfrew",
+  "location_state": "Ontario",
+  "location_country": "Canada",
+  "start_latitude": 45.531208,
+  "start_longitude": -76.682294,
+  "achievement_count": 2,
+  "kudos_count": 4,
+  "comment_count": 2,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a356948331",
+    "polyline": "_y{tGj_`sMV@LLzAjCx@fBZb@j@lAv@lA\\v@v@tAn@nATh@@PANSf@cB`CeAzAUR{DzFuIrLcIfLaAnAGDM?KEa@{@uGoKyDsGm@iAuCwGyAmCiSq\\kBwCeCcEwKiQaAmBcAmCs@kC{AyHU_AcA}CiAoCeDsFqDyFc@k@u@q@s@a@gAa@eAQMKGSCcBIq@OeAU{@k@oAmB{C_@q@]y@Y_A]kBKmAEwBBoAlCe_@dAaOR_CLy@bEySf@mBb@oAbCsGr@}AfLsPxA{B`EcIv@eAb@a@tDyCrGqF|AgA`A]`FmAjA_@d@Sz@g@jDoCtAkAp@q@~@aA`AkAjGaJbBkCdAuBz@uBrGmQ`AyCLq@PgArCoVXqA^mAf@iAp@cAh@o@hAeAt@u@^g@n@cAvFiM`JuQb@iAZaAPy@Lw@JkAFiA^eXRoJP{BReBdBuJRiBDiABmBCiAWoEs@cLWiGCuA?kBBaBTeIvAq_@h@sPJoBToBP}@d@aBlIcTPg@jHaRdEeKnBoEvAuCfEcIn@sA`AgCr@oCj@cDtBoP`AaGxEoXbFsXrAgITgCDqBByBDaMCiDKwGAwBDqCLuCTkCVqBXyA|AcIn@wChA}DlAoDrFmNxBsFb@}@Vc@dAwAbNcOzCqCtJmIpAqAnBwBjA{Af@{@Xs@`@}ATcAPuBT}TDqBJwDNsBLcAXoAf@eBfG}PtAeErCaKTiAVqBJkB@eAAw@Cw@YwCgAoIKyAEeA@yAF_ANoA\\uAd@gA^q@rFiGbAmAz@mAf@gAVy@Di@Pq@nA}AR[r@w@vEmGbBoBlAkBTUFOvAoBzCqEfDuEn@eAl@{@pNgRlFaHxCeEhCiDvAuBdCgDd@u@fB_C`LsOvYma@tE{GhCsDj@}@DYCWe@qAOy@KiACw@DaBPsAVoAtAuGzAuGzBcJTiAb@wCN_BNqBJ_DBoDQsX@uC@eA`@_EL{@^wAb@gA`GuNx@cCp@iC\\cBVoBXaDr@mJPiBfA_I^{Bv@mDXeAlAiDbAaEZgBl@aGVgBPkA\\oA~BiGf@kBR_AT}AV_Cz@iJPuAb@}Bd@uBpAqE|EmQf@sBXyARiARaBLsAHyADeAd@_TD_ANuA\\kBVaAh@wAjB{Df@iAf@_Bl@kCTmATcBzAgNlBkNZwCFoB@w@EsBKeBUuBy@uGe@aCU}@]cAmAeCoFkJi@y@wEeImDmHES@KBKRS`@Yb@StCsBhBgANMxCeEfF{FlDsDvCmDhCqC~@iAf@g@~E_DrDqCpDyCbOsKfLgIvBaBtA{AnAgBlAwB`AaC`@oA^uA~AoGlAsElSkp@h@iB`@cBTuAP}Ad@uHRoEd@ePHyAP}APeAh@kBd@iAj@eAzQkZjDwHx@qBh@_AjHcPDAD@JPBAWa@?QBE^g@`@w@zGqNp@oACi@BkACu@Ii@Fo@@m@Z}GH}Dj@cMZsDj@kMN{CLwATqAd@_BdMkb@lFyOtAiE\\kAz@kEz@qFpA_HfCiLvA_HrE}SfDePd@sC|@{HrAyNh@iHdCeWnBsTxCs[ZcC`@kCf@aCZqAh@kBrAuDfA}BtAaCdA}ApYy`@lLcQxOmUpDgFvFyIb@{@vBgDBM?]Oy@@CP@FGLc@Xi@J[@[GQ{DiHeAwBkRg^_DgGmPwZ}@eBoHeNkG}KcDwFuAyBgIkL_ImLmIwNKYE?ADBNf@bAJFHANMNOrAmB`BgDf@w@RSh@]l@Ml@CdAFVARIXWz@wA~@uB\\gAlA_FHm@?i@MmAO}@Eq@Be@DSJQPQVIvAGb@GR?rAQ`@Qh@m@NWZ_@nAkBbE{Ft@gAr@mAVYJQXYlFmH`HwJrOiTzCaEtDmFnGwIx@mAxAmBZe@Z]~@mApByCxHwKrCwDbKyNnAkBXq@TUKWA[fA_LNy@x@oGb@aEnAgPzAqQ`@uFXkDJaBZmDT_EH{C?_BOcDmCg\\UkBIeAEsBLwIAwBDm@HSzA_ChBeCTW`E_Gv@aAd@]lAu@xFaDxBsAx@m@z@cAj@gAb@qALk@ZqBZyDLo@Pk@Ve@V_@h@m@fD_FtBkCPQp@cAJSEOQa@SS_CwEcFwJuTib@oAeCsG_MoB{DuD{GsFgKiKaS}GkMGSs@kA[s@[g@cAuBgAiBmGgLM]AOBc@P[jCoD~JwNvIyLlVu]~\\me@nLcPnDeFjO{SjEkGlCqDv@kAfH_KlGqIrByClm@gz@zCoE~Tg[tGkJhFiH`AoAfDwExAyBbEwFh@cARm@hAgErC}JXq@h@}@lJqL`DgEbD{Dfa@ch@jDaExAkB~AiB~@kApH_JlTeVjHkI`McO~MuPz_@{f@`_AqmA`Ye^jHuJrTsYX[VIAGJW`@g@AKEO{@oAmB_D{l@kdAcMyU}KcTkOgYoAcCiDmGS]O_@g@w@qDyGiBaD}DiH_OaWsAeCcCeEmGaLg@cA@Wl@}Dv@oHZ{BhAeGr@mEjDuR`EcTPkAFeA?i@QuBq@yFIuCA_CSsS@aBKqE?o@@e@KmACgA\\qFBeAEsAKeAU{AgAkDq@oDm@wBG_@M_@E[w@_DCYEwA_@mH@sAJq@Pm@`AgCZqAJq@Fy@E{@i@iCWy@{CgNaA}Fc@mBM_@kAmBaAiB}A_DUg@k@iBiAsCOe@SwASyCc@cEU}@gAiCMs@CQ?w@LsB?mAMwBMeAWqA_@mA_@w@wHaMk@eAMc@EQA}@@iJGy@YgAUk@s@mASg@cAcBeAsB_DwFUi@aDgGkCqFgQk[aBcDuAcCc@_A_BmCcBgDk@{AYgAMm@QkAWkDQoA]gAuA_ESu@E_@Cq@?m@AM]OOIGKg@w@]w@KM?KFOKMKEM@UFw@~@K?IIIY?KBEJXSSAJ@DTb@@PId@U^CLF?PIb@c@~BcDrAeBbBgCzBqDjBeCd@w@~A{B`D_EbAiAhEoFpEmG~GgJT_@n@yAfAeBdCiDJYHIFQDe@Ek@s@gBUs@UmAOoAAg@FqAb@mDJcBAk@E}@Gi@Q{@Wu@aAsBs@sAk@y@_A{@_D}Bg@o@s@oA]{@Oq@s@aFG}@?{@@g@L{Ab@{BXiAhLy]v@oCdCuJZy@h@_AlDgFnBmCjAeBdAoAx@q@p@a@bLoF|Ay@lAi@lDoBz@_@|@e@nAy@jAq@bGuC~@m@^QFODU@]MwBYyES_CScBe@sC_@mBg@wB}@_DqEwMeDyJAOBOHKTIlB{@FGFM@OAe@aAuCg@cB_@cACU@[FKRMh@KPIh@g@JWA}GKyA_@{Bc@gBk@gASWa@WUKWCsA@WAWEm@U_@S[UGKM_@Gc@@SHe@xA{DbAoD^aBJq@HwDHq@L]Zg@n@g@TU\\g@R]Tu@PsAJa@`@cANS\\WTMzAm@\\Wd@q@r@cBBS?SE}AYsF?mBCkAa@gIk@sKEe@WmBo@qLM_DGyC_@eLKuBg@wNQeEO}EIwBIkDc@wHa@yLm@gOM_F[mGAs@GQWOGIO_@IoBDe@DQHMfFeC|@o@`@e@d@_AXmAJ}@B}@?i@IkA]_BMYEW@GR]B[KeCSgCOaAa@wAw@uAe@kAOy@KwA?sACi@GO_@g@Q_@e@eBM]SYo@g@Q_@EQCe@@SZ_ALo@?_@Me@COD[JWFGr@YDODa@AKM{@K]Se@EQq@_AM[Ia@Ca@@s@\\oBAe@EQEMUSe@Kg@OIMIOCQAS@c@VgBDg@?g@C}@OgBYaCaAyGKmAGcBA}@IeBQ_BUgAGqAEg@Uq@]i@kEkD{BoBOGE@OPI@q@_@a@]OYEm@_@c@IGa@g@_CqBoBqBmAaASUqG{Fy@_AyAqASUWe@MCQFq@d@GCe@iAy@uAs@o@iCmCeA}@SU_FwE}AsAyAwAuAiAeDwCoAoA{AaBe@a@eBeBu@o@{@{@g@a@_@c@wCgC}DcDc@c@mAwAcBeBg@q@c@u@gBeC{AgCu@kAgAmBuC}Fe@kAGa@CgAWgAMu@GSKOWOk@K_@SKIQ[oAgCgB}Di@eAe@kAiBwDwB_FsEmJeB_EsAiD}@mBi@_By@qAUQ[GK?g@LM@MAWQm@q@w@_@k@KsBIYKYSUY]i@wBkEYq@e@wAuBuIUo@O]S[mAeA]c@k@mAmB{A_Ai@i@S}A[YOoBeB{@yAmAy@UUSYYi@]]o@YiA[{AWs@Kg@KYMq@[y@q@a@_@q@aAk@kAUo@UgAWqBKaBMeLKwASaAg@cBuAwC]o@u@cAeAgAaB}As@u@mFoHs@{@y@u@iAy@g@WeA_@g@]_AwAm@m@y@w@oBcCk@{@iB_Do@_AqAyAw@m@@QASaAkAMe@\\_@BIUs@Mi@CSFo@?a@@Ij@_@dEqBHS@YSgAASBGlAs@x@_@FIFQC]wB}EYc@[s@g@sAE[?QI[u@AKaAe@wAeAsCaAcCUu@g@oAsByFaCsHOy@YkAoAcEaBwEwC_Ja@_AIMGq@qB}FsAkESe@mAiDQw@e@cC[wBm@sEQiBWaBGo@BSCN@RCBI?KBqAv@mD|Ac@JYTeAl@uDjB[HUJcExBs@Z{EhC_Bt@sEhCg@P_CfAGAEGEIe@mCaAoEECGAQ?UFg@RI@IAqCoBYWg@q@QIQ@[Ra@VMNk@jAa@fAiBjEGDGGq@uAMc@IqBIy@GYSg@K]QsASu@}@gCuB}HYq@]c@USkAo@_@_@IKK]Iq@?QF_@NYV]xC{B`A{@TKl@MNKLQj@eB\\w@Ja@f@oELcB?iDEs@MwAAMKQMMUKKO[s@GWGgA@_ACe@i@kCK}@Q{DEwCCc@{@wGw@}HOy@[eAKYiAwBm@k@w@eAa@Qg@KcAM_AA_BVuAj@YF_AJs@?[CaAMe@UUS]a@}@uA]u@_@yAc@a@EM}A}GGa@?a@Fk@Tg@Gk@Kc@EEi@@IEGSH{D?k@WgDCMu@aBA[F_AEm@?MDIz@_ADCB?FGPwA?w@Gi@kAqEKGKDMVC`@CJw@hAGFGBICQQc@[cAw@{@UOIi@c@u@s@kAqAk@y@Mc@I}AWwAWmBIWMOqAa@YYEKw@mEYuCSgAY_Ay@qB]uBQo@GKYa@SKUEcC[qBEQE[Oc@a@m@iAeAmCOk@AMCo@C{B@_ADo@Dc@J]JWLO\\s@D]Ai@B_@lA{C^k@TUjAeBL[D[VeAj@iA^oALIHSX{@`@aANWBEDBBDB`@IjBGJOJCHGDs@BYAk@MWQSUS_@Qc@eAcDIKIGK?MDk@\\w@v@U\\GAEEQu@_@}@Y_AMmAOc@YkAQi@Yq@k@cAeA_DECEMGESCI@]`@u@n@YPc@TW\\q@r@g@b@aAr@{@z@{BbBqBdBqB|AaBtA}AjAsCdCIBIAIIGKKm@]uAy@oCo@eCg@kAEESCG@eAj@I@",
+    "resource_state": 3,
+    "summary_polyline": "_y{tGj_`sMvMlVmc@`m@c`Ag`BaM{`@yRaT}Iu^|LklA~^ir@he@mYxRyVvMs]lFi_@l^qq@lGidAgBwf@|DmeA~l@izAtVa{Af@ws@~Gq^vNs^ll@op@lByi@`Rwn@s@if@`qCw{D}@aLpLgn@b@_p@~L_^|Fig@hb@coB`Cue@hIwVpG}g@sCm]oWcg@fh@_i@hr@ig@tH}Lh]ckA~Eiq@`s@uuArDgaAbZmaAdXkrArVe`CdwAk}B_lByfDdRqJfFuNCaJxI}B|lBylCvMgbBqDo}@|`@o`@tDmQfMiQecBicD|~FmhI~IgXlfHu~IiwC_lFhSaoA_BofAgIqg@jCuPcIw_@uKcVaFme@qLqTg@{Pst@_uAcHe^wCsEkCtDv|@{mA{Ag^uNqRiBiMpUcz@rO}Svl@s[sCuY}Mib@`DwCoCyJnCkCm@sN_MeKvFaYdOyUaQ{wD|IaHnAsHqAoRiJyYlBsKkF{RgDil@ioBuhBkx@caBsMeDsPq_@wd@{YgHse@uo@yu@I}G~JqLym@weBoDwWwp@l]{BqJwImDeHzKoPkf@lJyIjCsNqJq{@}EuGeVwBeGcVu@yb@uBxC{JsHoNag@gJkBgDeHnAoPtLqWyA~DqFsH{CvBoIsUia@t\\wE}NqBd@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "403860376",
+  "average_speed": 6.356,
+  "max_speed": 15.7,
+  "average_temp": 25,
+  "average_watts": 128.7,
+  "kilojoules": 2176.3,
+  "device_watts": false,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 152,
+  "elev_low": 39,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "We got back into the early rise groove this morning, getting a head start on the heat. We also discovered that we no longer need to ride highway 17, finally! \n\nRiding through Arnprior was quite nice, and we managed to weave our way through the farmland to Kanata by around lunchtime. It was a very strange feeling to roll past the Alcatel buildings, where I worked for three semesters during university. Coming here in 2006 was my first experience living anywhere other than Newfoundland, and it clearly kicked-started something in me to see more of the country.",
+  "calories": 2426.5,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 8499137634,
+      "resource_state": 2,
+      "name": "Castleford to home",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1807,
+      "moving_time": 1683,
+      "start_date": "2015-07-29T11:23:44Z",
+      "start_date_local": "2015-07-29T07:23:44Z",
+      "distance": 10332.4,
+      "start_index": 1733,
+      "end_index": 3416,
+      "device_watts": false,
+      "average_watts": 142.7,
+      "segment": {
+        "id": 7389415,
+        "resource_state": 2,
+        "name": "Castleford to home",
+        "activity_type": "Ride",
+        "distance": 10332.4,
+        "average_grade": 0.4,
+        "maximum_grade": 30.7,
+        "elevation_high": 125.6,
+        "elevation_low": 64.7,
+        "start_latlng": [
+          45.523844,
+          -76.585417
+        ],
+        "end_latlng": [
+          45.476261,
+          -76.480629
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.523844,
+        "start_longitude": -76.585417,
+        "end_latitude": 45.476261,
+        "end_longitude": -76.480629,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137652,
+      "resource_state": 2,
+      "name": "Last Quarter",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1362,
+      "moving_time": 1238,
+      "start_date": "2015-07-29T11:31:12Z",
+      "start_date_local": "2015-07-29T07:31:12Z",
+      "distance": 7506.7,
+      "start_index": 2181,
+      "end_index": 3419,
+      "device_watts": false,
+      "average_watts": 150.4,
+      "segment": {
+        "id": 7311880,
+        "resource_state": 2,
+        "name": "Last Quarter",
+        "activity_type": "Ride",
+        "distance": 7506.7,
+        "average_grade": 0.5,
+        "maximum_grade": 12,
+        "elevation_high": 123.4,
+        "elevation_low": 79,
+        "start_latlng": [
+          45.514018,
+          -76.552672
+        ],
+        "end_latlng": [
+          45.476584,
+          -76.480446
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.514018,
+        "start_longitude": -76.552672,
+        "end_latitude": 45.476584,
+        "end_longitude": -76.480446,
+        "climb_category": 0,
+        "city": "Renfrew",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499137600,
+      "resource_state": 2,
+      "name": "Last uphill",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 549,
+      "moving_time": 549,
+      "start_date": "2015-07-29T11:44:32Z",
+      "start_date_local": "2015-07-29T07:44:32Z",
+      "distance": 3140.9,
+      "start_index": 2857,
+      "end_index": 3406,
+      "device_watts": false,
+      "average_watts": 161.4,
+      "segment": {
+        "id": 5733123,
+        "resource_state": 2,
+        "name": "Last uphill",
+        "activity_type": "Ride",
+        "distance": 3140.9,
+        "average_grade": 0.9,
+        "maximum_grade": 8.1,
+        "elevation_high": 123.4,
+        "elevation_low": 91.6,
+        "start_latlng": [
+          45.496589,
+          -76.507681
+        ],
+        "end_latlng": [
+          45.476043,
+          -76.481265
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.496589,
+        "start_longitude": -76.507681,
+        "end_latitude": 45.476043,
+        "end_longitude": -76.481265,
+        "climb_category": 0,
+        "city": "Braeside",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 69796138544,
+      "resource_state": 2,
+      "name": "McLean to Campbell Drive",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2015-07-29T11:59:04Z",
+      "start_date_local": "2015-07-29T07:59:04Z",
+      "distance": 927.1,
+      "start_index": 3729,
+      "end_index": 3863,
+      "device_watts": false,
+      "average_watts": 96.5,
+      "segment": {
+        "id": 22096605,
+        "resource_state": 2,
+        "name": "McLean to Campbell Drive",
+        "activity_type": "Ride",
+        "distance": 927.1,
+        "average_grade": -0.2,
+        "maximum_grade": 3.3,
+        "elevation_high": 135,
+        "elevation_low": 130.6,
+        "start_latlng": [
+          45.471983,
+          -76.459875
+        ],
+        "end_latlng": [
+          45.469108,
+          -76.448879
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.471983,
+        "start_longitude": -76.459875,
+        "end_latitude": 45.469108,
+        "end_longitude": -76.448879,
+        "climb_category": 0,
+        "city": "Braeside",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 28799633484,
+      "resource_state": 2,
+      "name": "Mohr's E",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 708,
+      "moving_time": 646,
+      "start_date": "2015-07-29T13:16:30Z",
+      "start_date_local": "2015-07-29T09:16:30Z",
+      "distance": 3201.2,
+      "start_index": 6717,
+      "end_index": 7364,
+      "device_watts": false,
+      "average_watts": 130.4,
+      "segment": {
+        "id": 15941880,
+        "resource_state": 2,
+        "name": "Mohr's E",
+        "activity_type": "Ride",
+        "distance": 3201.2,
+        "average_grade": 0.7,
+        "maximum_grade": 9.2,
+        "elevation_high": 77,
+        "elevation_low": 46.8,
+        "start_latlng": [
+          45.42481,
+          -76.255506
+        ],
+        "end_latlng": [
+          45.404233,
+          -76.229008
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.42481,
+        "start_longitude": -76.255506,
+        "end_latitude": 45.404233,
+        "end_longitude": -76.229008,
+        "climb_category": 0,
+        "city": "Arnprior",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 44144760126,
+      "resource_state": 2,
+      "name": "Yucks Eastbound",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 284,
+      "moving_time": 284,
+      "start_date": "2015-07-29T13:31:01Z",
+      "start_date_local": "2015-07-29T09:31:01Z",
+      "distance": 1715.5,
+      "start_index": 7450,
+      "end_index": 7734,
+      "device_watts": false,
+      "average_watts": 105.5,
+      "segment": {
+        "id": 18491893,
+        "resource_state": 2,
+        "name": "Yucks Eastbound",
+        "activity_type": "Ride",
+        "distance": 1715.5,
+        "average_grade": -1.2,
+        "maximum_grade": 6.8,
+        "elevation_high": 123.7,
+        "elevation_low": 101.5,
+        "start_latlng": [
+          45.401931,
+          -76.225362
+        ],
+        "end_latlng": [
+          45.40033,
+          -76.203924
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.401931,
+        "start_longitude": -76.225362,
+        "end_latitude": 45.40033,
+        "end_longitude": -76.203924,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 44531321899,
+      "resource_state": 2,
+      "name": "Loggers Way (Rabbit Path - Kinburn Side Rd)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2015-07-29T13:36:33Z",
+      "start_date_local": "2015-07-29T09:36:33Z",
+      "distance": 1303.6,
+      "start_index": 7782,
+      "end_index": 7975,
+      "device_watts": false,
+      "average_watts": 111.3,
+      "segment": {
+        "id": 18553244,
+        "resource_state": 2,
+        "name": "Loggers Way (Rabbit Path - Kinburn Side Rd)",
+        "activity_type": "Ride",
+        "distance": 1303.6,
+        "average_grade": -0.5,
+        "maximum_grade": 4.7,
+        "elevation_high": 100.6,
+        "elevation_low": 89.8,
+        "start_latlng": [
+          45.400241,
+          -76.199662
+        ],
+        "end_latlng": [
+          45.391893,
+          -76.18882
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.400241,
+        "start_longitude": -76.199662,
+        "end_latitude": 45.391893,
+        "end_longitude": -76.18882,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 42376618686,
+      "resource_state": 2,
+      "name": "DD climb",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 486,
+      "moving_time": 414,
+      "start_date": "2015-07-29T13:46:39Z",
+      "start_date_local": "2015-07-29T09:46:39Z",
+      "distance": 2519.6,
+      "start_index": 8030,
+      "end_index": 8445,
+      "device_watts": false,
+      "average_watts": 168.3,
+      "segment": {
+        "id": 18174698,
+        "resource_state": 2,
+        "name": "DD climb",
+        "activity_type": "Ride",
+        "distance": 2519.6,
+        "average_grade": 0.9,
+        "maximum_grade": 7.6,
+        "elevation_high": 128.6,
+        "elevation_low": 99.4,
+        "start_latlng": [
+          45.39282,
+          -76.186882
+        ],
+        "end_latlng": [
+          45.407761,
+          -76.162688
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.39282,
+        "start_longitude": -76.186882,
+        "end_latitude": 45.407761,
+        "end_longitude": -76.162688,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 49231978010,
+      "resource_state": 2,
+      "name": "Diamondview - Kinburn -> Baird",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 376,
+      "moving_time": 376,
+      "start_date": "2015-07-29T13:54:52Z",
+      "start_date_local": "2015-07-29T09:54:52Z",
+      "distance": 3037.5,
+      "start_index": 8452,
+      "end_index": 8828,
+      "device_watts": false,
+      "average_watts": 151.3,
+      "segment": {
+        "id": 19290410,
+        "resource_state": 2,
+        "name": "Diamondview - Kinburn -> Baird",
+        "activity_type": "Ride",
+        "distance": 3037.5,
+        "average_grade": -0.5,
+        "maximum_grade": 5.1,
+        "elevation_high": 119,
+        "elevation_low": 98,
+        "start_latlng": [
+          45.407657,
+          -76.162184
+        ],
+        "end_latlng": [
+          45.38744,
+          -76.136102
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.407657,
+        "start_longitude": -76.162184,
+        "end_latitude": 45.38744,
+        "end_longitude": -76.136102,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 14844405869,
+      "resource_state": 2,
+      "name": "Diamondview, Kinburn to Munro",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1341,
+      "moving_time": 1341,
+      "start_date": "2015-07-29T13:54:58Z",
+      "start_date_local": "2015-07-29T09:54:58Z",
+      "distance": 10077.5,
+      "start_index": 8458,
+      "end_index": 9799,
+      "device_watts": false,
+      "average_watts": 150.4,
+      "segment": {
+        "id": 12360110,
+        "resource_state": 2,
+        "name": "Diamondview, Kinburn to Munro",
+        "activity_type": "Ride",
+        "distance": 10077.5,
+        "average_grade": 0,
+        "maximum_grade": 6.1,
+        "elevation_high": 114.6,
+        "elevation_low": 86.8,
+        "start_latlng": [
+          45.407285,
+          -76.161755
+        ],
+        "end_latlng": [
+          45.339787,
+          -76.076196
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.407285,
+        "start_longitude": -76.161755,
+        "end_latitude": 45.339787,
+        "end_longitude": -76.076196,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8830802486,
+      "resource_state": 2,
+      "name": "Diamondview SB (Kinburn side to T Dolan)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 687,
+      "moving_time": 687,
+      "start_date": "2015-07-29T13:56:03Z",
+      "start_date_local": "2015-07-29T09:56:03Z",
+      "distance": 5487.2,
+      "start_index": 8523,
+      "end_index": 9210,
+      "device_watts": false,
+      "average_watts": 139.5,
+      "segment": {
+        "id": 10227644,
+        "resource_state": 2,
+        "name": "Diamondview SB (Kinburn side to T Dolan)",
+        "activity_type": "Ride",
+        "distance": 5487.2,
+        "average_grade": -0.5,
+        "maximum_grade": 3.9,
+        "elevation_high": 113.2,
+        "elevation_low": 87.2,
+        "start_latlng": [
+          45.404499,
+          -76.158067
+        ],
+        "end_latlng": [
+          45.367918,
+          -76.111026
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.404499,
+        "start_longitude": -76.158067,
+        "end_latitude": 45.367918,
+        "end_longitude": -76.111026,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 63516766048,
+      "resource_state": 2,
+      "name": "Diamond W; roller to Church",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 200,
+      "moving_time": 200,
+      "start_date": "2015-07-29T13:59:27Z",
+      "start_date_local": "2015-07-29T09:59:27Z",
+      "distance": 1428.4,
+      "start_index": 8727,
+      "end_index": 8927,
+      "device_watts": false,
+      "average_watts": 183.7,
+      "segment": {
+        "id": 21138948,
+        "resource_state": 2,
+        "name": "Diamond W; roller to Church",
+        "activity_type": "Ride",
+        "distance": 1428.4,
+        "average_grade": 0.9,
+        "maximum_grade": 8.3,
+        "elevation_high": 111,
+        "elevation_low": 96,
+        "start_latlng": [
+          45.392497,
+          -76.142634
+        ],
+        "end_latlng": [
+          45.382973,
+          -76.130386
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.392497,
+        "start_longitude": -76.142634,
+        "end_latitude": 45.382973,
+        "end_longitude": -76.130386,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137758,
+      "resource_state": 2,
+      "name": "Diamondview (Dolan to Munro)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 529,
+      "moving_time": 529,
+      "start_date": "2015-07-29T14:08:45Z",
+      "start_date_local": "2015-07-29T10:08:45Z",
+      "distance": 3730,
+      "start_index": 9285,
+      "end_index": 9814,
+      "device_watts": false,
+      "average_watts": 162,
+      "segment": {
+        "id": 7479561,
+        "resource_state": 2,
+        "name": "Diamondview (Dolan to Munro)",
+        "activity_type": "Ride",
+        "distance": 3730,
+        "average_grade": 0.5,
+        "maximum_grade": 5.2,
+        "elevation_high": 106.9,
+        "elevation_low": 88.2,
+        "start_latlng": [
+          45.365036,
+          -76.105491
+        ],
+        "end_latlng": [
+          45.339101,
+          -76.0753
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.365036,
+        "start_longitude": -76.105491,
+        "end_latitude": 45.339101,
+        "end_longitude": -76.0753,
+        "climb_category": 0,
+        "city": "Kinburn",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137776,
+      "resource_state": 2,
+      "name": "Diamondview Munro to March",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 404,
+      "moving_time": 404,
+      "start_date": "2015-07-29T14:18:09Z",
+      "start_date_local": "2015-07-29T10:18:09Z",
+      "distance": 2767,
+      "start_index": 9849,
+      "end_index": 10250,
+      "device_watts": false,
+      "average_watts": 129.2,
+      "segment": {
+        "id": 7846193,
+        "resource_state": 2,
+        "name": "Diamondview Munro to March",
+        "activity_type": "Ride",
+        "distance": 2767,
+        "average_grade": 0.2,
+        "maximum_grade": 0.9,
+        "elevation_high": 78.2,
+        "elevation_low": 72.1,
+        "start_latlng": [
+          45.337715,
+          -76.073612
+        ],
+        "end_latlng": [
+          45.318853,
+          -76.050577
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.337715,
+        "start_longitude": -76.073612,
+        "end_latitude": 45.318853,
+        "end_longitude": -76.050577,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137880,
+      "resource_state": 2,
+      "name": "Old Carp Rd (March to Second Line)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 850,
+      "moving_time": 850,
+      "start_date": "2015-07-29T14:41:14Z",
+      "start_date_local": "2015-07-29T10:41:14Z",
+      "distance": 5094.8,
+      "start_index": 10886,
+      "end_index": 11731,
+      "device_watts": false,
+      "average_watts": 134,
+      "segment": {
+        "id": 5546223,
+        "resource_state": 2,
+        "name": "Old Carp Rd (March to Second Line)",
+        "activity_type": "Ride",
+        "distance": 5094.8,
+        "average_grade": 0.1,
+        "maximum_grade": 8,
+        "elevation_high": 132.2,
+        "elevation_low": 94.7,
+        "start_latlng": [
+          45.342174,
+          -76.011144
+        ],
+        "end_latlng": [
+          45.350257,
+          -75.952007
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.342174,
+        "start_longitude": -76.011144,
+        "end_latitude": 45.350257,
+        "end_longitude": -75.952007,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499137791,
+      "resource_state": 2,
+      "name": "Old Carp Rd (March to Huntmar)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 388,
+      "moving_time": 388,
+      "start_date": "2015-07-29T14:41:19Z",
+      "start_date_local": "2015-07-29T10:41:19Z",
+      "distance": 2096.6,
+      "start_index": 10891,
+      "end_index": 11277,
+      "device_watts": false,
+      "average_watts": 150.7,
+      "segment": {
+        "id": 5546203,
+        "resource_state": 2,
+        "name": "Old Carp Rd (March to Huntmar)",
+        "activity_type": "Ride",
+        "distance": 2096.6,
+        "average_grade": 1.2,
+        "maximum_grade": 8,
+        "elevation_high": 124,
+        "elevation_low": 94.7,
+        "start_latlng": [
+          45.342075,
+          -76.010805
+        ],
+        "end_latlng": [
+          45.340141,
+          -75.985149
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.342075,
+        "start_longitude": -76.010805,
+        "end_latitude": 45.340141,
+        "end_longitude": -75.985149,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137906,
+      "resource_state": 2,
+      "name": "March to March",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1399,
+      "moving_time": 1073,
+      "start_date": "2015-07-29T14:41:19Z",
+      "start_date_local": "2015-07-29T10:41:19Z",
+      "distance": 6633.52,
+      "start_index": 10891,
+      "end_index": 11954,
+      "device_watts": false,
+      "average_watts": 123.6,
+      "segment": {
+        "id": 1573351,
+        "resource_state": 2,
+        "name": "March to March",
+        "activity_type": "Ride",
+        "distance": 6633.52,
+        "average_grade": -0.3,
+        "maximum_grade": 6.3,
+        "elevation_high": 132,
+        "elevation_low": 79.8,
+        "start_latlng": [
+          45.34205834381282,
+          -76.01088934578001
+        ],
+        "end_latlng": [
+          45.35823302809149,
+          -75.93668100424111
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.34205834381282,
+        "start_longitude": -76.01088934578001,
+        "end_latitude": 45.35823302809149,
+        "end_longitude": -75.93668100424111,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137808,
+      "resource_state": 2,
+      "name": "Old Carp Rd. eastbound climb to Huntmar",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 302,
+      "start_date": "2015-07-29T14:42:54Z",
+      "start_date_local": "2015-07-29T10:42:54Z",
+      "distance": 1521.9,
+      "start_index": 10986,
+      "end_index": 11286,
+      "device_watts": false,
+      "average_watts": 158.4,
+      "segment": {
+        "id": 2343500,
+        "resource_state": 2,
+        "name": "Old Carp Rd. eastbound climb to Huntmar",
+        "activity_type": "Ride",
+        "distance": 1521.9,
+        "average_grade": 1.5,
+        "maximum_grade": 5.5,
+        "elevation_high": 131.6,
+        "elevation_low": 109,
+        "start_latlng": [
+          45.340123968198895,
+          -76.00317950360477
+        ],
+        "end_latlng": [
+          45.34014064818621,
+          -75.98464795388281
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.340123968198895,
+        "start_longitude": -76.00317950360477,
+        "end_latitude": 45.34014064818621,
+        "end_longitude": -75.98464795388281,
+        "climb_category": 0,
+        "city": "Carp",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 62365203006,
+      "resource_state": 2,
+      "name": "Old Carp to Trail Entrance",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 457,
+      "moving_time": 457,
+      "start_date": "2015-07-29T14:43:01Z",
+      "start_date_local": "2015-07-29T10:43:01Z",
+      "distance": 2560.9,
+      "start_index": 10993,
+      "end_index": 11447,
+      "device_watts": false,
+      "average_watts": 147.9,
+      "segment": {
+        "id": 20968866,
+        "resource_state": 2,
+        "name": "Old Carp to Trail Entrance",
+        "activity_type": "Ride",
+        "distance": 2560.9,
+        "average_grade": 0.7,
+        "maximum_grade": 5.8,
+        "elevation_high": 130,
+        "elevation_low": 99.9,
+        "start_latlng": [
+          45.339959,
+          -76.002684
+        ],
+        "end_latlng": [
+          45.34215,
+          -75.972187
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339959,
+        "start_longitude": -76.002684,
+        "end_latitude": 45.34215,
+        "end_longitude": -75.972187,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137817,
+      "resource_state": 2,
+      "name": "Old Carp Road",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 504,
+      "moving_time": 504,
+      "start_date": "2015-07-29T14:43:15Z",
+      "start_date_local": "2015-07-29T10:43:15Z",
+      "distance": 2841.98,
+      "start_index": 11007,
+      "end_index": 11508,
+      "device_watts": false,
+      "average_watts": 146.8,
+      "segment": {
+        "id": 1459660,
+        "resource_state": 2,
+        "name": "Old Carp Road",
+        "activity_type": "Ride",
+        "distance": 2841.98,
+        "average_grade": 0.5,
+        "maximum_grade": 5.7,
+        "elevation_high": 124.9,
+        "elevation_low": 96.8,
+        "start_latlng": [
+          45.339739,
+          -76.00158
+        ],
+        "end_latlng": [
+          45.344173,
+          -75.968224
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339739,
+        "start_longitude": -76.00158,
+        "end_latitude": 45.344173,
+        "end_longitude": -75.968224,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499137863,
+      "resource_state": 2,
+      "name": "Old Carp Backhander",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 431,
+      "moving_time": 431,
+      "start_date": "2015-07-29T14:48:07Z",
+      "start_date_local": "2015-07-29T10:48:07Z",
+      "distance": 2908.31,
+      "start_index": 11297,
+      "end_index": 11725,
+      "device_watts": false,
+      "average_watts": 118.7,
+      "segment": {
+        "id": 1940223,
+        "resource_state": 2,
+        "name": "Old Carp Backhander",
+        "activity_type": "Ride",
+        "distance": 2908.31,
+        "average_grade": -0.7,
+        "maximum_grade": 10.8,
+        "elevation_high": 149.4,
+        "elevation_low": 126.2,
+        "start_latlng": [
+          45.34037047997117,
+          -75.98415434360504
+        ],
+        "end_latlng": [
+          45.35006381571293,
+          -75.95236136578023
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.34037047997117,
+        "start_longitude": -75.98415434360504,
+        "end_latitude": 45.35006381571293,
+        "end_longitude": -75.95236136578023,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 15372760098,
+      "resource_state": 2,
+      "name": "Old Carp- Huntmar to March",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 592,
+      "moving_time": 592,
+      "start_date": "2015-07-29T14:48:28Z",
+      "start_date_local": "2015-07-29T10:48:28Z",
+      "distance": 4226.9,
+      "start_index": 11318,
+      "end_index": 11907,
+      "device_watts": false,
+      "average_watts": 106.9,
+      "segment": {
+        "id": 12523814,
+        "resource_state": 2,
+        "name": "Old Carp- Huntmar to March",
+        "activity_type": "Ride",
+        "distance": 4226.9,
+        "average_grade": -1,
+        "maximum_grade": 7.3,
+        "elevation_high": 144.2,
+        "elevation_low": 99,
+        "start_latlng": [
+          45.340623,
+          -75.983326
+        ],
+        "end_latlng": [
+          45.357579,
+          -75.937973
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.340623,
+        "start_longitude": -75.983326,
+        "end_latitude": 45.357579,
+        "end_longitude": -75.937973,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 60922406760,
+      "resource_state": 2,
+      "name": "Old Carp Sprint to 2nd Line",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 171,
+      "moving_time": 171,
+      "start_date": "2015-07-29T14:52:34Z",
+      "start_date_local": "2015-07-29T10:52:34Z",
+      "distance": 1147.6,
+      "start_index": 11562,
+      "end_index": 11732,
+      "device_watts": false,
+      "average_watts": 110.3,
+      "segment": {
+        "id": 20752317,
+        "resource_state": 2,
+        "name": "Old Carp Sprint to 2nd Line",
+        "activity_type": "Ride",
+        "distance": 1147.6,
+        "average_grade": -0.7,
+        "maximum_grade": 6.7,
+        "elevation_high": 103.4,
+        "elevation_low": 89.6,
+        "start_latlng": [
+          45.344886,
+          -75.963796
+        ],
+        "end_latlng": [
+          45.350292,
+          -75.95194
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.344886,
+        "start_longitude": -75.963796,
+        "end_latitude": 45.350292,
+        "end_longitude": -75.95194,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 15372037075,
+      "resource_state": 2,
+      "name": "Old Carp Rd - 2nd line to March",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 476,
+      "moving_time": 188,
+      "start_date": "2015-07-29T14:55:39Z",
+      "start_date_local": "2015-07-29T10:55:39Z",
+      "distance": 1408.5,
+      "start_index": 11746,
+      "end_index": 11935,
+      "device_watts": false,
+      "average_watts": 86.2,
+      "segment": {
+        "id": 12523419,
+        "resource_state": 2,
+        "name": "Old Carp Rd - 2nd line to March",
+        "activity_type": "Ride",
+        "distance": 1408.5,
+        "average_grade": -1.5,
+        "maximum_grade": 3.8,
+        "elevation_high": 116,
+        "elevation_low": 95.2,
+        "start_latlng": [
+          45.350631,
+          -75.951338
+        ],
+        "end_latlng": [
+          45.358076,
+          -75.93711
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.350631,
+        "start_longitude": -75.951338,
+        "end_latitude": 45.358076,
+        "end_longitude": -75.93711,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499137895,
+      "resource_state": 2,
+      "name": "Old Carp Backhander Continues",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 148,
+      "moving_time": 148,
+      "start_date": "2015-07-29T14:55:43Z",
+      "start_date_local": "2015-07-29T10:55:43Z",
+      "distance": 1230.4,
+      "start_index": 11750,
+      "end_index": 11898,
+      "device_watts": false,
+      "average_watts": 96.9,
+      "segment": {
+        "id": 8161386,
+        "resource_state": 2,
+        "name": "Old Carp Backhander Continues",
+        "activity_type": "Ride",
+        "distance": 1230.4,
+        "average_grade": -1.5,
+        "maximum_grade": 3.1,
+        "elevation_high": 103.7,
+        "elevation_low": 83.5,
+        "start_latlng": [
+          45.350768,
+          -75.951078
+        ],
+        "end_latlng": [
+          45.357376,
+          -75.938709
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.350768,
+        "start_longitude": -75.951078,
+        "end_latitude": 45.357376,
+        "end_longitude": -75.938709,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8577619759,
+      "resource_state": 2,
+      "name": "March Rd SB (old Carp to Klondike)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2015-07-29T15:47:05Z",
+      "start_date_local": "2015-07-29T11:47:05Z",
+      "distance": 423.4,
+      "start_index": 12037,
+      "end_index": 12101,
+      "device_watts": false,
+      "average_watts": 116.9,
+      "segment": {
+        "id": 10111174,
+        "resource_state": 2,
+        "name": "March Rd SB (old Carp to Klondike)",
+        "activity_type": "Ride",
+        "distance": 423.4,
+        "average_grade": -0.8,
+        "maximum_grade": 0.2,
+        "elevation_high": 87.8,
+        "elevation_low": 84.4,
+        "start_latlng": [
+          45.357978,
+          -75.936345
+        ],
+        "end_latlng": [
+          45.355183,
+          -75.932676
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.357978,
+        "start_longitude": -75.936345,
+        "end_latitude": 45.355183,
+        "end_longitude": -75.932676,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8577577429,
+      "resource_state": 2,
+      "name": "March Rd SB (old Carp to Terry Fox)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 208,
+      "start_date": "2015-07-29T15:47:05Z",
+      "start_date_local": "2015-07-29T11:47:05Z",
+      "distance": 1289.5,
+      "start_index": 12037,
+      "end_index": 12244,
+      "device_watts": false,
+      "average_watts": 137.2,
+      "segment": {
+        "id": 10111161,
+        "resource_state": 2,
+        "name": "March Rd SB (old Carp to Terry Fox)",
+        "activity_type": "Ride",
+        "distance": 1289.5,
+        "average_grade": 0.2,
+        "maximum_grade": 3.3,
+        "elevation_high": 91,
+        "elevation_low": 84.4,
+        "start_latlng": [
+          45.357978,
+          -75.936345
+        ],
+        "end_latlng": [
+          45.349382,
+          -75.925322
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.357978,
+        "start_longitude": -75.936345,
+        "end_latitude": 45.349382,
+        "end_longitude": -75.925322,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8577750574,
+      "resource_state": 2,
+      "name": "March Rd SB (Klondike to Terry Fox)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 140,
+      "moving_time": 140,
+      "start_date": "2015-07-29T15:48:16Z",
+      "start_date_local": "2015-07-29T11:48:16Z",
+      "distance": 848.7,
+      "start_index": 12108,
+      "end_index": 12247,
+      "device_watts": false,
+      "average_watts": 143.7,
+      "segment": {
+        "id": 10111187,
+        "resource_state": 2,
+        "name": "March Rd SB (Klondike to Terry Fox)",
+        "activity_type": "Ride",
+        "distance": 848.7,
+        "average_grade": 0.8,
+        "maximum_grade": 3.3,
+        "elevation_high": 91.8,
+        "elevation_low": 84.6,
+        "start_latlng": [
+          45.354976,
+          -75.932421
+        ],
+        "end_latlng": [
+          45.349294,
+          -75.925212
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.354976,
+        "start_longitude": -75.932421,
+        "end_latitude": 45.349294,
+        "end_longitude": -75.925212,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137928,
+      "resource_state": 2,
+      "name": "Herzberg - March to Legget",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 354,
+      "moving_time": 354,
+      "start_date": "2015-07-29T15:51:44Z",
+      "start_date_local": "2015-07-29T11:51:44Z",
+      "distance": 2605.7,
+      "start_index": 12265,
+      "end_index": 12619,
+      "device_watts": false,
+      "average_watts": 127.8,
+      "segment": {
+        "id": 7648771,
+        "resource_state": 2,
+        "name": "Herzberg - March to Legget",
+        "activity_type": "Ride",
+        "distance": 2605.7,
+        "average_grade": -0.3,
+        "maximum_grade": 6.3,
+        "elevation_high": 83.9,
+        "elevation_low": 73.2,
+        "start_latlng": [
+          45.349124,
+          -75.924408
+        ],
+        "end_latlng": [
+          45.342842,
+          -75.899662
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.349124,
+        "start_longitude": -75.924408,
+        "end_latitude": 45.342842,
+        "end_longitude": -75.899662,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137952,
+      "resource_state": 2,
+      "name": "Carling to Marchch Road #2",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 418,
+      "moving_time": 418,
+      "start_date": "2015-07-29T15:51:45Z",
+      "start_date_local": "2015-07-29T11:51:45Z",
+      "distance": 3048,
+      "start_index": 12266,
+      "end_index": 12684,
+      "device_watts": false,
+      "average_watts": 130.3,
+      "segment": {
+        "id": 7318043,
+        "resource_state": 2,
+        "name": "Carling to Marchch Road #2",
+        "activity_type": "Ride",
+        "distance": 3048,
+        "average_grade": -0.2,
+        "maximum_grade": 6.4,
+        "elevation_high": 84,
+        "elevation_low": 73.1,
+        "start_latlng": [
+          45.349238,
+          -75.924407
+        ],
+        "end_latlng": [
+          45.339486,
+          -75.897531
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.349238,
+        "start_longitude": -75.924407,
+        "end_latitude": 45.339486,
+        "end_longitude": -75.897531,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499137916,
+      "resource_state": 2,
+      "name": "McKinley to March Valley on Terry Fox",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 115,
+      "moving_time": 115,
+      "start_date": "2015-07-29T15:51:58Z",
+      "start_date_local": "2015-07-29T11:51:58Z",
+      "distance": 918.7,
+      "start_index": 12279,
+      "end_index": 12394,
+      "device_watts": false,
+      "average_watts": 139.8,
+      "segment": {
+        "id": 8309562,
+        "resource_state": 2,
+        "name": "McKinley to March Valley on Terry Fox",
+        "activity_type": "Ride",
+        "distance": 918.7,
+        "average_grade": -0.5,
+        "maximum_grade": 4.1,
+        "elevation_high": 83.4,
+        "elevation_low": 75.3,
+        "start_latlng": [
+          45.349662,
+          -75.923317
+        ],
+        "end_latlng": [
+          45.352524,
+          -75.913564
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.349662,
+        "start_longitude": -75.923317,
+        "end_latitude": 45.352524,
+        "end_longitude": -75.913564,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16234349156,
+      "resource_state": 2,
+      "name": "Herzberg - March to Leggit",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 232,
+      "moving_time": 232,
+      "start_date": "2015-07-29T15:53:54Z",
+      "start_date_local": "2015-07-29T11:53:54Z",
+      "distance": 1610,
+      "start_index": 12395,
+      "end_index": 12627,
+      "device_watts": false,
+      "average_watts": 125,
+      "segment": {
+        "id": 12792273,
+        "resource_state": 2,
+        "name": "Herzberg - March to Leggit",
+        "activity_type": "Ride",
+        "distance": 1610,
+        "average_grade": -0.2,
+        "maximum_grade": 6.4,
+        "elevation_high": 80,
+        "elevation_low": 73.1,
+        "start_latlng": [
+          45.352479,
+          -75.913471
+        ],
+        "end_latlng": [
+          45.342651,
+          -75.899479
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352479,
+        "start_longitude": -75.913471,
+        "end_latitude": 45.342651,
+        "end_longitude": -75.899479,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137939,
+      "resource_state": 2,
+      "name": "Terry Fox - March Valley to Carling",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 274,
+      "moving_time": 274,
+      "start_date": "2015-07-29T15:54:07Z",
+      "start_date_local": "2015-07-29T11:54:07Z",
+      "distance": 1900.6,
+      "start_index": 12408,
+      "end_index": 12682,
+      "device_watts": false,
+      "average_watts": 126.6,
+      "segment": {
+        "id": 7987778,
+        "resource_state": 2,
+        "name": "Terry Fox - March Valley to Carling",
+        "activity_type": "Ride",
+        "distance": 1900.6,
+        "average_grade": -0.1,
+        "maximum_grade": 6.5,
+        "elevation_high": 80,
+        "elevation_low": 73.1,
+        "start_latlng": [
+          45.352126,
+          -75.912589
+        ],
+        "end_latlng": [
+          45.33958,
+          -75.897677
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352126,
+        "start_longitude": -75.912589,
+        "end_latitude": 45.33958,
+        "end_longitude": -75.897677,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 24098648797,
+      "resource_state": 2,
+      "name": "Herzberg - Legget to Carling",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 46,
+      "moving_time": 46,
+      "start_date": "2015-07-29T15:57:57Z",
+      "start_date_local": "2015-07-29T11:57:57Z",
+      "distance": 316.5,
+      "start_index": 12638,
+      "end_index": 12684,
+      "device_watts": false,
+      "average_watts": 170.6,
+      "segment": {
+        "id": 14858952,
+        "resource_state": 2,
+        "name": "Herzberg - Legget to Carling",
+        "activity_type": "Ride",
+        "distance": 316.5,
+        "average_grade": 1.1,
+        "maximum_grade": 5.3,
+        "elevation_high": 79.3,
+        "elevation_low": 74,
+        "start_latlng": [
+          45.342103,
+          -75.899117
+        ],
+        "end_latlng": [
+          45.339494,
+          -75.897513
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.342103,
+        "start_longitude": -75.899117,
+        "end_latitude": 45.339494,
+        "end_longitude": -75.897513,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137968,
+      "resource_state": 2,
+      "name": "Carling EB Herzberg to Burke",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 117,
+      "start_date": "2015-07-29T15:59:37Z",
+      "start_date_local": "2015-07-29T11:59:37Z",
+      "distance": 842.2,
+      "start_index": 12704,
+      "end_index": 12821,
+      "device_watts": false,
+      "average_watts": 145.3,
+      "segment": {
+        "id": 5801397,
+        "resource_state": 2,
+        "name": "Carling EB Herzberg to Burke",
+        "activity_type": "Ride",
+        "distance": 842.2,
+        "average_grade": -0.2,
+        "maximum_grade": 5.2,
+        "elevation_high": 78.1,
+        "elevation_low": 71.2,
+        "start_latlng": [
+          45.339043,
+          -75.896989
+        ],
+        "end_latlng": [
+          45.342112,
+          -75.887297
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339043,
+        "start_longitude": -75.896989,
+        "end_latitude": 45.342112,
+        "end_longitude": -75.887297,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 65788447194,
+      "resource_state": 2,
+      "name": "Burke to New Orchard along pathway",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1483,
+      "moving_time": 1462,
+      "start_date": "2015-07-29T16:02:38Z",
+      "start_date_local": "2015-07-29T12:02:38Z",
+      "distance": 10618,
+      "start_index": 12885,
+      "end_index": 14337,
+      "device_watts": false,
+      "average_watts": 144.9,
+      "segment": {
+        "id": 21493259,
+        "resource_state": 2,
+        "name": "Burke to New Orchard along pathway",
+        "activity_type": "Ride",
+        "distance": 10618,
+        "average_grade": -0.2,
+        "maximum_grade": 3.6,
+        "elevation_high": 77.3,
+        "elevation_low": 54.3,
+        "start_latlng": [
+          45.341258,
+          -75.883778
+        ],
+        "end_latlng": [
+          45.376214,
+          -75.781135
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.341258,
+        "start_longitude": -75.883778,
+        "end_latitude": 45.376214,
+        "end_longitude": -75.781135,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499137978,
+      "resource_state": 2,
+      "name": "Watt's Creek Carling to Moodie",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 439,
+      "moving_time": 439,
+      "start_date": "2015-07-29T16:02:47Z",
+      "start_date_local": "2015-07-29T12:02:47Z",
+      "distance": 3276.3,
+      "start_index": 12894,
+      "end_index": 13333,
+      "device_watts": false,
+      "average_watts": 143.1,
+      "segment": {
+        "id": 7581097,
+        "resource_state": 2,
+        "name": "Watt's Creek Carling to Moodie",
+        "activity_type": "Ride",
+        "distance": 3276.3,
+        "average_grade": -0.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 69.2,
+        "elevation_low": 62.8,
+        "start_latlng": [
+          45.341392,
+          -75.883055
+        ],
+        "end_latlng": [
+          45.342347,
+          -75.845821
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.341392,
+        "start_longitude": -75.883055,
+        "end_latitude": 45.342347,
+        "end_longitude": -75.845821,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 9325614863,
+      "resource_state": 2,
+      "name": "Equestrian Chute (fixed endpoints)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 289,
+      "moving_time": 289,
+      "start_date": "2015-07-29T16:05:43Z",
+      "start_date_local": "2015-07-29T12:05:43Z",
+      "distance": 2252.4,
+      "start_index": 13070,
+      "end_index": 13359,
+      "device_watts": false,
+      "average_watts": 145.8,
+      "segment": {
+        "id": 10447351,
+        "resource_state": 2,
+        "name": "Equestrian Chute (fixed endpoints)",
+        "activity_type": "Ride",
+        "distance": 2252.4,
+        "average_grade": -0.3,
+        "maximum_grade": 0.3,
+        "elevation_high": 75.6,
+        "elevation_low": 68.4,
+        "start_latlng": [
+          45.339956,
+          -75.871492
+        ],
+        "end_latlng": [
+          45.342559,
+          -75.843028
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339956,
+        "start_longitude": -75.871492,
+        "end_latitude": 45.342559,
+        "end_longitude": -75.843028,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138032,
+      "resource_state": 2,
+      "name": "Equestrian to gate",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 284,
+      "moving_time": 284,
+      "start_date": "2015-07-29T16:05:44Z",
+      "start_date_local": "2015-07-29T12:05:44Z",
+      "distance": 2213.8,
+      "start_index": 13071,
+      "end_index": 13355,
+      "device_watts": false,
+      "average_watts": 147.2,
+      "segment": {
+        "id": 9985320,
+        "resource_state": 2,
+        "name": "Equestrian to gate",
+        "activity_type": "Ride",
+        "distance": 2213.8,
+        "average_grade": -0.3,
+        "maximum_grade": 0.2,
+        "elevation_high": 82.8,
+        "elevation_low": 76.7,
+        "start_latlng": [
+          45.339941,
+          -75.8714
+        ],
+        "end_latlng": [
+          45.342494,
+          -75.843402
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339941,
+        "start_longitude": -75.8714,
+        "end_latitude": 45.342494,
+        "end_longitude": -75.843402,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138050,
+      "resource_state": 2,
+      "name": "Watt's Creek B-Line",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 286,
+      "moving_time": 286,
+      "start_date": "2015-07-29T16:05:46Z",
+      "start_date_local": "2015-07-29T12:05:46Z",
+      "distance": 2224.92,
+      "start_index": 13073,
+      "end_index": 13359,
+      "device_watts": false,
+      "average_watts": 146.5,
+      "segment": {
+        "id": 2131720,
+        "resource_state": 2,
+        "name": "Watt's Creek B-Line",
+        "activity_type": "Ride",
+        "distance": 2224.92,
+        "average_grade": -0.6,
+        "maximum_grade": 1.9,
+        "elevation_high": 77.4,
+        "elevation_low": 63.3,
+        "start_latlng": [
+          45.3400232,
+          -75.8711612
+        ],
+        "end_latlng": [
+          45.3425447,
+          -75.8430197
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.3400232,
+        "start_longitude": -75.8711612,
+        "end_latitude": 45.3425447,
+        "end_longitude": -75.8430197,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138017,
+      "resource_state": 2,
+      "name": "Gallop EB (safe end)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 277,
+      "moving_time": 277,
+      "start_date": "2015-07-29T16:05:49Z",
+      "start_date_local": "2015-07-29T12:05:49Z",
+      "distance": 2154.5,
+      "start_index": 13076,
+      "end_index": 13353,
+      "device_watts": false,
+      "average_watts": 148.1,
+      "segment": {
+        "id": 9842965,
+        "resource_state": 2,
+        "name": "Gallop EB (safe end)",
+        "activity_type": "Ride",
+        "distance": 2154.5,
+        "average_grade": -0.6,
+        "maximum_grade": 5,
+        "elevation_high": 77.6,
+        "elevation_low": 63,
+        "start_latlng": [
+          45.340009,
+          -75.870869
+        ],
+        "end_latlng": [
+          45.34251,
+          -75.843581
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.340009,
+        "start_longitude": -75.870869,
+        "end_latitude": 45.34251,
+        "end_longitude": -75.843581,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138008,
+      "resource_state": 2,
+      "name": "Watt's Creek TT Eastbound after Moodie",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 261,
+      "moving_time": 261,
+      "start_date": "2015-07-29T16:05:58Z",
+      "start_date_local": "2015-07-29T12:05:58Z",
+      "distance": 2051.3,
+      "start_index": 13085,
+      "end_index": 13346,
+      "device_watts": false,
+      "average_watts": 147.4,
+      "segment": {
+        "id": 7317230,
+        "resource_state": 2,
+        "name": "Watt's Creek TT Eastbound after Moodie",
+        "activity_type": "Ride",
+        "distance": 2051.3,
+        "average_grade": -0.6,
+        "maximum_grade": 5.3,
+        "elevation_high": 77.7,
+        "elevation_low": 63,
+        "start_latlng": [
+          45.340128,
+          -75.870065
+        ],
+        "end_latlng": [
+          45.34241,
+          -75.844301
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.340128,
+        "start_longitude": -75.870065,
+        "end_latitude": 45.34241,
+        "end_longitude": -75.844301,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138070,
+      "resource_state": 2,
+      "name": "Equestrian chute",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 279,
+      "moving_time": 279,
+      "start_date": "2015-07-29T16:06:13Z",
+      "start_date_local": "2015-07-29T12:06:13Z",
+      "distance": 2090.7,
+      "start_index": 13100,
+      "end_index": 13374,
+      "device_watts": false,
+      "average_watts": 140.9,
+      "segment": {
+        "id": 4542622,
+        "resource_state": 2,
+        "name": "Equestrian chute",
+        "activity_type": "Ride",
+        "distance": 2090.7,
+        "average_grade": -0.8,
+        "maximum_grade": 5.2,
+        "elevation_high": 80.7,
+        "elevation_low": 62.5,
+        "start_latlng": [
+          45.339925,
+          -75.868612
+        ],
+        "end_latlng": [
+          45.342813,
+          -75.842476
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.339925,
+        "start_longitude": -75.868612,
+        "end_latitude": 45.342813,
+        "end_longitude": -75.842476,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138336,
+      "resource_state": 2,
+      "name": "Moodie to Holly Acres",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 362,
+      "moving_time": 362,
+      "start_date": "2015-07-29T16:10:51Z",
+      "start_date_local": "2015-07-29T12:10:51Z",
+      "distance": 2551.7,
+      "start_index": 13373,
+      "end_index": 13735,
+      "device_watts": false,
+      "average_watts": 143.3,
+      "segment": {
+        "id": 4242783,
+        "resource_state": 2,
+        "name": "Moodie to Holly Acres",
+        "activity_type": "Ride",
+        "distance": 2551.7,
+        "average_grade": 0,
+        "maximum_grade": 5.3,
+        "elevation_high": 66.5,
+        "elevation_low": 60.5,
+        "start_latlng": [
+          45.342912,
+          -75.842666
+        ],
+        "end_latlng": [
+          45.346601,
+          -75.816694
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.342912,
+        "start_longitude": -75.842666,
+        "end_latitude": 45.346601,
+        "end_longitude": -75.816694,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138671,
+      "resource_state": 2,
+      "name": "Moodie to Ottawa River Parkway",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 830,
+      "moving_time": 809,
+      "start_date": "2015-07-29T16:11:59Z",
+      "start_date_local": "2015-07-29T12:11:59Z",
+      "distance": 5715.79,
+      "start_index": 13441,
+      "end_index": 14245,
+      "device_watts": false,
+      "average_watts": 145.6,
+      "segment": {
+        "id": 1641717,
+        "resource_state": 2,
+        "name": "Moodie to Ottawa River Parkway",
+        "activity_type": "Ride",
+        "distance": 5715.79,
+        "average_grade": 0,
+        "maximum_grade": 6.6,
+        "elevation_high": 66.4,
+        "elevation_low": 52,
+        "start_latlng": [
+          45.34098366739646,
+          -75.83783387295664
+        ],
+        "end_latlng": [
+          45.37157529329227,
+          -75.78661775879004
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.34098366739646,
+        "start_longitude": -75.83783387295664,
+        "end_latitude": 45.37157529329227,
+        "end_longitude": -75.78661775879004,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138090,
+      "resource_state": 2,
+      "name": "Watt's Creek (Corkstown to Aero)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 271,
+      "moving_time": 271,
+      "start_date": "2015-07-29T16:12:07Z",
+      "start_date_local": "2015-07-29T12:12:07Z",
+      "distance": 1924.9,
+      "start_index": 13449,
+      "end_index": 13720,
+      "device_watts": false,
+      "average_watts": 151,
+      "segment": {
+        "id": 4460761,
+        "resource_state": 2,
+        "name": "Watt's Creek (Corkstown to Aero)",
+        "activity_type": "Ride",
+        "distance": 1924.9,
+        "average_grade": 0.1,
+        "maximum_grade": 7.8,
+        "elevation_high": 27.2,
+        "elevation_low": 23.4,
+        "start_latlng": [
+          45.340888,
+          -75.837342
+        ],
+        "end_latlng": [
+          45.346238,
+          -75.817331
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.340888,
+        "start_longitude": -75.837342,
+        "end_latitude": 45.346238,
+        "end_longitude": -75.817331,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 24622551916,
+      "resource_state": 2,
+      "name": "Corkstown to Acres",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 266,
+      "moving_time": 266,
+      "start_date": "2015-07-29T16:12:17Z",
+      "start_date_local": "2015-07-29T12:12:17Z",
+      "distance": 1868.3,
+      "start_index": 13459,
+      "end_index": 13725,
+      "device_watts": false,
+      "average_watts": 149.9,
+      "segment": {
+        "id": 14970581,
+        "resource_state": 2,
+        "name": "Corkstown to Acres",
+        "activity_type": "Ride",
+        "distance": 1868.3,
+        "average_grade": 0.2,
+        "maximum_grade": 5,
+        "elevation_high": 64.9,
+        "elevation_low": 58.1,
+        "start_latlng": [
+          45.341166,
+          -75.83668
+        ],
+        "end_latlng": [
+          45.346447,
+          -75.817201
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.341166,
+        "start_longitude": -75.83668,
+        "end_latitude": 45.346447,
+        "end_longitude": -75.817201,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138313,
+      "resource_state": 2,
+      "name": "Corkstown to Aero (short)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2015-07-29T16:13:36Z",
+      "start_date_local": "2015-07-29T12:13:36Z",
+      "distance": 1323.6,
+      "start_index": 13538,
+      "end_index": 13731,
+      "device_watts": false,
+      "average_watts": 162.2,
+      "segment": {
+        "id": 4609600,
+        "resource_state": 2,
+        "name": "Corkstown to Aero (short)",
+        "activity_type": "Ride",
+        "distance": 1323.6,
+        "average_grade": 0.1,
+        "maximum_grade": 3.8,
+        "elevation_high": 66.4,
+        "elevation_low": 61.1,
+        "start_latlng": [
+          45.342798,
+          -75.830821
+        ],
+        "end_latlng": [
+          45.346563,
+          -75.817244
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.342798,
+        "start_longitude": -75.830821,
+        "end_latitude": 45.346563,
+        "end_longitude": -75.817244,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499138362,
+      "resource_state": 2,
+      "name": "Holy Acres to Carling Sprint",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 112,
+      "moving_time": 91,
+      "start_date": "2015-07-29T16:17:17Z",
+      "start_date_local": "2015-07-29T12:17:17Z",
+      "distance": 588.9,
+      "start_index": 13753,
+      "end_index": 13845,
+      "device_watts": false,
+      "average_watts": 107.6,
+      "segment": {
+        "id": 7187086,
+        "resource_state": 2,
+        "name": "Holy Acres to Carling Sprint",
+        "activity_type": "Ride",
+        "distance": 588.9,
+        "average_grade": -0.1,
+        "maximum_grade": 0.7,
+        "elevation_high": 63.9,
+        "elevation_low": 62,
+        "start_latlng": [
+          45.347164,
+          -75.816674
+        ],
+        "end_latlng": [
+          45.351608,
+          -75.812628
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.347164,
+        "start_longitude": -75.816674,
+        "end_latitude": 45.351608,
+        "end_longitude": -75.812628,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 9325677006,
+      "resource_state": 2,
+      "name": "Holly Acres to Carling Sprint (fixed endpoints)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2015-07-29T16:17:18Z",
+      "start_date_local": "2015-07-29T12:17:18Z",
+      "distance": 560.1,
+      "start_index": 13754,
+      "end_index": 13833,
+      "device_watts": false,
+      "average_watts": 115.3,
+      "segment": {
+        "id": 10447369,
+        "resource_state": 2,
+        "name": "Holly Acres to Carling Sprint (fixed endpoints)",
+        "activity_type": "Ride",
+        "distance": 560.1,
+        "average_grade": -1.2,
+        "maximum_grade": 0,
+        "elevation_high": 83.4,
+        "elevation_low": 76.6,
+        "start_latlng": [
+          45.347204,
+          -75.81652
+        ],
+        "end_latlng": [
+          45.351465,
+          -75.812752
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.347204,
+        "start_longitude": -75.81652,
+        "end_latitude": 45.351465,
+        "end_longitude": -75.812752,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138691,
+      "resource_state": 2,
+      "name": "Andrew Haydon Park to Pincrest Creek",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 394,
+      "moving_time": 394,
+      "start_date": "2015-07-29T16:19:17Z",
+      "start_date_local": "2015-07-29T12:19:17Z",
+      "distance": 3084.4,
+      "start_index": 13853,
+      "end_index": 14247,
+      "device_watts": false,
+      "average_watts": 162.7,
+      "segment": {
+        "id": 7276724,
+        "resource_state": 2,
+        "name": "Andrew Haydon Park to Pincrest Creek",
+        "activity_type": "Ride",
+        "distance": 3084.4,
+        "average_grade": 0,
+        "maximum_grade": 7.7,
+        "elevation_high": 64.8,
+        "elevation_low": 52,
+        "start_latlng": [
+          45.352023,
+          -75.812534
+        ],
+        "end_latlng": [
+          45.371697,
+          -75.78652
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352023,
+        "start_longitude": -75.812534,
+        "end_latitude": 45.371697,
+        "end_longitude": -75.78652,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 44024639680,
+      "resource_state": 2,
+      "name": "To the beach!!!!",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2015-07-29T16:19:35Z",
+      "start_date_local": "2015-07-29T12:19:35Z",
+      "distance": 1397.9,
+      "start_index": 13871,
+      "end_index": 14049,
+      "device_watts": false,
+      "average_watts": 182.1,
+      "segment": {
+        "id": 18471152,
+        "resource_state": 2,
+        "name": "To the beach!!!!",
+        "activity_type": "Ride",
+        "distance": 1397.9,
+        "average_grade": -0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 61.4,
+        "elevation_low": 58.4,
+        "start_latlng": [
+          45.352695,
+          -75.811611
+        ],
+        "end_latlng": [
+          45.363053,
+          -75.801521
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352695,
+        "start_longitude": -75.811611,
+        "end_latitude": 45.363053,
+        "end_longitude": -75.801521,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 44024087243,
+      "resource_state": 2,
+      "name": "Britannia to Carling",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 227,
+      "moving_time": 227,
+      "start_date": "2015-07-29T16:19:36Z",
+      "start_date_local": "2015-07-29T12:19:36Z",
+      "distance": 1718,
+      "start_index": 13872,
+      "end_index": 14099,
+      "device_watts": false,
+      "average_watts": 170.2,
+      "segment": {
+        "id": 18471142,
+        "resource_state": 2,
+        "name": "Britannia to Carling",
+        "activity_type": "Ride",
+        "distance": 1718,
+        "average_grade": -0.1,
+        "maximum_grade": 1.7,
+        "elevation_high": 61.4,
+        "elevation_low": 58.4,
+        "start_latlng": [
+          45.352762,
+          -75.811533
+        ],
+        "end_latlng": [
+          45.365029,
+          -75.798392
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352762,
+        "start_longitude": -75.811533,
+        "end_latitude": 45.365029,
+        "end_longitude": -75.798392,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138463,
+      "resource_state": 2,
+      "name": "ORP - Carling to Britannia Park",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 175,
+      "moving_time": 175,
+      "start_date": "2015-07-29T16:19:37Z",
+      "start_date_local": "2015-07-29T12:19:37Z",
+      "distance": 1386,
+      "start_index": 13873,
+      "end_index": 14048,
+      "device_watts": false,
+      "average_watts": 183.9,
+      "segment": {
+        "id": 7948094,
+        "resource_state": 2,
+        "name": "ORP - Carling to Britannia Park",
+        "activity_type": "Ride",
+        "distance": 1386,
+        "average_grade": 0,
+        "maximum_grade": 7.1,
+        "elevation_high": 62.7,
+        "elevation_low": 52,
+        "start_latlng": [
+          45.352715,
+          -75.811414
+        ],
+        "end_latlng": [
+          45.362999,
+          -75.801471
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.352715,
+        "start_longitude": -75.811414,
+        "end_latitude": 45.362999,
+        "end_longitude": -75.801471,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2703316209129423400,
+      "resource_state": 2,
+      "name": "Britannia Beach - Greenview to Britannia",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 60,
+      "moving_time": 60,
+      "start_date": "2015-07-29T16:22:44Z",
+      "start_date_local": "2015-07-29T12:22:44Z",
+      "distance": 421.2,
+      "start_index": 14060,
+      "end_index": 14120,
+      "device_watts": false,
+      "average_watts": 142.4,
+      "segment": {
+        "id": 24321474,
+        "resource_state": 2,
+        "name": "Britannia Beach - Greenview to Britannia",
+        "activity_type": "Ride",
+        "distance": 421.2,
+        "average_grade": -0.2,
+        "maximum_grade": 4.3,
+        "elevation_high": 45.2,
+        "elevation_low": 42.4,
+        "start_latlng": [
+          45.363384,
+          -75.801018
+        ],
+        "end_latlng": [
+          45.365585,
+          -75.796745
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.363384,
+        "start_longitude": -75.801018,
+        "end_latitude": 45.365585,
+        "end_longitude": -75.796745,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138586,
+      "resource_state": 2,
+      "name": "Mud Lake straightaway EB",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 101,
+      "moving_time": 101,
+      "start_date": "2015-07-29T16:24:05Z",
+      "start_date_local": "2015-07-29T12:24:05Z",
+      "distance": 904.2,
+      "start_index": 14141,
+      "end_index": 14242,
+      "device_watts": false,
+      "average_watts": 167.8,
+      "segment": {
+        "id": 7205787,
+        "resource_state": 2,
+        "name": "Mud Lake straightaway EB",
+        "activity_type": "Ride",
+        "distance": 904.2,
+        "average_grade": -0.2,
+        "maximum_grade": 3,
+        "elevation_high": 64,
+        "elevation_low": 58.7,
+        "start_latlng": [
+          45.366424,
+          -75.795887
+        ],
+        "end_latlng": [
+          45.371426,
+          -75.786809
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.366424,
+        "start_longitude": -75.795887,
+        "end_latitude": 45.371426,
+        "end_longitude": -75.786809,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138726,
+      "resource_state": 2,
+      "name": "Evered Ave Climb",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2015-07-29T18:21:23Z",
+      "start_date_local": "2015-07-29T14:21:23Z",
+      "distance": 661.06,
+      "start_index": 14898,
+      "end_index": 15002,
+      "device_watts": false,
+      "average_watts": 98.8,
+      "segment": {
+        "id": 1296838,
+        "resource_state": 2,
+        "name": "Evered Ave Climb",
+        "activity_type": "Ride",
+        "distance": 661.06,
+        "average_grade": 15.7,
+        "maximum_grade": 11263.2,
+        "elevation_high": 160,
+        "elevation_low": 56.2,
+        "start_latlng": [
+          45.391553062945604,
+          -75.75517122633755
+        ],
+        "end_latlng": [
+          45.394701808691025,
+          -75.74886459857225
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.391553062945604,
+        "start_longitude": -75.75517122633755,
+        "end_latitude": 45.394701808691025,
+        "end_longitude": -75.74886459857225,
+        "climb_category": 1,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 40986750303,
+      "resource_state": 2,
+      "name": "Government Grade",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 872,
+      "moving_time": 784,
+      "start_date": "2015-07-29T19:58:11Z",
+      "start_date_local": "2015-07-29T15:58:11Z",
+      "distance": 4360.1,
+      "start_index": 15614,
+      "end_index": 16399,
+      "device_watts": false,
+      "average_watts": 133.6,
+      "segment": {
+        "id": 17944336,
+        "resource_state": 2,
+        "name": "Government Grade",
+        "activity_type": "Ride",
+        "distance": 4360.1,
+        "average_grade": 0.4,
+        "maximum_grade": 46.5,
+        "elevation_high": 83,
+        "elevation_low": 40.8,
+        "start_latlng": [
+          45.412176,
+          -75.734058
+        ],
+        "end_latlng": [
+          45.42476,
+          -75.69544
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.412176,
+        "start_longitude": -75.734058,
+        "end_latitude": 45.42476,
+        "end_longitude": -75.69544,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499138991,
+      "resource_state": 2,
+      "name": "River St. to Booth - Ottawa River Parkway",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 207,
+      "start_date": "2015-07-29T19:59:41Z",
+      "start_date_local": "2015-07-29T15:59:41Z",
+      "distance": 1425.9,
+      "start_index": 15704,
+      "end_index": 15910,
+      "device_watts": false,
+      "average_watts": 136.9,
+      "segment": {
+        "id": 7223997,
+        "resource_state": 2,
+        "name": "River St. to Booth - Ottawa River Parkway",
+        "activity_type": "Ride",
+        "distance": 1425.9,
+        "average_grade": 0,
+        "maximum_grade": 10,
+        "elevation_high": 59,
+        "elevation_low": 46,
+        "start_latlng": [
+          45.41118,
+          -75.72836
+        ],
+        "end_latlng": [
+          45.418251,
+          -75.716873
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.41118,
+        "start_longitude": -75.72836,
+        "end_latitude": 45.418251,
+        "end_longitude": -75.716873,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499139017,
+      "resource_state": 2,
+      "name": "ORP - O-Train to Booth",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 268,
+      "moving_time": 180,
+      "start_date": "2015-07-29T20:00:26Z",
+      "start_date_local": "2015-07-29T16:00:26Z",
+      "distance": 1185.3,
+      "start_index": 15749,
+      "end_index": 15930,
+      "device_watts": false,
+      "average_watts": 131,
+      "segment": {
+        "id": 9953620,
+        "resource_state": 2,
+        "name": "ORP - O-Train to Booth",
+        "activity_type": "Ride",
+        "distance": 1185.3,
+        "average_grade": 0,
+        "maximum_grade": 9.1,
+        "elevation_high": 57.3,
+        "elevation_low": 46,
+        "start_latlng": [
+          45.411688,
+          -75.724472
+        ],
+        "end_latlng": [
+          45.418213,
+          -75.715971
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.411688,
+        "start_longitude": -75.724472,
+        "end_latitude": 45.418213,
+        "end_longitude": -75.715971,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 27220262845,
+      "resource_state": 2,
+      "name": "Bayview Turnoff to Booth",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 159,
+      "moving_time": 159,
+      "start_date": "2015-07-29T20:00:31Z",
+      "start_date_local": "2015-07-29T16:00:31Z",
+      "distance": 1070.5,
+      "start_index": 15754,
+      "end_index": 15912,
+      "device_watts": false,
+      "average_watts": 140.4,
+      "segment": {
+        "id": 15561096,
+        "resource_state": 2,
+        "name": "Bayview Turnoff to Booth",
+        "activity_type": "Ride",
+        "distance": 1070.5,
+        "average_grade": -0.2,
+        "maximum_grade": 5,
+        "elevation_high": 61,
+        "elevation_low": 45.3,
+        "start_latlng": [
+          45.41185,
+          -75.724054
+        ],
+        "end_latlng": [
+          45.418294,
+          -75.716688
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.41185,
+        "start_longitude": -75.724054,
+        "end_latitude": 45.418294,
+        "end_longitude": -75.716688,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 14906514397,
+      "resource_state": 2,
+      "name": "#ottbike - ORP EB counter",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 33,
+      "moving_time": 33,
+      "start_date": "2015-07-29T20:00:32Z",
+      "start_date_local": "2015-07-29T16:00:32Z",
+      "distance": 225.1,
+      "start_index": 15755,
+      "end_index": 15788,
+      "device_watts": false,
+      "average_watts": 171.8,
+      "segment": {
+        "id": 12381492,
+        "resource_state": 2,
+        "name": "#ottbike - ORP EB counter",
+        "activity_type": "Ride",
+        "distance": 225.1,
+        "average_grade": 0,
+        "maximum_grade": 4.5,
+        "elevation_high": 59,
+        "elevation_low": 54.7,
+        "start_latlng": [
+          45.411786,
+          -75.724009
+        ],
+        "end_latlng": [
+          45.412431,
+          -75.721297
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.411786,
+        "start_longitude": -75.724009,
+        "end_latitude": 45.412431,
+        "end_longitude": -75.721297,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 13724387891,
+      "resource_state": 2,
+      "name": "Bayview MUP Intersection to Portage Bridge Turnoff",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 376,
+      "moving_time": 288,
+      "start_date": "2015-07-29T20:00:33Z",
+      "start_date_local": "2015-07-29T16:00:33Z",
+      "distance": 1730.4,
+      "start_index": 15756,
+      "end_index": 16045,
+      "device_watts": false,
+      "average_watts": 125,
+      "segment": {
+        "id": 11996555,
+        "resource_state": 2,
+        "name": "Bayview MUP Intersection to Portage Bridge Turnoff",
+        "activity_type": "Ride",
+        "distance": 1730.4,
+        "average_grade": 0.1,
+        "maximum_grade": 10.7,
+        "elevation_high": 58.8,
+        "elevation_low": 46,
+        "start_latlng": [
+          45.41187,
+          -75.723925
+        ],
+        "end_latlng": [
+          45.418945,
+          -75.710004
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.41187,
+        "start_longitude": -75.723925,
+        "end_latitude": 45.418945,
+        "end_longitude": -75.710004,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499139054,
+      "resource_state": 2,
+      "name": "Bike Path (Booth under Wellington to the River)",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 142,
+      "moving_time": 142,
+      "start_date": "2015-07-29T20:05:05Z",
+      "start_date_local": "2015-07-29T16:05:05Z",
+      "distance": 910.4,
+      "start_index": 15941,
+      "end_index": 16083,
+      "device_watts": false,
+      "average_watts": 95.4,
+      "segment": {
+        "id": 4693842,
+        "resource_state": 2,
+        "name": "Bike Path (Booth under Wellington to the River)",
+        "activity_type": "Ride",
+        "distance": 910.4,
+        "average_grade": -1.1,
+        "maximum_grade": 5.8,
+        "elevation_high": 57,
+        "elevation_low": 42.1,
+        "start_latlng": [
+          45.418412,
+          -75.715703
+        ],
+        "end_latlng": [
+          45.421202,
+          -75.709239
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.418412,
+        "start_longitude": -75.715703,
+        "end_latitude": 45.421202,
+        "end_longitude": -75.709239,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2761007983904558000,
+      "resource_state": 2,
+      "name": "Show me some cornering skills boy",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2015-07-29T20:05:09Z",
+      "start_date_local": "2015-07-29T16:05:09Z",
+      "distance": 659.1,
+      "start_index": 15945,
+      "end_index": 16066,
+      "device_watts": false,
+      "average_watts": 102.2,
+      "segment": {
+        "id": 26352013,
+        "resource_state": 2,
+        "name": "Show me some cornering skills boy",
+        "activity_type": "Ride",
+        "distance": 659.1,
+        "average_grade": -1,
+        "maximum_grade": 3.9,
+        "elevation_high": 56.1,
+        "elevation_low": 48.1,
+        "start_latlng": [
+          45.41853,
+          -75.715558
+        ],
+        "end_latlng": [
+          45.420058,
+          -75.710139
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.41853,
+        "start_longitude": -75.715558,
+        "end_latitude": 45.420058,
+        "end_longitude": -75.710139,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2748994418946173400,
+      "resource_state": 2,
+      "name": "Full Speed",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 210,
+      "moving_time": 210,
+      "start_date": "2015-07-29T20:07:04Z",
+      "start_date_local": "2015-07-29T16:07:04Z",
+      "distance": 1265,
+      "start_index": 16060,
+      "end_index": 16270,
+      "device_watts": false,
+      "average_watts": 114.1,
+      "segment": {
+        "id": 25984055,
+        "resource_state": 2,
+        "name": "Full Speed",
+        "activity_type": "Ride",
+        "distance": 1265,
+        "average_grade": -0.8,
+        "maximum_grade": 0.5,
+        "elevation_high": 61.8,
+        "elevation_low": 51.4,
+        "start_latlng": [
+          45.419511,
+          -75.710188
+        ],
+        "end_latlng": [
+          45.426512,
+          -75.699558
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.419511,
+        "start_longitude": -75.710188,
+        "end_latitude": 45.426512,
+        "end_longitude": -75.699558,
+        "climb_category": 0,
+        "city": "Gatineau",
+        "state": "Quebec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499139116,
+      "resource_state": 2,
+      "name": "Rideau Locks Climb",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 197,
+      "moving_time": 197,
+      "start_date": "2015-07-29T20:10:06Z",
+      "start_date_local": "2015-07-29T16:10:06Z",
+      "distance": 727.546,
+      "start_index": 16242,
+      "end_index": 16439,
+      "device_watts": false,
+      "average_watts": 182,
+      "segment": {
+        "id": 655808,
+        "resource_state": 2,
+        "name": "Rideau Locks Climb",
+        "activity_type": "Ride",
+        "distance": 727.546,
+        "average_grade": 2,
+        "maximum_grade": 10.8,
+        "elevation_high": 66.2,
+        "elevation_low": 45.6,
+        "start_latlng": [
+          45.42598352883634,
+          -75.70148637838732
+        ],
+        "end_latlng": [
+          45.42375110977206,
+          -75.69377958295196
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.42598352883634,
+        "start_longitude": -75.70148637838732,
+        "end_latitude": 45.42375110977206,
+        "end_longitude": -75.69377958295196,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8499139101,
+      "resource_state": 2,
+      "name": "Bytown locks",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 165,
+      "moving_time": 165,
+      "start_date": "2015-07-29T20:10:14Z",
+      "start_date_local": "2015-07-29T16:10:14Z",
+      "distance": 612.73,
+      "start_index": 16250,
+      "end_index": 16415,
+      "device_watts": false,
+      "average_watts": 182.8,
+      "segment": {
+        "id": 829220,
+        "resource_state": 2,
+        "name": "Bytown locks",
+        "activity_type": "Ride",
+        "distance": 612.73,
+        "average_grade": 3.7,
+        "maximum_grade": 8.2,
+        "elevation_high": 86.2,
+        "elevation_low": 63.4,
+        "start_latlng": [
+          45.42627593502402,
+          -75.70106763392687
+        ],
+        "end_latlng": [
+          45.42456812225282,
+          -75.69460342638195
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.42627593502402,
+        "start_longitude": -75.70106763392687,
+        "end_latitude": 45.42456812225282,
+        "end_longitude": -75.69460342638195,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8499139074,
+      "resource_state": 2,
+      "name": "Bytown Locks - gate to start of bridge",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 123,
+      "moving_time": 123,
+      "start_date": "2015-07-29T20:10:40Z",
+      "start_date_local": "2015-07-29T16:10:40Z",
+      "distance": 359.854,
+      "start_index": 16276,
+      "end_index": 16399,
+      "device_watts": false,
+      "average_watts": 191.8,
+      "segment": {
+        "id": 2361066,
+        "resource_state": 2,
+        "name": "Bytown Locks - gate to start of bridge",
+        "activity_type": "Ride",
+        "distance": 359.854,
+        "average_grade": 1.4,
+        "maximum_grade": 13.7,
+        "elevation_high": 81.7,
+        "elevation_low": 71.4,
+        "start_latlng": [
+          45.426464,
+          -75.699234
+        ],
+        "end_latlng": [
+          45.424828,
+          -75.695328
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.426464,
+        "start_longitude": -75.699234,
+        "end_latitude": 45.424828,
+        "end_longitude": -75.695328,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 17868243894,
+      "resource_state": 2,
+      "name": "Canal Ln Ascent - path West of museum",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2015-07-29T20:10:59Z",
+      "start_date_local": "2015-07-29T16:10:59Z",
+      "distance": 282.8,
+      "start_index": 16295,
+      "end_index": 16394,
+      "device_watts": false,
+      "average_watts": 195.3,
+      "segment": {
+        "id": 13319192,
+        "resource_state": 2,
+        "name": "Canal Ln Ascent - path West of museum",
+        "activity_type": "Ride",
+        "distance": 282.8,
+        "average_grade": 1.2,
+        "maximum_grade": 26.4,
+        "elevation_high": 82,
+        "elevation_low": 74.6,
+        "start_latlng": [
+          45.426349,
+          -75.698424
+        ],
+        "end_latlng": [
+          45.424855,
+          -75.695602
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.426349,
+        "start_longitude": -75.698424,
+        "end_latitude": 45.424855,
+        "end_longitude": -75.695602,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2689696329930330600,
+      "resource_state": 2,
+      "name": "Top half of Locks climb + hook up to Wellington ",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 142,
+      "moving_time": 142,
+      "start_date": "2015-07-29T20:11:33Z",
+      "start_date_local": "2015-07-29T16:11:33Z",
+      "distance": 400.5,
+      "start_index": 16329,
+      "end_index": 16471,
+      "device_watts": false,
+      "average_watts": 187.8,
+      "segment": {
+        "id": 23637841,
+        "resource_state": 2,
+        "name": "Top half of Locks climb + hook up to Wellington ",
+        "activity_type": "Ride",
+        "distance": 400.5,
+        "average_grade": 5.5,
+        "maximum_grade": 16,
+        "elevation_high": 71.6,
+        "elevation_low": 49.4,
+        "start_latlng": [
+          45.425722,
+          -75.697216
+        ],
+        "end_latlng": [
+          45.423915,
+          -75.694687
+        ],
+        "elevation_profile": null,
+        "start_latitude": 45.425722,
+        "start_longitude": -75.697216,
+        "end_latitude": 45.423915,
+        "end_longitude": -75.694687,
+        "climb_category": 0,
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1004.8,
+      "elapsed_time": 227,
+      "elevation_difference": 0.2,
+      "moving_time": 224,
+      "split": 1,
+      "average_speed": 4.49,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 175,
+      "elevation_difference": 0.6,
+      "moving_time": 175,
+      "split": 2,
+      "average_speed": 5.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 152,
+      "elevation_difference": -0.4,
+      "moving_time": 152,
+      "split": 3,
+      "average_speed": 6.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 161,
+      "elevation_difference": 0,
+      "moving_time": 161,
+      "split": 4,
+      "average_speed": 6.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 84,
+      "elevation_difference": -36.6,
+      "moving_time": 84,
+      "split": 5,
+      "average_speed": 11.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 141,
+      "elevation_difference": -5.4,
+      "moving_time": 141,
+      "split": 6,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 167,
+      "elevation_difference": 3,
+      "moving_time": 167,
+      "split": 7,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 181,
+      "elevation_difference": 8.6,
+      "moving_time": 181,
+      "split": 8,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 123,
+      "elevation_difference": -9.8,
+      "moving_time": 123,
+      "split": 9,
+      "average_speed": 8.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.5,
+      "elapsed_time": 127,
+      "elevation_difference": -21.2,
+      "moving_time": 127,
+      "split": 10,
+      "average_speed": 7.96,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 107,
+      "elevation_difference": -16,
+      "moving_time": 107,
+      "split": 11,
+      "average_speed": 9.29,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995,
+      "elapsed_time": 137,
+      "elevation_difference": -6.2,
+      "moving_time": 137,
+      "split": 12,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 156,
+      "elevation_difference": -1.8,
+      "moving_time": 156,
+      "split": 13,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 162,
+      "elevation_difference": 1.4,
+      "moving_time": 162,
+      "split": 14,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 172,
+      "elevation_difference": 6.8,
+      "moving_time": 172,
+      "split": 15,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 160,
+      "elevation_difference": 0.2,
+      "moving_time": 160,
+      "split": 16,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 144,
+      "elevation_difference": -2.8,
+      "moving_time": 144,
+      "split": 17,
+      "average_speed": 6.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 150,
+      "elevation_difference": 2.2,
+      "moving_time": 150,
+      "split": 18,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 292,
+      "elevation_difference": 4,
+      "moving_time": 169,
+      "split": 19,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 208,
+      "elevation_difference": 22.8,
+      "moving_time": 208,
+      "split": 20,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 162,
+      "elevation_difference": 6,
+      "moving_time": 162,
+      "split": 21,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 154,
+      "elevation_difference": -0.2,
+      "moving_time": 154,
+      "split": 22,
+      "average_speed": 6.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 157,
+      "elevation_difference": 4.8,
+      "moving_time": 157,
+      "split": 23,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 204,
+      "elevation_difference": 15,
+      "moving_time": 204,
+      "split": 24,
+      "average_speed": 4.92,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 132,
+      "elevation_difference": -2.6,
+      "moving_time": 132,
+      "split": 25,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 150,
+      "elevation_difference": 3,
+      "moving_time": 150,
+      "split": 26,
+      "average_speed": 6.7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 113,
+      "elevation_difference": -9.6,
+      "moving_time": 113,
+      "split": 27,
+      "average_speed": 8.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 141,
+      "elevation_difference": 7.4,
+      "moving_time": 141,
+      "split": 28,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 179,
+      "elevation_difference": -13,
+      "moving_time": 179,
+      "split": 29,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.6,
+      "elapsed_time": 141,
+      "elevation_difference": -18.8,
+      "moving_time": 141,
+      "split": 30,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 131,
+      "elevation_difference": -5,
+      "moving_time": 131,
+      "split": 31,
+      "average_speed": 7.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 116,
+      "elevation_difference": -4.8,
+      "moving_time": 116,
+      "split": 32,
+      "average_speed": 8.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 149,
+      "elevation_difference": -4.4,
+      "moving_time": 149,
+      "split": 33,
+      "average_speed": 6.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 1190,
+      "elevation_difference": -5.4,
+      "moving_time": 197,
+      "split": 34,
+      "average_speed": 5.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 187,
+      "elevation_difference": 1.6,
+      "moving_time": 164,
+      "split": 35,
+      "average_speed": 6.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 199,
+      "elevation_difference": 16.4,
+      "moving_time": 199,
+      "split": 36,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 153,
+      "elevation_difference": -0.8,
+      "moving_time": 153,
+      "split": 37,
+      "average_speed": 6.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 138,
+      "elevation_difference": -4.2,
+      "moving_time": 138,
+      "split": 38,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 160,
+      "elevation_difference": 3.4,
+      "moving_time": 160,
+      "split": 39,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 145,
+      "elevation_difference": 1.4,
+      "moving_time": 145,
+      "split": 40,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.5,
+      "elapsed_time": 799,
+      "elevation_difference": -3.6,
+      "moving_time": 172,
+      "split": 41,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 143,
+      "elevation_difference": -1,
+      "moving_time": 143,
+      "split": 42,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 134,
+      "elevation_difference": -11.2,
+      "moving_time": 134,
+      "split": 43,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 240,
+      "elevation_difference": -4.6,
+      "moving_time": 168,
+      "split": 44,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 260,
+      "elevation_difference": 25,
+      "moving_time": 260,
+      "split": 45,
+      "average_speed": 3.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 180,
+      "elevation_difference": -1,
+      "moving_time": 180,
+      "split": 46,
+      "average_speed": 5.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998,
+      "elapsed_time": 173,
+      "elevation_difference": 2.2,
+      "moving_time": 173,
+      "split": 47,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 273,
+      "elevation_difference": 2.6,
+      "moving_time": 197,
+      "split": 48,
+      "average_speed": 5.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 153,
+      "elevation_difference": -5.6,
+      "moving_time": 153,
+      "split": 49,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 132,
+      "elevation_difference": -17,
+      "moving_time": 132,
+      "split": 50,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 541,
+      "elevation_difference": 0.2,
+      "moving_time": 183,
+      "split": 51,
+      "average_speed": 5.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 164,
+      "elevation_difference": 8.4,
+      "moving_time": 164,
+      "split": 52,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 246,
+      "elevation_difference": 17.2,
+      "moving_time": 175,
+      "split": 53,
+      "average_speed": 5.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 147,
+      "elevation_difference": -2,
+      "moving_time": 147,
+      "split": 54,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 114,
+      "elevation_difference": -10.6,
+      "moving_time": 114,
+      "split": 55,
+      "average_speed": 8.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 112,
+      "elevation_difference": -3.2,
+      "moving_time": 112,
+      "split": 56,
+      "average_speed": 8.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 145,
+      "elevation_difference": 8.2,
+      "moving_time": 145,
+      "split": 57,
+      "average_speed": 6.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 124,
+      "elevation_difference": -12.4,
+      "moving_time": 124,
+      "split": 58,
+      "average_speed": 8.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.9,
+      "elapsed_time": 121,
+      "elevation_difference": -4.2,
+      "moving_time": 121,
+      "split": 59,
+      "average_speed": 8.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 140,
+      "elevation_difference": 0.2,
+      "moving_time": 140,
+      "split": 60,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 151,
+      "elevation_difference": 4.8,
+      "moving_time": 151,
+      "split": 61,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 138,
+      "elevation_difference": 5.6,
+      "moving_time": 138,
+      "split": 62,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 135,
+      "elevation_difference": 3,
+      "moving_time": 135,
+      "split": 63,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 152,
+      "elevation_difference": 2.6,
+      "moving_time": 152,
+      "split": 64,
+      "average_speed": 6.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 145,
+      "elevation_difference": 1.4,
+      "moving_time": 145,
+      "split": 65,
+      "average_speed": 6.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 148,
+      "elevation_difference": 2.4,
+      "moving_time": 148,
+      "split": 66,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 482,
+      "elevation_difference": -1.8,
+      "moving_time": 165,
+      "split": 67,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 146,
+      "elevation_difference": -2,
+      "moving_time": 146,
+      "split": 68,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 144,
+      "elevation_difference": -4.4,
+      "moving_time": 144,
+      "split": 69,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 174,
+      "elevation_difference": -9.6,
+      "moving_time": 146,
+      "split": 70,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 152,
+      "elevation_difference": 4.2,
+      "moving_time": 152,
+      "split": 71,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 169,
+      "elevation_difference": 11.4,
+      "moving_time": 169,
+      "split": 72,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 222,
+      "elevation_difference": 17.2,
+      "moving_time": 222,
+      "split": 73,
+      "average_speed": 4.49,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 139,
+      "elevation_difference": -12,
+      "moving_time": 139,
+      "split": 74,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 161,
+      "elevation_difference": -1.6,
+      "moving_time": 161,
+      "split": 75,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 145,
+      "elevation_difference": -11.4,
+      "moving_time": 145,
+      "split": 76,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.6,
+      "elapsed_time": 119,
+      "elevation_difference": -15.6,
+      "moving_time": 119,
+      "split": 77,
+      "average_speed": 8.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 2990,
+      "elevation_difference": -15,
+      "moving_time": 195,
+      "split": 78,
+      "average_speed": 5.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997,
+      "elapsed_time": 169,
+      "elevation_difference": 5.6,
+      "moving_time": 169,
+      "split": 79,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.4,
+      "elapsed_time": 188,
+      "elevation_difference": -7,
+      "moving_time": 138,
+      "split": 80,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994,
+      "elapsed_time": 147,
+      "elevation_difference": 0.8,
+      "moving_time": 147,
+      "split": 81,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 140,
+      "elevation_difference": -2.4,
+      "moving_time": 140,
+      "split": 82,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 184,
+      "elevation_difference": 3.2,
+      "moving_time": 150,
+      "split": 83,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 149,
+      "elevation_difference": -5,
+      "moving_time": 149,
+      "split": 84,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001,
+      "elapsed_time": 139,
+      "elevation_difference": 1,
+      "moving_time": 139,
+      "split": 85,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 127,
+      "elevation_difference": -4.4,
+      "moving_time": 127,
+      "split": 86,
+      "average_speed": 7.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 139,
+      "elevation_difference": 0.6,
+      "moving_time": 134,
+      "split": 87,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.6,
+      "elapsed_time": 148,
+      "elevation_difference": -2,
+      "moving_time": 148,
+      "split": 88,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 143,
+      "elevation_difference": 1,
+      "moving_time": 143,
+      "split": 89,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 159,
+      "elevation_difference": -1.2,
+      "moving_time": 153,
+      "split": 90,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 166,
+      "elevation_difference": -3.2,
+      "moving_time": 146,
+      "split": 91,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 131,
+      "elevation_difference": 1.4,
+      "moving_time": 131,
+      "split": 92,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 126,
+      "elevation_difference": -3,
+      "moving_time": 126,
+      "split": 93,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 123,
+      "elevation_difference": -1.2,
+      "moving_time": 123,
+      "split": 94,
+      "average_speed": 8.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 136,
+      "elevation_difference": 3,
+      "moving_time": 136,
+      "split": 95,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 126,
+      "elevation_difference": -2.8,
+      "moving_time": 126,
+      "split": 96,
+      "average_speed": 7.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 352,
+      "elevation_difference": 10,
+      "moving_time": 245,
+      "split": 97,
+      "average_speed": 4.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 6361,
+      "elevation_difference": 10,
+      "moving_time": 187,
+      "split": 98,
+      "average_speed": 5.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 5200,
+      "elevation_difference": 0.2,
+      "moving_time": 185,
+      "split": 99,
+      "average_speed": 5.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 213,
+      "elevation_difference": 0.2,
+      "moving_time": 201,
+      "split": 100,
+      "average_speed": 4.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 237,
+      "elevation_difference": -7,
+      "moving_time": 172,
+      "split": 101,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 158,
+      "elevation_difference": -0.4,
+      "moving_time": 158,
+      "split": 102,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 148,
+      "elevation_difference": 1.2,
+      "moving_time": 148,
+      "split": 103,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 266,
+      "elevation_difference": -9.8,
+      "moving_time": 180,
+      "split": 104,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 173,
+      "elevation_difference": 0.4,
+      "moving_time": 173,
+      "split": 105,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 304,
+      "elevation_difference": 22.2,
+      "moving_time": 286,
+      "split": 106,
+      "average_speed": 3.49,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 254,
+      "elevation_difference": -7.6,
+      "moving_time": 183,
+      "split": 107,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 476.3,
+      "elapsed_time": 86,
+      "elevation_difference": -0.6,
+      "moving_time": 86,
+      "split": 108,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.2,
+      "elapsed_time": 338,
+      "elevation_difference": 1,
+      "moving_time": 335,
+      "split": 1,
+      "average_speed": 4.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 248,
+      "elevation_difference": -1.4,
+      "moving_time": 248,
+      "split": 2,
+      "average_speed": 6.5,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.5,
+      "elapsed_time": 193,
+      "elevation_difference": -38.2,
+      "moving_time": 193,
+      "split": 3,
+      "average_speed": 8.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 226,
+      "elevation_difference": -3.8,
+      "moving_time": 226,
+      "split": 4,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 289,
+      "elevation_difference": 11.8,
+      "moving_time": 289,
+      "split": 5,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 211,
+      "elevation_difference": -13.4,
+      "moving_time": 211,
+      "split": 6,
+      "average_speed": 7.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.6,
+      "elapsed_time": 180,
+      "elevation_difference": -35.2,
+      "moving_time": 180,
+      "split": 7,
+      "average_speed": 8.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.8,
+      "elapsed_time": 234,
+      "elevation_difference": -5.6,
+      "moving_time": 234,
+      "split": 8,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 253,
+      "elevation_difference": -1.8,
+      "moving_time": 253,
+      "split": 9,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 272,
+      "elevation_difference": 6.6,
+      "moving_time": 272,
+      "split": 10,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 236,
+      "elevation_difference": 4,
+      "moving_time": 236,
+      "split": 11,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 422,
+      "elevation_difference": 17.2,
+      "moving_time": 299,
+      "split": 12,
+      "average_speed": 5.37,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 273,
+      "elevation_difference": 14.6,
+      "moving_time": 273,
+      "split": 13,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 250,
+      "elevation_difference": 2.2,
+      "moving_time": 250,
+      "split": 14,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 299,
+      "elevation_difference": 16.2,
+      "moving_time": 299,
+      "split": 15,
+      "average_speed": 5.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 227,
+      "elevation_difference": 4.6,
+      "moving_time": 227,
+      "split": 16,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 192,
+      "elevation_difference": -10.8,
+      "moving_time": 192,
+      "split": 17,
+      "average_speed": 8.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.9,
+      "elapsed_time": 269,
+      "elevation_difference": -8.4,
+      "moving_time": 269,
+      "split": 18,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 225,
+      "elevation_difference": -18,
+      "moving_time": 225,
+      "split": 19,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605,
+      "elapsed_time": 199,
+      "elevation_difference": -7.4,
+      "moving_time": 199,
+      "split": 20,
+      "average_speed": 8.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 1273,
+      "elevation_difference": -7.6,
+      "moving_time": 280,
+      "split": 21,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 305,
+      "elevation_difference": 4.4,
+      "moving_time": 282,
+      "split": 22,
+      "average_speed": 5.7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 272,
+      "elevation_difference": 8.8,
+      "moving_time": 272,
+      "split": 23,
+      "average_speed": 5.92,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 238,
+      "elevation_difference": -2.2,
+      "moving_time": 238,
+      "split": 24,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 238,
+      "elevation_difference": 1.2,
+      "moving_time": 238,
+      "split": 25,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 884,
+      "elevation_difference": -3.8,
+      "moving_time": 257,
+      "split": 26,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604,
+      "elapsed_time": 219,
+      "elevation_difference": -11.8,
+      "moving_time": 219,
+      "split": 27,
+      "average_speed": 7.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 451,
+      "elevation_difference": 21,
+      "moving_time": 379,
+      "split": 28,
+      "average_speed": 4.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613,
+      "elapsed_time": 285,
+      "elevation_difference": 0.8,
+      "moving_time": 285,
+      "split": 29,
+      "average_speed": 5.66,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 380,
+      "elevation_difference": 4.6,
+      "moving_time": 304,
+      "split": 30,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 215,
+      "elevation_difference": -23.4,
+      "moving_time": 215,
+      "split": 31,
+      "average_speed": 7.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 637,
+      "elevation_difference": 3,
+      "moving_time": 279,
+      "split": 32,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 350,
+      "elevation_difference": 20.2,
+      "moving_time": 279,
+      "split": 33,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 214,
+      "elevation_difference": -5.8,
+      "moving_time": 214,
+      "split": 34,
+      "average_speed": 7.52,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 186,
+      "elevation_difference": -5.6,
+      "moving_time": 186,
+      "split": 35,
+      "average_speed": 8.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.7,
+      "elapsed_time": 218,
+      "elevation_difference": -5.2,
+      "moving_time": 218,
+      "split": 36,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.4,
+      "elapsed_time": 206,
+      "elevation_difference": -6.6,
+      "moving_time": 206,
+      "split": 37,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 235,
+      "elevation_difference": 6.4,
+      "moving_time": 235,
+      "split": 38,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 216,
+      "elevation_difference": 7.2,
+      "moving_time": 216,
+      "split": 39,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 241,
+      "elevation_difference": 4.6,
+      "moving_time": 241,
+      "split": 40,
+      "average_speed": 6.68,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.3,
+      "elapsed_time": 235,
+      "elevation_difference": 2.4,
+      "moving_time": 235,
+      "split": 41,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 571,
+      "elevation_difference": -2.8,
+      "moving_time": 254,
+      "split": 42,
+      "average_speed": 6.34,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 229,
+      "elevation_difference": -7,
+      "moving_time": 229,
+      "split": 43,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 272,
+      "elevation_difference": -3,
+      "moving_time": 244,
+      "split": 44,
+      "average_speed": 6.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 285,
+      "elevation_difference": 15.8,
+      "moving_time": 285,
+      "split": 45,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 279,
+      "elevation_difference": 0.2,
+      "moving_time": 279,
+      "split": 46,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 242,
+      "elevation_difference": -9.2,
+      "moving_time": 242,
+      "split": 47,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 215,
+      "elevation_difference": -20.8,
+      "moving_time": 215,
+      "split": 48,
+      "average_speed": 7.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 3099,
+      "elevation_difference": -9.2,
+      "moving_time": 304,
+      "split": 49,
+      "average_speed": 5.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605,
+      "elapsed_time": 280,
+      "elevation_difference": -4.8,
+      "moving_time": 230,
+      "split": 50,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 230,
+      "elevation_difference": -1.8,
+      "moving_time": 230,
+      "split": 51,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 276,
+      "elevation_difference": -1,
+      "moving_time": 242,
+      "split": 52,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 223,
+      "elevation_difference": -0.6,
+      "moving_time": 223,
+      "split": 53,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.7,
+      "elapsed_time": 204,
+      "elevation_difference": -3.8,
+      "moving_time": 204,
+      "split": 54,
+      "average_speed": 7.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 251,
+      "elevation_difference": -1,
+      "moving_time": 246,
+      "split": 55,
+      "average_speed": 6.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 239,
+      "elevation_difference": -2,
+      "moving_time": 233,
+      "split": 56,
+      "average_speed": 6.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607,
+      "elapsed_time": 238,
+      "elevation_difference": -1,
+      "moving_time": 218,
+      "split": 57,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 208,
+      "elevation_difference": -2.8,
+      "moving_time": 208,
+      "split": 58,
+      "average_speed": 7.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 213,
+      "elevation_difference": 2.6,
+      "moving_time": 213,
+      "split": 59,
+      "average_speed": 7.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 334,
+      "elevation_difference": 4.4,
+      "moving_time": 269,
+      "split": 60,
+      "average_speed": 5.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 6549,
+      "elevation_difference": 12.2,
+      "moving_time": 333,
+      "split": 61,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 5331,
+      "elevation_difference": 1.2,
+      "moving_time": 304,
+      "split": 62,
+      "average_speed": 5.29,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 343,
+      "elevation_difference": -7.6,
+      "moving_time": 278,
+      "split": 63,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 244,
+      "elevation_difference": 0.4,
+      "moving_time": 244,
+      "split": 64,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 359,
+      "elevation_difference": -10.4,
+      "moving_time": 273,
+      "split": 65,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 428,
+      "elevation_difference": 20.4,
+      "moving_time": 410,
+      "split": 66,
+      "average_speed": 3.92,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1258.6,
+      "elapsed_time": 296,
+      "elevation_difference": -5.4,
+      "moving_time": 225,
+      "split": 67,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1118651195,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 356948331,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 33970,
+      "moving_time": 16822,
+      "start_date": "2015-07-29T10:54:43Z",
+      "start_date_local": "2015-07-29T06:54:43Z",
+      "distance": 107298,
+      "start_index": 0,
+      "end_index": 16802,
+      "total_elevation_gain": 391,
+      "average_speed": 6.38,
+      "max_speed": 15.7,
+      "device_watts": false,
+      "average_watts": 128.7,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "9b945bce77fb571bcaedadbb2a767e49d57f59c8",
+  "available_zones": [
+    "power"
+  ]
+}

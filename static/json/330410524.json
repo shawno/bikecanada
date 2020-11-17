@@ -1,0 +1,3185 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "Blueberry boogie",
+  "distance": 72335.4,
+  "moving_time": 10886,
+  "elapsed_time": 12186,
+  "total_elevation_gain": 313,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 330956315,
+  "external_id": "garmin_push_812188756",
+  "upload_id": 374808683,
+  "start_date": "2015-06-22T20:23:13Z",
+  "start_date_local": "2015-06-22T13:23:13Z",
+  "timezone": "(GMT-08:00) America/Vancouver",
+  "utc_offset": -25200,
+  "start_latlng": [
+    49.115399,
+    -122.656603
+  ],
+  "end_latlng": [
+    49.142161,
+    -121.961123
+  ],
+  "location_city": "Langley",
+  "location_state": "British Columbia",
+  "location_country": "Canada",
+  "start_latitude": 49.115399,
+  "start_longitude": -122.656603,
+  "achievement_count": 0,
+  "kudos_count": 12,
+  "comment_count": 3,
+  "athlete_count": 3,
+  "photo_count": 0,
+  "map": {
+    "id": "a330956315",
+    "polyline": "ezwjHxjskVGD_@CYT_@?eACo@Ky@e@gAeAgCaEyCiEC[Ly@^aA\\i@`AuBtAkCTi@vGcOn@eAR_ARo@tAgDx@qCpAaE\\uARwAJ}A@cBK}B]uBOi@c@mAuAgC[}@Kq@AQFo@V]XFFF^bAvBrMNj@\\dAf@`Av@fAPTl@j@HDl@l@pB~Cr@x@ZE^m@hBcEjA_CbAsA~@u@lAq@fAY|AGvBAfIJhYLhAKl@F^Hl@XZTb@TH?NQfEsUfGg^vBiLjFqZtAmIfBoJ|E{YzF}[TgBfBoJ^cCXsAHq@|Fu\\~@wEd@iBV_A`@eBvDcO`B_H`Oil@bSow@rCsKtBqI^oBfCkK~Iw]bDwMjOol@lGeWJS~@cEnAyHbF{^pGig@pDkXxAsLrAoJnCwTtImo@ZsCtB}OpBsOj@aEd@}ClEkVbJqe@j@_Dj@kDt@cGnAaLtB}PtC_WVcCl@qHf@cFLHn@YGG?ElBiAXYn@Gv@CbDAtDGxQIvK?~OEnJ@dZG`Y?zFIbBFlH@bMAdBB|E?dGEhKDrR?ra@FhEKrE?j@IJOLm@Oe^KmMEuW@sPGki@Hyg@CkR@aE?uREuJ?mIDgF@kGCma@Cu@Is@m@eCMiAAs@Dq@|@}DH_A?qZBuAA}HFgSA_BNaa@DqIEkE@_FGgV?yMEoLYwRq@e\\SqLEiFVkz@Lc[LySHec@Fg_APcl@HwOBmBNef@t@udB]en@EaPc@yq@I}PCqKI_HF_C@yLB_lAFgR?gHD_GBoIA{N@wBEkHBoF?qQIaM?kJK_Q@wLGqM@{HA_GDgICsDEy|@Gu`@@{~AE_s@AoJGeJCkOC_ZDapA@oABw@Gc@Bw@@g`@B}R@}f@Dk_@?ik@HgiA@qp@A_RAmBD_IJguBEw@K_@[g@eBqBSOc@Kmj@GcJ?c\\CSEGc@AOEqc@@sGKgg@OmBq@cCy@_BiDoEmEcGaBmBe@Y[Ii@Ck@AuQBsGAiGDyFAqNBe@DkB@aACEEM]AeJ?md@CgJ@uYK_KIkACOc@w@ca@uf@gIeKu@m@_AMcEO}AE[EYOk@u@aLuRg@w@KIg@K[?}DBaLAqGHiZLoEGqD?u\\DmEAsR@aACeIDgABwF?kAEoP@eDCoK@aBFK@m@XcCvAG?QQCMCqBB{@KGIRAp@WNyFE_H?{UBsICaX?e@AUUUq@SaA_@qAiDsKqAqEk@wBSuACo@CeAAoDFaXCyH@kRCeODsL@}mACyJGUEE_@Mu@BkE?iA@eJC_c@BaOCqOBkDG{IHqW?aABcHEuS?qAC{F?yCBYMgFwRwEqNw@uCu@kDKi@a@cDiCsYUyAk@cBmKkSgB}CeGyJmAaCuCwGcAiCw@yBw@sCc@eB}BgLc@oCYgCmAcOGaEFeOFiETcEt@qHFa@To@d@k@x@O`CBz@CHCPa@Bk@?WI_@EE[KkAByAFY?iAAYMSc@Ks@i@_II}BCiDFu^N_Sb@k|@LcMEyBRq[^mu@GkDW}GOwC{@iJM_FKiB@g@Fg@Na@LSZYrFeC`D_AfC}@TPDFPr@@rCCXCFG@QMe@Co@@Y[OG]I_@?ICGKG_@GA",
+    "resource_state": 3,
+    "summary_polyline": "ezwjHxjskVqG]mJmN`Q{_@fHaUTwKcEsLPqCfFxS|JxMtHkMtEaCfs@hAj}@_gFzgBmgHzt@}uFnTglA~N}rA|DaC`MUzvF_Ba@m_HkAmJlAoH\\akBwBweCjD}}K_BqyCNiwb@kEmGisAQYavAaAqFuQeUocA@k@keBol@st@mMgBaOmVswDJgHzBa@uEc@tAglA]iKi`@MkvD}rDUmPkl@mE{b@gc@e|@yEaTkC{WFq[rAwOrI}DoImAsAuOrBizEeCug@bA_D|OcGn@`FaGkA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "374808683",
+  "average_speed": 6.645,
+  "max_speed": 15.5,
+  "average_temp": 23,
+  "average_watts": 118.8,
+  "kilojoules": 1293.6,
+  "device_watts": false,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 130.6,
+  "elev_low": 11,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "I had no idea riding the farmlands south of Vancouver could be so much fun.\n\nMy rear end damage turned out to ruin a whole 10 spokes. Having hand built the wheelset I was initially planning on replacing the spokes and continuing on, but for the sake of time it was easier to replace the entire wheel with a new (though inferior) one, and get back on the road. All told the sneaky little towel cost me about $300, and the group about 5 hours of delay. Thanks for your patience boys.\n\nWe had a tailwind and amped spirits leaving Langley, so we made good time to Chilliwack. After a late lunch break we pressed on further...",
+  "calories": 1442.4,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 66688864341,
+      "resource_state": 2,
+      "name": "204 Ripper",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 74,
+      "start_date": "2015-06-22T20:23:22Z",
+      "start_date_local": "2015-06-22T13:23:22Z",
+      "distance": 389.8,
+      "start_index": 3,
+      "end_index": 19,
+      "device_watts": false,
+      "average_watts": 116.7,
+      "segment": {
+        "id": 21639194,
+        "resource_state": 2,
+        "name": "204 Ripper",
+        "activity_type": "Ride",
+        "distance": 389.8,
+        "average_grade": 0.6,
+        "maximum_grade": 3,
+        "elevation_high": 11.4,
+        "elevation_low": 9,
+        "start_latlng": [
+          49.115486,
+          -122.656591
+        ],
+        "end_latlng": [
+          49.118481,
+          -122.654345
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.115486,
+        "start_longitude": -122.656591,
+        "end_latitude": 49.118481,
+        "end_longitude": -122.654345,
+        "climb_category": 0,
+        "city": "Langley City",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496132,
+      "resource_state": 2,
+      "name": "Mufford Fly-over",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 174,
+      "moving_time": 174,
+      "start_date": "2015-06-22T20:24:50Z",
+      "start_date_local": "2015-06-22T13:24:50Z",
+      "distance": 1175.7,
+      "start_index": 25,
+      "end_index": 81,
+      "device_watts": false,
+      "average_watts": 110.9,
+      "segment": {
+        "id": 7956160,
+        "resource_state": 2,
+        "name": "Mufford Fly-over",
+        "activity_type": "Ride",
+        "distance": 1175.7,
+        "average_grade": -0.6,
+        "maximum_grade": 8.3,
+        "elevation_high": 15.2,
+        "elevation_low": 2.6,
+        "start_latlng": [
+          49.118423,
+          -122.653416
+        ],
+        "end_latlng": [
+          49.115212,
+          -122.640087
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.118423,
+        "start_longitude": -122.653416,
+        "end_latitude": 49.115212,
+        "end_longitude": -122.640087,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496144,
+      "resource_state": 2,
+      "name": "Airport Flats Westbound",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 216,
+      "moving_time": 216,
+      "start_date": "2015-06-22T20:34:57Z",
+      "start_date_local": "2015-06-22T13:34:57Z",
+      "distance": 1424.4,
+      "start_index": 163,
+      "end_index": 200,
+      "device_watts": false,
+      "average_watts": 116,
+      "segment": {
+        "id": 9739930,
+        "resource_state": 2,
+        "name": "Airport Flats Westbound",
+        "activity_type": "Ride",
+        "distance": 1424.4,
+        "average_grade": 0.3,
+        "maximum_grade": 2,
+        "elevation_high": 14,
+        "elevation_low": 8,
+        "start_latlng": [
+          49.10094,
+          -122.64328
+        ],
+        "end_latlng": [
+          49.09615,
+          -122.62517
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.10094,
+        "start_longitude": -122.64328,
+        "end_latitude": 49.09615,
+        "end_longitude": -122.62517,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 52378880764,
+      "resource_state": 2,
+      "name": "Long Climb to Aldergrove",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1789,
+      "moving_time": 1789,
+      "start_date": "2015-06-22T20:39:04Z",
+      "start_date_local": "2015-06-22T13:39:04Z",
+      "distance": 10272.2,
+      "start_index": 206,
+      "end_index": 555,
+      "device_watts": false,
+      "average_watts": 144.5,
+      "segment": {
+        "id": 19676214,
+        "resource_state": 2,
+        "name": "Long Climb to Aldergrove",
+        "activity_type": "Ride",
+        "distance": 10272.2,
+        "average_grade": 1,
+        "maximum_grade": 7.9,
+        "elevation_high": -76.4,
+        "elevation_low": -193.6,
+        "start_latlng": [
+          49.095717,
+          -122.624059
+        ],
+        "end_latlng": [
+          49.059828,
+          -122.494993
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.095717,
+        "start_longitude": -122.624059,
+        "end_latitude": 49.059828,
+        "end_longitude": -122.494993,
+        "climb_category": 0,
+        "city": "Langley Township",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496156,
+      "resource_state": 2,
+      "name": "Hospital Hill",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 297,
+      "moving_time": 297,
+      "start_date": "2015-06-22T20:39:12Z",
+      "start_date_local": "2015-06-22T13:39:12Z",
+      "distance": 1199.2,
+      "start_index": 207,
+      "end_index": 275,
+      "device_watts": false,
+      "average_watts": 205.1,
+      "segment": {
+        "id": 7298979,
+        "resource_state": 2,
+        "name": "Hospital Hill",
+        "activity_type": "Ride",
+        "distance": 1199.2,
+        "average_grade": 3.7,
+        "maximum_grade": 8.2,
+        "elevation_high": 79.8,
+        "elevation_low": 35.4,
+        "start_latlng": [
+          49.095567,
+          -122.623292
+        ],
+        "end_latlng": [
+          49.091527,
+          -122.608192
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.095567,
+        "start_longitude": -122.623292,
+        "end_latitude": 49.091527,
+        "end_longitude": -122.608192,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 27163639529,
+      "resource_state": 2,
+      "name": "F Hwy 248 to 264",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 530,
+      "moving_time": 530,
+      "start_date": "2015-06-22T21:00:35Z",
+      "start_date_local": "2015-06-22T14:00:35Z",
+      "distance": 3344.2,
+      "start_index": 454,
+      "end_index": 563,
+      "device_watts": false,
+      "average_watts": 129.4,
+      "segment": {
+        "id": 15547570,
+        "resource_state": 2,
+        "name": "F Hwy 248 to 264",
+        "activity_type": "Ride",
+        "distance": 3344.2,
+        "average_grade": 0.3,
+        "maximum_grade": 7.2,
+        "elevation_high": 102,
+        "elevation_low": 80,
+        "start_latlng": [
+          49.069312,
+          -122.536657
+        ],
+        "end_latlng": [
+          49.059587,
+          -122.493345
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.069312,
+        "start_longitude": -122.536657,
+        "end_latitude": 49.059587,
+        "end_longitude": -122.493345,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 13066435946,
+      "resource_state": 2,
+      "name": "F Hwy 256 to Highway 13",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 914,
+      "moving_time": 279,
+      "start_date": "2015-06-22T21:05:23Z",
+      "start_date_local": "2015-06-22T14:05:23Z",
+      "distance": 1658.9,
+      "start_index": 508,
+      "end_index": 575,
+      "device_watts": false,
+      "average_watts": 115.2,
+      "segment": {
+        "id": 11783559,
+        "resource_state": 2,
+        "name": "F Hwy 256 to Highway 13",
+        "activity_type": "Ride",
+        "distance": 1658.9,
+        "average_grade": -0.3,
+        "maximum_grade": 8.4,
+        "elevation_high": 125.8,
+        "elevation_low": 113.4,
+        "start_latlng": [
+          49.064261,
+          -122.514463
+        ],
+        "end_latlng": [
+          49.059518,
+          -122.49299
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.064261,
+        "start_longitude": -122.514463,
+        "end_latitude": 49.059518,
+        "end_longitude": -122.49299,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 66958290174,
+      "resource_state": 2,
+      "name": "264th Ripper From Fraser to 16th",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 434,
+      "moving_time": 434,
+      "start_date": "2015-06-22T21:21:06Z",
+      "start_date_local": "2015-06-22T14:21:06Z",
+      "distance": 3045,
+      "start_index": 580,
+      "end_index": 675,
+      "device_watts": false,
+      "average_watts": 102.8,
+      "segment": {
+        "id": 21680294,
+        "resource_state": 2,
+        "name": "264th Ripper From Fraser to 16th",
+        "activity_type": "Ride",
+        "distance": 3045,
+        "average_grade": -0.7,
+        "maximum_grade": 6,
+        "elevation_high": 142.6,
+        "elevation_low": 107.4,
+        "start_latlng": [
+          49.059046,
+          -122.492798
+        ],
+        "end_latlng": [
+          49.031616,
+          -122.492655
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.059046,
+        "start_longitude": -122.492798,
+        "end_latitude": 49.031616,
+        "end_longitude": -122.492655,
+        "climb_category": 0,
+        "city": "Langley Township",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 18850707725,
+      "resource_state": 2,
+      "name": "Aldergrove to 16th Express",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 293,
+      "moving_time": 293,
+      "start_date": "2015-06-22T21:23:10Z",
+      "start_date_local": "2015-06-22T14:23:10Z",
+      "distance": 2444.4,
+      "start_index": 607,
+      "end_index": 672,
+      "device_watts": false,
+      "average_watts": 100.7,
+      "segment": {
+        "id": 13617317,
+        "resource_state": 2,
+        "name": "Aldergrove to 16th Express",
+        "activity_type": "Ride",
+        "distance": 2444.4,
+        "average_grade": -1.3,
+        "maximum_grade": 2.5,
+        "elevation_high": 119.2,
+        "elevation_low": 84.6,
+        "start_latlng": [
+          49.054292,
+          -122.49264
+        ],
+        "end_latlng": [
+          49.032329,
+          -122.492565
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.054292,
+        "start_longitude": -122.49264,
+        "end_latitude": 49.032329,
+        "end_longitude": -122.492565,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 7841496171,
+      "resource_state": 2,
+      "name": "8th ave climb",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 244,
+      "moving_time": 244,
+      "start_date": "2015-06-22T21:32:18Z",
+      "start_date_local": "2015-06-22T14:32:18Z",
+      "distance": 1505.4,
+      "start_index": 729,
+      "end_index": 788,
+      "device_watts": false,
+      "average_watts": 187.8,
+      "segment": {
+        "id": 7637437,
+        "resource_state": 2,
+        "name": "8th ave climb",
+        "activity_type": "Ride",
+        "distance": 1505.4,
+        "average_grade": 1.1,
+        "maximum_grade": 10.7,
+        "elevation_high": 97.1,
+        "elevation_low": 75.9,
+        "start_latlng": [
+          49.016736,
+          -122.491786
+        ],
+        "end_latlng": [
+          49.016914,
+          -122.47117
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016736,
+        "start_longitude": -122.491786,
+        "end_latitude": 49.016914,
+        "end_longitude": -122.47117,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 15968198637,
+      "resource_state": 2,
+      "name": "Rolling along 8th Avenue",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 713,
+      "moving_time": 713,
+      "start_date": "2015-06-22T21:32:33Z",
+      "start_date_local": "2015-06-22T14:32:33Z",
+      "distance": 4674,
+      "start_index": 734,
+      "end_index": 919,
+      "device_watts": false,
+      "average_watts": 162.6,
+      "segment": {
+        "id": 12712378,
+        "resource_state": 2,
+        "name": "Rolling along 8th Avenue",
+        "activity_type": "Ride",
+        "distance": 4674,
+        "average_grade": 0,
+        "maximum_grade": 9.5,
+        "elevation_high": 96.8,
+        "elevation_low": 56.6,
+        "start_latlng": [
+          49.016766,
+          -122.490557
+        ],
+        "end_latlng": [
+          49.016803,
+          -122.426794
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016766,
+        "start_longitude": -122.490557,
+        "end_latitude": 49.016803,
+        "end_longitude": -122.426794,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496184,
+      "resource_state": 2,
+      "name": "Aldergrove SS 8th Ave Segment",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 199,
+      "start_date": "2015-06-22T21:36:34Z",
+      "start_date_local": "2015-06-22T14:36:34Z",
+      "distance": 1573.75,
+      "start_index": 792,
+      "end_index": 843,
+      "device_watts": false,
+      "average_watts": 108.2,
+      "segment": {
+        "id": 3546022,
+        "resource_state": 2,
+        "name": "Aldergrove SS 8th Ave Segment",
+        "activity_type": "Ride",
+        "distance": 1573.75,
+        "average_grade": -1.8,
+        "maximum_grade": 2.7,
+        "elevation_high": 98,
+        "elevation_low": 64.2,
+        "start_latlng": [
+          49.016903042793274,
+          -122.47050097212195
+        ],
+        "end_latlng": [
+          49.01686658151448,
+          -122.44897197000682
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016903042793274,
+        "start_longitude": -122.47050097212195,
+        "end_latitude": 49.01686658151448,
+        "end_longitude": -122.44897197000682,
+        "climb_category": 0,
+        "city": "Langley",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2743018229255279000,
+      "resource_state": 2,
+      "name": "Get Me Off This Road!",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1321,
+      "moving_time": 1321,
+      "start_date": "2015-06-22T21:44:55Z",
+      "start_date_local": "2015-06-22T14:44:55Z",
+      "distance": 9542.6,
+      "start_index": 930,
+      "end_index": 1208,
+      "device_watts": false,
+      "average_watts": 125.8,
+      "segment": {
+        "id": 25793630,
+        "resource_state": 2,
+        "name": "Get Me Off This Road!",
+        "activity_type": "Ride",
+        "distance": 9542.6,
+        "average_grade": -0.3,
+        "maximum_grade": 5.2,
+        "elevation_high": 78,
+        "elevation_low": 41.4,
+        "start_latlng": [
+          49.016762,
+          -122.42489
+        ],
+        "end_latlng": [
+          49.01684,
+          -122.294832
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016762,
+        "start_longitude": -122.42489,
+        "end_latitude": 49.01684,
+        "end_longitude": -122.294832,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496201,
+      "resource_state": 2,
+      "name": "Airport stretch",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 515,
+      "moving_time": 515,
+      "start_date": "2015-06-22T21:50:42Z",
+      "start_date_local": "2015-06-22T14:50:42Z",
+      "distance": 3546.83,
+      "start_index": 1016,
+      "end_index": 1098,
+      "device_watts": false,
+      "average_watts": 121.8,
+      "segment": {
+        "id": 1544034,
+        "resource_state": 2,
+        "name": "Airport stretch",
+        "activity_type": "Ride",
+        "distance": 3546.83,
+        "average_grade": 0.6,
+        "maximum_grade": 26.2,
+        "elevation_high": 53.8,
+        "elevation_low": 31.3,
+        "start_latlng": [
+          49.01704243384302,
+          -122.3867716267705
+        ],
+        "end_latlng": [
+          49.016513912938535,
+          -122.33829405158758
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.01704243384302,
+        "start_longitude": -122.3867716267705,
+        "end_latitude": 49.016513912938535,
+        "end_longitude": -122.33829405158758,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "BC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 22609017290,
+      "resource_state": 2,
+      "name": "Vye, Townline to Riverside",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 886,
+      "moving_time": 886,
+      "start_date": "2015-06-22T21:55:30Z",
+      "start_date_local": "2015-06-22T14:55:30Z",
+      "distance": 6197.6,
+      "start_index": 1064,
+      "end_index": 1281,
+      "device_watts": false,
+      "average_watts": 128.4,
+      "segment": {
+        "id": 14499435,
+        "resource_state": 2,
+        "name": "Vye, Townline to Riverside",
+        "activity_type": "Ride",
+        "distance": 6197.6,
+        "average_grade": -0.6,
+        "maximum_grade": 8.8,
+        "elevation_high": 87.6,
+        "elevation_low": 26,
+        "start_latlng": [
+          49.016805,
+          -122.358507
+        ],
+        "end_latlng": [
+          49.016915,
+          -122.273801
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016805,
+        "start_longitude": -122.358507,
+        "end_latitude": 49.016915,
+        "end_longitude": -122.273801,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 22609041792,
+      "resource_state": 2,
+      "name": "Coal Roller's Delight",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 3941,
+      "moving_time": 3532,
+      "start_date": "2015-06-22T21:55:40Z",
+      "start_date_local": "2015-06-22T14:55:40Z",
+      "distance": 24804,
+      "start_index": 1066,
+      "end_index": 1780,
+      "device_watts": false,
+      "average_watts": 108.2,
+      "segment": {
+        "id": 14499467,
+        "resource_state": 2,
+        "name": "Coal Roller's Delight",
+        "activity_type": "Ride",
+        "distance": 24804,
+        "average_grade": -0.2,
+        "maximum_grade": 8.8,
+        "elevation_high": 87.6,
+        "elevation_low": 11.6,
+        "start_latlng": [
+          49.016797,
+          -122.357691
+        ],
+        "end_latlng": [
+          49.065304,
+          -122.080389
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016797,
+        "start_longitude": -122.357691,
+        "end_latitude": 49.065304,
+        "end_longitude": -122.080389,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 26943671808,
+      "resource_state": 2,
+      "name": "Clearbrook to Whatcom",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1271,
+      "moving_time": 1242,
+      "start_date": "2015-06-22T21:59:35Z",
+      "start_date_local": "2015-06-22T14:59:35Z",
+      "distance": 8633.3,
+      "start_index": 1102,
+      "end_index": 1386,
+      "device_watts": false,
+      "average_watts": 114.9,
+      "segment": {
+        "id": 15493535,
+        "resource_state": 2,
+        "name": "Clearbrook to Whatcom",
+        "activity_type": "Ride",
+        "distance": 8633.3,
+        "average_grade": -0.6,
+        "maximum_grade": 5.6,
+        "elevation_high": 79.8,
+        "elevation_low": 6,
+        "start_latlng": [
+          49.016455,
+          -122.337014
+        ],
+        "end_latlng": [
+          49.01709,
+          -122.219559
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016455,
+        "start_longitude": -122.337014,
+        "end_latitude": 49.01709,
+        "end_longitude": -122.219559,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496217,
+      "resource_state": 2,
+      "name": "Jailbreak! ",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 105,
+      "moving_time": 105,
+      "start_date": "2015-06-22T22:05:02Z",
+      "start_date_local": "2015-06-22T15:05:02Z",
+      "distance": 951.9,
+      "start_index": 1179,
+      "end_index": 1207,
+      "device_watts": false,
+      "average_watts": 162.8,
+      "segment": {
+        "id": 9520371,
+        "resource_state": 2,
+        "name": "Jailbreak! ",
+        "activity_type": "Ride",
+        "distance": 951.9,
+        "average_grade": -1.6,
+        "maximum_grade": 2.3,
+        "elevation_high": 75.8,
+        "elevation_low": 59.4,
+        "start_latlng": [
+          49.016904,
+          -122.30865
+        ],
+        "end_latlng": [
+          49.016863,
+          -122.295611
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016904,
+        "start_longitude": -122.30865,
+        "end_latitude": 49.016863,
+        "end_longitude": -122.295611,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496224,
+      "resource_state": 2,
+      "name": "vye to Whatcom",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 612,
+      "moving_time": 583,
+      "start_date": "2015-06-22T22:10:42Z",
+      "start_date_local": "2015-06-22T15:10:42Z",
+      "distance": 3941,
+      "start_index": 1289,
+      "end_index": 1388,
+      "device_watts": false,
+      "average_watts": 92.4,
+      "segment": {
+        "id": 5335971,
+        "resource_state": 2,
+        "name": "vye to Whatcom",
+        "activity_type": "Ride",
+        "distance": 3941,
+        "average_grade": -0.1,
+        "maximum_grade": 5.1,
+        "elevation_high": 12.2,
+        "elevation_low": 5,
+        "start_latlng": [
+          49.017087,
+          -122.271838
+        ],
+        "end_latlng": [
+          49.017087,
+          -122.218396
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.017087,
+        "start_longitude": -122.271838,
+        "end_latitude": 49.017087,
+        "end_longitude": -122.218396,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 7841496247,
+      "resource_state": 2,
+      "name": "Vye, Sumas to Powerhouse",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1783,
+      "moving_time": 1403,
+      "start_date": "2015-06-22T22:12:51Z",
+      "start_date_local": "2015-06-22T15:12:51Z",
+      "distance": 9942.5,
+      "start_index": 1313,
+      "end_index": 1581,
+      "device_watts": false,
+      "average_watts": 102.6,
+      "segment": {
+        "id": 4437767,
+        "resource_state": 2,
+        "name": "Vye, Sumas to Powerhouse",
+        "activity_type": "Ride",
+        "distance": 9942.5,
+        "average_grade": 0,
+        "maximum_grade": 6,
+        "elevation_high": -2.2,
+        "elevation_low": -6.4,
+        "start_latlng": [
+          49.016928,
+          -122.26522
+        ],
+        "end_latlng": [
+          49.016988,
+          -122.129084
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016928,
+        "start_longitude": -122.26522,
+        "end_latitude": 49.016988,
+        "end_longitude": -122.129084,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 50276966976,
+      "resource_state": 2,
+      "name": "Vye Rd East -Hwy 11 to Whatcom",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 464,
+      "moving_time": 464,
+      "start_date": "2015-06-22T22:13:03Z",
+      "start_date_local": "2015-06-22T15:13:03Z",
+      "distance": 3315.7,
+      "start_index": 1317,
+      "end_index": 1387,
+      "device_watts": false,
+      "average_watts": 102.2,
+      "segment": {
+        "id": 19423825,
+        "resource_state": 2,
+        "name": "Vye Rd East -Hwy 11 to Whatcom",
+        "activity_type": "Ride",
+        "distance": 3315.7,
+        "average_grade": 0,
+        "maximum_grade": 4.8,
+        "elevation_high": 12.5,
+        "elevation_low": 6.9,
+        "start_latlng": [
+          49.016905,
+          -122.264482
+        ],
+        "end_latlng": [
+          49.017054,
+          -122.219154
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016905,
+        "start_longitude": -122.264482,
+        "end_latitude": 49.017054,
+        "end_longitude": -122.219154,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 22609075209,
+      "resource_state": 2,
+      "name": "Passing Tractors",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2859,
+      "moving_time": 2479,
+      "start_date": "2015-06-22T22:13:35Z",
+      "start_date_local": "2015-06-22T15:13:35Z",
+      "distance": 17702.4,
+      "start_index": 1321,
+      "end_index": 1779,
+      "device_watts": false,
+      "average_watts": 103.1,
+      "segment": {
+        "id": 14499480,
+        "resource_state": 2,
+        "name": "Passing Tractors",
+        "activity_type": "Ride",
+        "distance": 17702.4,
+        "average_grade": 0,
+        "maximum_grade": 6.4,
+        "elevation_high": 19.8,
+        "elevation_low": 11.6,
+        "start_latlng": [
+          49.016915,
+          -122.261447
+        ],
+        "end_latlng": [
+          49.06477,
+          -122.08037
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016915,
+        "start_longitude": -122.261447,
+        "end_latitude": 49.06477,
+        "end_longitude": -122.08037,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 51896549097,
+      "resource_state": 2,
+      "name": "vyeeeee",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 288,
+      "moving_time": 288,
+      "start_date": "2015-06-22T22:37:43Z",
+      "start_date_local": "2015-06-22T15:37:43Z",
+      "distance": 2066.4,
+      "start_index": 1531,
+      "end_index": 1580,
+      "device_watts": false,
+      "average_watts": 103.9,
+      "segment": {
+        "id": 19618679,
+        "resource_state": 2,
+        "name": "vyeeeee",
+        "activity_type": "Ride",
+        "distance": 2066.4,
+        "average_grade": 0,
+        "maximum_grade": 1.7,
+        "elevation_high": 10.4,
+        "elevation_low": 7.7,
+        "start_latlng": [
+          49.016877,
+          -122.157533
+        ],
+        "end_latlng": [
+          49.01692,
+          -122.129273
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.016877,
+        "start_longitude": -122.157533,
+        "end_latitude": 49.01692,
+        "end_longitude": -122.129273,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496256,
+      "resource_state": 2,
+      "name": "The Usual",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 862,
+      "moving_time": 862,
+      "start_date": "2015-06-22T22:40:46Z",
+      "start_date_local": "2015-06-22T15:40:46Z",
+      "distance": 6172,
+      "start_index": 1562,
+      "end_index": 1714,
+      "device_watts": false,
+      "average_watts": 100.2,
+      "segment": {
+        "id": 8114775,
+        "resource_state": 2,
+        "name": "The Usual",
+        "activity_type": "Ride",
+        "distance": 6172,
+        "average_grade": -0.1,
+        "maximum_grade": 3.7,
+        "elevation_high": 9.1,
+        "elevation_low": 0,
+        "start_latlng": [
+          49.01685,
+          -122.139145
+        ],
+        "end_latlng": [
+          49.045841,
+          -122.095287
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.01685,
+        "start_longitude": -122.139145,
+        "end_latitude": 49.045841,
+        "end_longitude": -122.095287,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 51797078548,
+      "resource_state": 2,
+      "name": "powerhouse up to campbell",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 440,
+      "moving_time": 440,
+      "start_date": "2015-06-22T22:44:17Z",
+      "start_date_local": "2015-06-22T15:44:17Z",
+      "distance": 3235.4,
+      "start_index": 1599,
+      "end_index": 1680,
+      "device_watts": false,
+      "average_watts": 100.5,
+      "segment": {
+        "id": 19607041,
+        "resource_state": 2,
+        "name": "powerhouse up to campbell",
+        "activity_type": "Ride",
+        "distance": 3235.4,
+        "average_grade": 0,
+        "maximum_grade": 12.5,
+        "elevation_high": 10.4,
+        "elevation_low": 5.5,
+        "start_latlng": [
+          49.023658,
+          -122.1282
+        ],
+        "end_latlng": [
+          49.04229,
+          -122.109613
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.023658,
+        "start_longitude": -122.1282,
+        "end_latitude": 49.04229,
+        "end_longitude": -122.109613,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2728185007298961000,
+      "resource_state": 2,
+      "name": "Milking the System",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 214,
+      "moving_time": 214,
+      "start_date": "2015-06-22T22:48:44Z",
+      "start_date_local": "2015-06-22T15:48:44Z",
+      "distance": 1637.8,
+      "start_index": 1647,
+      "end_index": 1686,
+      "device_watts": false,
+      "average_watts": 102.7,
+      "segment": {
+        "id": 25268795,
+        "resource_state": 2,
+        "name": "Milking the System",
+        "activity_type": "Ride",
+        "distance": 1637.8,
+        "average_grade": -0.1,
+        "maximum_grade": 1.2,
+        "elevation_high": 5.2,
+        "elevation_low": 1.6,
+        "start_latlng": [
+          49.031528,
+          -122.113838
+        ],
+        "end_latlng": [
+          49.045128,
+          -122.109566
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.031528,
+        "start_longitude": -122.113838,
+        "end_latitude": 49.045128,
+        "end_longitude": -122.109566,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496272,
+      "resource_state": 2,
+      "name": "Goalkeeper",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 762,
+      "moving_time": 762,
+      "start_date": "2015-06-22T22:52:49Z",
+      "start_date_local": "2015-06-22T15:52:49Z",
+      "distance": 5250.1,
+      "start_index": 1692,
+      "end_index": 1815,
+      "device_watts": false,
+      "average_watts": 102.6,
+      "segment": {
+        "id": 8480225,
+        "resource_state": 2,
+        "name": "Goalkeeper",
+        "activity_type": "Ride",
+        "distance": 5250.1,
+        "average_grade": 0,
+        "maximum_grade": 5.7,
+        "elevation_high": -1.6,
+        "elevation_low": -6,
+        "start_latlng": [
+          49.045901,
+          -122.108345
+        ],
+        "end_latlng": [
+          49.080408,
+          -122.080429
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.045901,
+        "start_longitude": -122.108345,
+        "end_latitude": 49.080408,
+        "end_longitude": -122.080429,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496284,
+      "resource_state": 2,
+      "name": "Boundary Sprint 5 to 3",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2015-06-22T23:00:11Z",
+      "start_date_local": "2015-06-22T16:00:11Z",
+      "distance": 2894,
+      "start_index": 1771,
+      "end_index": 1834,
+      "device_watts": false,
+      "average_watts": 98.7,
+      "segment": {
+        "id": 7882799,
+        "resource_state": 2,
+        "name": "Boundary Sprint 5 to 3",
+        "activity_type": "Ride",
+        "distance": 2894,
+        "average_grade": 0,
+        "maximum_grade": 5,
+        "elevation_high": 9.2,
+        "elevation_low": 6.8,
+        "start_latlng": [
+          49.061296,
+          -122.080351
+        ],
+        "end_latlng": [
+          49.087295,
+          -122.080447
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.061296,
+        "start_longitude": -122.080351,
+        "end_latitude": 49.087295,
+        "end_longitude": -122.080447,
+        "climb_category": 0,
+        "city": "Abbotsford",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7841496296,
+      "resource_state": 2,
+      "name": "Bridge Bound",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 198,
+      "moving_time": 198,
+      "start_date": "2015-06-22T23:09:07Z",
+      "start_date_local": "2015-06-22T16:09:07Z",
+      "distance": 1390.5,
+      "start_index": 1856,
+      "end_index": 1888,
+      "device_watts": false,
+      "average_watts": 100.4,
+      "segment": {
+        "id": 9480033,
+        "resource_state": 2,
+        "name": "Bridge Bound",
+        "activity_type": "Ride",
+        "distance": 1390.5,
+        "average_grade": 0,
+        "maximum_grade": 3.2,
+        "elevation_high": 6,
+        "elevation_low": 2.2,
+        "start_latlng": [
+          49.089379,
+          -122.080256
+        ],
+        "end_latlng": [
+          49.101767,
+          -122.080348
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.089379,
+        "start_longitude": -122.080256,
+        "end_latitude": 49.101767,
+        "end_longitude": -122.080348,
+        "climb_category": 0,
+        "city": "Chilliwack",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 10059886445,
+      "resource_state": 2,
+      "name": "Boundary to Chadsey",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2015-06-22T23:12:30Z",
+      "start_date_local": "2015-06-22T16:12:30Z",
+      "distance": 936,
+      "start_index": 1890,
+      "end_index": 1928,
+      "device_watts": false,
+      "average_watts": 145.6,
+      "segment": {
+        "id": 10738929,
+        "resource_state": 2,
+        "name": "Boundary to Chadsey",
+        "activity_type": "Ride",
+        "distance": 936,
+        "average_grade": 0.1,
+        "maximum_grade": 4.4,
+        "elevation_high": 8.1,
+        "elevation_low": 3.8,
+        "start_latlng": [
+          49.102014,
+          -122.080033
+        ],
+        "end_latlng": [
+          49.103867,
+          -122.067979
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.102014,
+        "start_longitude": -122.080033,
+        "end_latitude": 49.103867,
+        "end_longitude": -122.067979,
+        "climb_category": 0,
+        "city": "Chilliwack",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 41558031053,
+      "resource_state": 2,
+      "name": "Keith Wilson-Chadsey to Sumas Prairie",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 253,
+      "moving_time": 253,
+      "start_date": "2015-06-22T23:14:38Z",
+      "start_date_local": "2015-06-22T16:14:38Z",
+      "distance": 1741.2,
+      "start_index": 1927,
+      "end_index": 1969,
+      "device_watts": false,
+      "average_watts": 109.8,
+      "segment": {
+        "id": 18038131,
+        "resource_state": 2,
+        "name": "Keith Wilson-Chadsey to Sumas Prairie",
+        "activity_type": "Ride",
+        "distance": 1741.2,
+        "average_grade": 0.3,
+        "maximum_grade": 1.1,
+        "elevation_high": 8.5,
+        "elevation_low": 3.3,
+        "start_latlng": [
+          49.103857,
+          -122.068946
+        ],
+        "end_latlng": [
+          49.103835,
+          -122.045102
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.103857,
+        "start_longitude": -122.068946,
+        "end_latitude": 49.103835,
+        "end_longitude": -122.045102,
+        "climb_category": 0,
+        "city": "Chilliwack",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 47883747686,
+      "resource_state": 2,
+      "name": "To hear the softly spoken magic spell",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 256,
+      "moving_time": 256,
+      "start_date": "2015-06-22T23:29:27Z",
+      "start_date_local": "2015-06-22T16:29:27Z",
+      "distance": 1902.8,
+      "start_index": 2077,
+      "end_index": 2121,
+      "device_watts": false,
+      "average_watts": 113.7,
+      "segment": {
+        "id": 19083077,
+        "resource_state": 2,
+        "name": "To hear the softly spoken magic spell",
+        "activity_type": "Ride",
+        "distance": 1902.8,
+        "average_grade": 0,
+        "maximum_grade": 1.8,
+        "elevation_high": 11.3,
+        "elevation_low": 8.9,
+        "start_latlng": [
+          49.137781,
+          -122.030261
+        ],
+        "end_latlng": [
+          49.143571,
+          -122.007613
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.137781,
+        "start_longitude": -122.030261,
+        "end_latitude": 49.143571,
+        "end_longitude": -122.007613,
+        "climb_category": 0,
+        "city": "Chilliwack",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 41557206818,
+      "resource_state": 2,
+      "name": "Luckakuck (Lick Evan)",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 295,
+      "moving_time": 295,
+      "start_date": "2015-06-22T23:35:25Z",
+      "start_date_local": "2015-06-22T16:35:25Z",
+      "distance": 2118.3,
+      "start_index": 2139,
+      "end_index": 2204,
+      "device_watts": false,
+      "average_watts": 149.6,
+      "segment": {
+        "id": 18038019,
+        "resource_state": 2,
+        "name": "Luckakuck (Lick Evan)",
+        "activity_type": "Ride",
+        "distance": 2118.3,
+        "average_grade": 0.1,
+        "maximum_grade": 3.3,
+        "elevation_high": 13.4,
+        "elevation_low": 9,
+        "start_latlng": [
+          49.14201,
+          -122.006358
+        ],
+        "end_latlng": [
+          49.143494,
+          -121.97936
+        ],
+        "elevation_profile": null,
+        "start_latitude": 49.14201,
+        "start_longitude": -122.006358,
+        "end_latitude": 49.143494,
+        "end_longitude": -121.97936,
+        "climb_category": 0,
+        "city": "Chilliwack",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1004,
+      "elapsed_time": 181,
+      "elevation_difference": -1,
+      "moving_time": 181,
+      "split": 1,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.4,
+      "elapsed_time": 155,
+      "elevation_difference": -3.6,
+      "moving_time": 155,
+      "split": 2,
+      "average_speed": 6.5,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1028.4,
+      "elapsed_time": 234,
+      "elevation_difference": -1.4,
+      "moving_time": 234,
+      "split": 3,
+      "average_speed": 4.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.9,
+      "elapsed_time": 211,
+      "elevation_difference": 1.4,
+      "moving_time": 211,
+      "split": 4,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 971,
+      "elapsed_time": 157,
+      "elevation_difference": 3.2,
+      "moving_time": 157,
+      "split": 5,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 255,
+      "elevation_difference": 39.6,
+      "moving_time": 255,
+      "split": 6,
+      "average_speed": 3.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1016.7,
+      "elapsed_time": 198,
+      "elevation_difference": 9.2,
+      "moving_time": 198,
+      "split": 7,
+      "average_speed": 5.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 981.4,
+      "elapsed_time": 162,
+      "elevation_difference": 8,
+      "moving_time": 162,
+      "split": 8,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1051.5,
+      "elapsed_time": 177,
+      "elevation_difference": 13.4,
+      "moving_time": 177,
+      "split": 9,
+      "average_speed": 5.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 962.2,
+      "elapsed_time": 174,
+      "elevation_difference": 16.2,
+      "moving_time": 174,
+      "split": 10,
+      "average_speed": 5.53,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 165,
+      "elevation_difference": -1,
+      "moving_time": 165,
+      "split": 11,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997,
+      "elapsed_time": 156,
+      "elevation_difference": 4.8,
+      "moving_time": 156,
+      "split": 12,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 180,
+      "elevation_difference": 18.4,
+      "moving_time": 180,
+      "split": 13,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.9,
+      "elapsed_time": 144,
+      "elevation_difference": -12.6,
+      "moving_time": 144,
+      "split": 14,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 986.1,
+      "elapsed_time": 142,
+      "elevation_difference": 7,
+      "moving_time": 142,
+      "split": 15,
+      "average_speed": 6.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 898,
+      "elevation_difference": 1.2,
+      "moving_time": 268,
+      "split": 16,
+      "average_speed": 3.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1044.4,
+      "elapsed_time": 97,
+      "elevation_difference": -30.2,
+      "moving_time": 97,
+      "split": 17,
+      "average_speed": 10.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 985.1,
+      "elapsed_time": 130,
+      "elevation_difference": -2.8,
+      "moving_time": 130,
+      "split": 18,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 965.3,
+      "elapsed_time": 158,
+      "elevation_difference": 3.6,
+      "moving_time": 158,
+      "split": 19,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 138,
+      "elevation_difference": -9.2,
+      "moving_time": 138,
+      "split": 20,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1028.7,
+      "elapsed_time": 179,
+      "elevation_difference": 3.8,
+      "moving_time": 179,
+      "split": 21,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 138,
+      "elevation_difference": 4.8,
+      "moving_time": 138,
+      "split": 22,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 977.8,
+      "elapsed_time": 137,
+      "elevation_difference": -14.8,
+      "moving_time": 137,
+      "split": 23,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1018.3,
+      "elapsed_time": 100,
+      "elevation_difference": -16.8,
+      "moving_time": 100,
+      "split": 24,
+      "average_speed": 10.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 972.8,
+      "elapsed_time": 195,
+      "elevation_difference": 23,
+      "moving_time": 195,
+      "split": 25,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 136,
+      "elevation_difference": -25.8,
+      "moving_time": 136,
+      "split": 26,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1013.9,
+      "elapsed_time": 116,
+      "elevation_difference": -3,
+      "moving_time": 116,
+      "split": 27,
+      "average_speed": 8.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1037.9,
+      "elapsed_time": 144,
+      "elevation_difference": -1.2,
+      "moving_time": 144,
+      "split": 28,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 962.5,
+      "elapsed_time": 132,
+      "elevation_difference": 3,
+      "moving_time": 132,
+      "split": 29,
+      "average_speed": 7.29,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 146,
+      "elevation_difference": 2,
+      "moving_time": 146,
+      "split": 30,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 145,
+      "elevation_difference": 2.6,
+      "moving_time": 145,
+      "split": 31,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 170,
+      "elevation_difference": 7,
+      "moving_time": 170,
+      "split": 32,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 982.1,
+      "elapsed_time": 169,
+      "elevation_difference": 13.6,
+      "moving_time": 169,
+      "split": 33,
+      "average_speed": 5.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1033.3,
+      "elapsed_time": 117,
+      "elevation_difference": -23,
+      "moving_time": 117,
+      "split": 34,
+      "average_speed": 8.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 132,
+      "elevation_difference": -5.4,
+      "moving_time": 132,
+      "split": 35,
+      "average_speed": 7.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 967.4,
+      "elapsed_time": 138,
+      "elevation_difference": -14.8,
+      "moving_time": 138,
+      "split": 36,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1050.6,
+      "elapsed_time": 201,
+      "elevation_difference": -22,
+      "moving_time": 201,
+      "split": 37,
+      "average_speed": 5.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 139,
+      "elevation_difference": -1,
+      "moving_time": 139,
+      "split": 38,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 969.6,
+      "elapsed_time": 136,
+      "elevation_difference": -1,
+      "moving_time": 136,
+      "split": 39,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 977.2,
+      "elapsed_time": 138,
+      "elevation_difference": 2,
+      "moving_time": 138,
+      "split": 40,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1060.1,
+      "elapsed_time": 145,
+      "elevation_difference": -1.2,
+      "moving_time": 145,
+      "split": 41,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.4,
+      "elapsed_time": 547,
+      "elevation_difference": -0.6,
+      "moving_time": 547,
+      "split": 42,
+      "average_speed": 1.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 964.5,
+      "elapsed_time": 129,
+      "elevation_difference": 0.8,
+      "moving_time": 129,
+      "split": 43,
+      "average_speed": 7.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1027.3,
+      "elapsed_time": 136,
+      "elevation_difference": -0.2,
+      "moving_time": 136,
+      "split": 44,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.4,
+      "elapsed_time": 132,
+      "elevation_difference": -0.2,
+      "moving_time": 132,
+      "split": 45,
+      "average_speed": 7.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 969.2,
+      "elapsed_time": 131,
+      "elevation_difference": -1.4,
+      "moving_time": 131,
+      "split": 46,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.3,
+      "elapsed_time": 144,
+      "elevation_difference": -0.8,
+      "moving_time": 144,
+      "split": 47,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1049,
+      "elapsed_time": 138,
+      "elevation_difference": -0.2,
+      "moving_time": 138,
+      "split": 48,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 945.4,
+      "elapsed_time": 137,
+      "elevation_difference": -0.2,
+      "moving_time": 137,
+      "split": 49,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1017,
+      "elapsed_time": 141,
+      "elevation_difference": -0.6,
+      "moving_time": 141,
+      "split": 50,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.4,
+      "elapsed_time": 133,
+      "elevation_difference": -1.4,
+      "moving_time": 133,
+      "split": 51,
+      "average_speed": 7.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 152,
+      "elevation_difference": 0.4,
+      "moving_time": 152,
+      "split": 52,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 139,
+      "elevation_difference": 0.6,
+      "moving_time": 139,
+      "split": 53,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 967.7,
+      "elapsed_time": 129,
+      "elevation_difference": 1.4,
+      "moving_time": 129,
+      "split": 54,
+      "average_speed": 7.5,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 153,
+      "elevation_difference": 0.4,
+      "moving_time": 153,
+      "split": 55,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.5,
+      "elapsed_time": 151,
+      "elevation_difference": 1.2,
+      "moving_time": 151,
+      "split": 56,
+      "average_speed": 6.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 141,
+      "elevation_difference": 0.2,
+      "moving_time": 141,
+      "split": 57,
+      "average_speed": 7.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1046.5,
+      "elapsed_time": 216,
+      "elevation_difference": 1.6,
+      "moving_time": 216,
+      "split": 58,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 982.5,
+      "elapsed_time": 135,
+      "elevation_difference": 0.2,
+      "moving_time": 135,
+      "split": 59,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 981.8,
+      "elapsed_time": 143,
+      "elevation_difference": 0.4,
+      "moving_time": 143,
+      "split": 60,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.3,
+      "elapsed_time": 143,
+      "elevation_difference": 1.4,
+      "moving_time": 143,
+      "split": 61,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 154,
+      "elevation_difference": 3,
+      "moving_time": 154,
+      "split": 62,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.4,
+      "elapsed_time": 137,
+      "elevation_difference": -1.4,
+      "moving_time": 137,
+      "split": 63,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1021.3,
+      "elapsed_time": 155,
+      "elevation_difference": 0.4,
+      "moving_time": 155,
+      "split": 64,
+      "average_speed": 6.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1030.5,
+      "elapsed_time": 151,
+      "elevation_difference": 2.6,
+      "moving_time": 151,
+      "split": 65,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 963.2,
+      "elapsed_time": 129,
+      "elevation_difference": 1.4,
+      "moving_time": 129,
+      "split": 66,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1033.4,
+      "elapsed_time": 132,
+      "elevation_difference": 0,
+      "moving_time": 132,
+      "split": 67,
+      "average_speed": 7.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 954.5,
+      "elapsed_time": 134,
+      "elevation_difference": -0.4,
+      "moving_time": 134,
+      "split": 68,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1047.9,
+      "elapsed_time": 223,
+      "elevation_difference": 2.4,
+      "moving_time": 223,
+      "split": 69,
+      "average_speed": 4.7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 953.2,
+      "elapsed_time": 119,
+      "elevation_difference": -0.8,
+      "moving_time": 119,
+      "split": 70,
+      "average_speed": 8.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1030.5,
+      "elapsed_time": 133,
+      "elevation_difference": -0.2,
+      "moving_time": 133,
+      "split": 71,
+      "average_speed": 7.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 150,
+      "elevation_difference": -0.4,
+      "moving_time": 150,
+      "split": 72,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 304.4,
+      "elapsed_time": 134,
+      "elevation_difference": 1.2,
+      "moving_time": 134,
+      "split": 73,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.2,
+      "elapsed_time": 267,
+      "elevation_difference": -3.8,
+      "moving_time": 267,
+      "split": 1,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.3,
+      "elapsed_time": 377,
+      "elevation_difference": -2,
+      "moving_time": 377,
+      "split": 2,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1628.4,
+      "elapsed_time": 260,
+      "elevation_difference": 3.6,
+      "moving_time": 260,
+      "split": 3,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.5,
+      "elapsed_time": 380,
+      "elevation_difference": 46,
+      "moving_time": 380,
+      "split": 4,
+      "average_speed": 4.22,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 280,
+      "elevation_difference": 12.4,
+      "moving_time": 280,
+      "split": 5,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 268,
+      "elevation_difference": 20.2,
+      "moving_time": 268,
+      "split": 6,
+      "average_speed": 6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1595.9,
+      "elapsed_time": 278,
+      "elevation_difference": 9.2,
+      "moving_time": 278,
+      "split": 7,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 265,
+      "elevation_difference": 16.6,
+      "moving_time": 265,
+      "split": 8,
+      "average_speed": 6.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1624.9,
+      "elapsed_time": 227,
+      "elevation_difference": -8.4,
+      "moving_time": 227,
+      "split": 9,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1588.9,
+      "elapsed_time": 997,
+      "elevation_difference": 5.4,
+      "moving_time": 367,
+      "split": 10,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1645.1,
+      "elapsed_time": 173,
+      "elevation_difference": -30.8,
+      "moving_time": 173,
+      "split": 11,
+      "average_speed": 9.51,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 250,
+      "elevation_difference": 3.2,
+      "moving_time": 250,
+      "split": 12,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1581.7,
+      "elapsed_time": 259,
+      "elevation_difference": -0.6,
+      "moving_time": 259,
+      "split": 13,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619,
+      "elapsed_time": 228,
+      "elevation_difference": 5.2,
+      "moving_time": 228,
+      "split": 14,
+      "average_speed": 7.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1592.7,
+      "elapsed_time": 173,
+      "elevation_difference": -34.6,
+      "moving_time": 173,
+      "split": 15,
+      "average_speed": 9.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 296,
+      "elevation_difference": 10.2,
+      "moving_time": 296,
+      "split": 16,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619,
+      "elapsed_time": 183,
+      "elevation_difference": -18.6,
+      "moving_time": 183,
+      "split": 17,
+      "average_speed": 8.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617,
+      "elapsed_time": 224,
+      "elevation_difference": 3.8,
+      "moving_time": 224,
+      "split": 18,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1591.7,
+      "elapsed_time": 231,
+      "elevation_difference": 2.8,
+      "moving_time": 231,
+      "split": 19,
+      "average_speed": 6.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617,
+      "elapsed_time": 264,
+      "elevation_difference": 10.2,
+      "moving_time": 264,
+      "split": 20,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1635,
+      "elapsed_time": 238,
+      "elevation_difference": -11.6,
+      "moving_time": 238,
+      "split": 21,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1576.2,
+      "elapsed_time": 207,
+      "elevation_difference": 1.8,
+      "moving_time": 207,
+      "split": 22,
+      "average_speed": 7.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1642.4,
+      "elapsed_time": 282,
+      "elevation_difference": -43,
+      "moving_time": 282,
+      "split": 23,
+      "average_speed": 5.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.6,
+      "elapsed_time": 222,
+      "elevation_difference": -2,
+      "moving_time": 222,
+      "split": 24,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1586.2,
+      "elapsed_time": 224,
+      "elevation_difference": 1.8,
+      "moving_time": 224,
+      "split": 25,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1626.7,
+      "elapsed_time": 631,
+      "elevation_difference": -2,
+      "moving_time": 631,
+      "split": 26,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1624.5,
+      "elapsed_time": 220,
+      "elevation_difference": -0.4,
+      "moving_time": 220,
+      "split": 27,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.1,
+      "elapsed_time": 215,
+      "elevation_difference": 1,
+      "moving_time": 215,
+      "split": 28,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1572.7,
+      "elapsed_time": 218,
+      "elevation_difference": -1,
+      "moving_time": 218,
+      "split": 29,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1625,
+      "elapsed_time": 218,
+      "elevation_difference": -1.8,
+      "moving_time": 218,
+      "split": 30,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1584.4,
+      "elapsed_time": 228,
+      "elevation_difference": 0.2,
+      "moving_time": 228,
+      "split": 31,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1663.9,
+      "elapsed_time": 231,
+      "elevation_difference": -2,
+      "moving_time": 231,
+      "split": 32,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1574.8,
+      "elapsed_time": 223,
+      "elevation_difference": 1.2,
+      "moving_time": 223,
+      "split": 33,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 229,
+      "elevation_difference": 1.6,
+      "moving_time": 229,
+      "split": 34,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1623.3,
+      "elapsed_time": 241,
+      "elevation_difference": 1.6,
+      "moving_time": 241,
+      "split": 35,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1582.3,
+      "elapsed_time": 290,
+      "elevation_difference": 1.4,
+      "moving_time": 290,
+      "split": 36,
+      "average_speed": 5.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 234,
+      "elevation_difference": 4.2,
+      "moving_time": 234,
+      "split": 37,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1635,
+      "elapsed_time": 229,
+      "elevation_difference": -0.6,
+      "moving_time": 229,
+      "split": 38,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1593.4,
+      "elapsed_time": 235,
+      "elevation_difference": 1.4,
+      "moving_time": 235,
+      "split": 39,
+      "average_speed": 6.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.7,
+      "elapsed_time": 234,
+      "elevation_difference": -1.4,
+      "moving_time": 234,
+      "split": 40,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1638.7,
+      "elapsed_time": 232,
+      "elevation_difference": 4.6,
+      "moving_time": 232,
+      "split": 41,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1589.6,
+      "elapsed_time": 210,
+      "elevation_difference": 1,
+      "moving_time": 210,
+      "split": 42,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.1,
+      "elapsed_time": 299,
+      "elevation_difference": 0.2,
+      "moving_time": 299,
+      "split": 43,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 205,
+      "elevation_difference": 0.4,
+      "moving_time": 205,
+      "split": 44,
+      "average_speed": 7.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1500.7,
+      "elapsed_time": 311,
+      "elevation_difference": 0.2,
+      "moving_time": 311,
+      "split": 45,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1049705427,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 330956315,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 12191,
+      "moving_time": 11560,
+      "start_date": "2015-06-22T20:23:13Z",
+      "start_date_local": "2015-06-22T13:23:13Z",
+      "distance": 72335.4,
+      "start_index": 0,
+      "end_index": 2296,
+      "total_elevation_gain": 313,
+      "average_speed": 6.26,
+      "max_speed": 15.5,
+      "device_watts": false,
+      "average_watts": 118.8,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "ec7946ced0a78d57992b2f895971db546f0ba2dd",
+  "available_zones": [
+    "power"
+  ]
+}

@@ -1,0 +1,6619 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "Hammer time to Quebec City",
+  "distance": 136698,
+  "moving_time": 21017,
+  "elapsed_time": 28006,
+  "total_elevation_gain": 529,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 360425386,
+  "external_id": "garmin_push_853875999",
+  "upload_id": 407587649,
+  "start_date": "2015-08-03T09:46:07Z",
+  "start_date_local": "2015-08-03T05:46:07Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400,
+  "start_latlng": [
+    46.372231,
+    -72.568537
+  ],
+  "end_latlng": [
+    46.811393,
+    -71.210312
+  ],
+  "location_city": "Trois-Rivières",
+  "location_state": "Québec",
+  "location_country": "Canada",
+  "start_latitude": 46.372231,
+  "start_longitude": -72.568537,
+  "achievement_count": 0,
+  "kudos_count": 7,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a360425386",
+    "polyline": "ma`zGjp|yLOj@OJALLvAJRNJX?lHwAj@@zAVNADGLc@PkDbAuIxA}NVcK@_D?eIGcBIc@SWa@O}Eo@OAMHEAUM]Ia@CYGgC]GEUm@SUDo@EQFRCTQv@CTDPLLf@NfDb@jC`@zBNdBRN@NGLSD]H_DF_A\\{PBeDf@uPDgBAm@EeA_AuJk@kHs@aIm@wI]eEc@wDg@yGk@{PB[Jw@Bu@@IFER?DCl@w@HEhBk@v@_@z@g@fA}@dBqBf@a@ZMfBg@hAa@jG{CzAy@z@}@l@}@r@mAZu@~@uALYBOC_@[o@_AuACMAMXoANmAPmBn@cGb@qFh@sEb@uCr@yDB]GKs@QOOaHuLEM?KJUn@y@fAgBz@iA^s@zAwBbAeBpC}DFEPENCV@ZIrAb@TLHABERgAFm@DaAB_Db@cEN{CNuAb@}BFq@DgIEyEGwBO}AB]iAmEe@sAe@uA{BgGgBuDk@_AsByDm@w@i@a@uA{@kB_AmCkAa@Mk@IoFDw@Gc@MYOKIuBcCy@y@U_@eAiBa@g@QKiFeCyBu@s@QcCYm@MaAk@YWW]kBkCoAgCkA{AkHuHiBuA{B}Ag@g@aDuFmDwFoMgOmBiCy@qAkE{I}Wwh@_AqB}AwCaHmNcFwJiEcIeFaJwA_C_CiEkAmBUg@uAmCk@oAq@aB_@iAu@_D[sB_AsHy@{HMoCAyAFaLAmDI_CMaB}AeQkBeRC]DWGc@Mc@c@iEe@{Cm@cDs@uC}AcFqA_DcDaHgBaEiAwB_AyAmAcBuLoN}B}CeAeBk@iAuBwEuGcNe@kAgA_DuAqEyBmH[}@mCyIsIwUyBiFkA}BiCyE{@cBi@sAWy@[wAYqBQgDmAaf@CmAO_F_@sPY{FGaAm@aFsAuI_AcHk@gDa@iBo@iCkBsGyAaFoBcGkA_DqA_D{BaG{@cC_BkF}AsFS_AcEiNiByFuByFuHkQi@gAyBiFmNu[_BwDmD{H_AqB_B}CeCyD_LwRgBwDkAeD]gAy@_CaA{Cs@kBgFmLuHqQkBuEc@qAiAcEs@aDkAkE}@}B]u@eAsBuA}B]q@aAyB{@iCoCaJi@{BW}AMmAiA{R[uG[cF_@cF_@iEM}@K}BGoE]eJEcDCaJMiISkEw@_LOgDMuF]gUUaHO}CQmCq@uIwHw_A]{Fk@{OWiE[gD}@wH_@mDa@iFWoEu@aUWmFSmBUkAg@uBi@_BaAuBs@eAqA}AaFwE]_@aAuAq@kAg@aA}@}BoAiEq@gCe@uBc@_C{C_Na@yAcAoCk@qA_AcBiAgBe@m@e@i@cAcAqAeAaAm@mBaAaI_Dk_@sNkEgBeK{DkJsDeA_@gFuBsHkD{GeDoD_BoEkBuFwBqBs@sFsBcEgBwC{AkBgAmCiBeE{CsB_BkAu@cFuD{GiEiCyAoCuAqT{JuDuBw@g@sAaA_DuC_@[kEcEyCgCqDqDkB{Au@e@w@Y_@KoAQ_@M{FiCi@[gAw@kCiCsEaE_@Ya@QUGeBM_EGiABiC@_CDmAHg@Aq@Oa@SkBgA}@_@a@Gc@Cc@GqDWECEKAMBET?D@OLIBI?YHK@aBUoBOmTy@uJa@u@BkAN{ALyAF{C@_@@i@HgA\\aIfD_@J_@@SCmA]wCiAsCu@qHcCg@SgCqAoAaAc@e@S[Q_@Uo@YsAIsAHkG?}DCkAIeBKuA[wCQaAW_A]iAYm@m@eAi@s@m@o@q@k@qAw@u@[k@OaS{DcCi@wWeFuH}AuBk@oBu@u@e@q@k@eTyRmC_CmKeIcGkEuAs@sAa@iMwCoBg@yDiAkCiA_D}AkBgAsCoBcDmCeDcD{@cAcKgMk@}@aBiB_FeG{@aAm@i@o@c@aB}@qHkDsFmC{I_EoDgBiAe@wA]uBU{Ca@a@?{BPg@@s@Is@UYOa@]{@gAuBiEa@q@QUe@]eCeAk@g@U[So@g@mBwA}Fo@oCEw@GuI@c@HuA^aDl@wEdCySnEe^v@{GRmCFsB@sCGcDIgB[qC}BiOo@uEe@mCs@oES_BmDkUoDoV}B{NkAuIgEoa@_@aE_@wH[uOGqAWcCc@yB]gA]w@}@gB_CaEkB{CaBaCgB}BeDaEgD}DkUiYaAqAeKkOmHaLkA}BmAyC]gAk@}By@oESaBYaD{Bw\\WmCWcBu@kDsA{E_Jg]c@kB]}BMkAMsBCyC\\m[EuBQwB_@{B]oAa@kAy@gBeFwJ_@{@i@}A_@sAYwAQgAUcC]sG}@_Rs@{MMwACeAe@_KoFyeAMuD?sCBsCNuDf@qG`Fa_@\\mDJmBFwDEoD_A{SMsE@iBHiBJwATiB~CuQnBuLt@wDn@aE~CcRbAgG`@wCb@eE`F{l@VyD\\kDfAaNLsD?eBGuB[oDeDuXsFue@a@_C[yAs@yBw@gB]o@g@u@_AkAwF_GaHqHg@a@o@q@qB_C_BeBsCwCaB}AmG}GmAkAqH{GiGkG]c@yFuFoAqA}AiBqKkN{AiBgB}Bk@y@kCeDiEqEyDuDo@w@{@mAg@{@a@w@m@{AaA{CyAsFiBuGk@_Bk@uAiAuBoAkBiAsAmDoD}M{MqAwA}@kAiAeBw@wAaAsBy@sBaMa^oGiQ}@iCi@mBSw@]mBWqBe@cGqBwTu@iEa@gB_@qAy@cCgBmEoMkZsBqEgBoD{FwJkA{B_F_MeFqMqBuF}AaFo@{BcBaHsAsGq@yDeAyG_@cDe@uEoAsNOgAi@oC{@eDw@yBq@yAi@cAcBiC_CqCkAgBy@iBkAmDo@{A_AcBmCiD}@yA}@oBs@wBs@sCc@oCg@gC]gAMo@y@qC}@oDc@yB[uAI}@QaAmAeI]oEWiB}@sDa@eAO[m@{@cBgBwCgCk@a@WMg@M}@K}Ga@}@Ky@UiCeA}C}AyHuCuVmKgDoAqAa@mDy@}Cg@{Da@aDQSIGa@[JAFKHYDy@AgBMiAQcAWu@[i@[_Ao@uAqAaAmAmEcGy@cAk@{@yUg[iEcGsA}BiAsBeIyOaJ}Pq^ks@yBcE_OkYsDaHyHsMCIBWFMF@FVA\\DLCu@IMKECQYESQI@GCUg@MCsCcFkFaKoAqCc@sA]uA[{As@qE_BeNMiCGmDHyOhA_uAFaLT}Ux@q`AJgELoCXwD\\cDl@aEv@cEdXssAzB{KnBqHbDuKbAuDhB}FxCcK`ByEfAsClAmCfCwExCiGfAcCvAuDpGyQpJyXXaA~Km[dAcDlGqQpB}GnAeFJk@G{@@SFPJJFA@Cl@{Dj@cEvC_WXyBRoBj@iILmCLaD^cGfAkUR{CRaEDsBBsE?yCGgCcBs_@s@uNW_EMyAWmBeAmF_AmDq@sBi@qAa@{@q@kAg@u@w@cAy@y@[Y}@k@m@WoA[kBUsPuAoEc@}BWi@MuA_@eAc@eBcAy@m@sAmAmA}AsAyB_@u@[w@_A_Dk@aCY{A]oCMcBM_CCaCBgCn@yTzBwp@BaA^aLXmF^mLHoDDSBAD??E?m@Ew@\\oMPmE`@eHRoCXuCl@qEh@}EfAmLDs@z@oJ`[o_DJoAJoBB}@@yAMyFOuBg@{DyA}Hi@{C_@qCi@}FsAeUUwCY_CYgBUmAc@cBg@}Ay@qBm@sAq@mA_AyAgHuJiCsDm@gA_AoByAkDy@}CgAiFu@gCw@{BqAuCeMiWaBaEiBgFcAoD}A{FwA{Fk@kCa@wBoBcMm@cD}@oDaAuCs@kBuAuCmKmReAoB_BkD_I{RaEoKY}@s@qCm@kD[aCkA{M_@cDa@kC]cBoAkFs@kDq@_F[iDQ{CGuBKsHFuLCwDQmK_@iKOgC[aEYkCoAeJ{BaOY{BQ}BEkBCmBBiCJqC\\mDzIyk@~ByNXqAnAmEjEiMt@cCf@sBX_BTgBHmAN}DB_DAiBEgBM{BQuBmByQyGup@g@aEc@eCe@qBcAkDkFoMuAsC{AiCqAoBsCgCoDiCqBqAmBsAoDmCmAaAkAq@kBsAeBeA{BcBuCiB{HsFmAaAgAeAiC_DmAmBaAgBeAcCqMu^qB}FgAuCsAwCm@gAyAaCaBcCwF_JgAaBkB{CaCmD}DmGmH_LeOqUsAyBuAqCiDyH}AuD}AiDmHuPaEcJgBiEi@aBaAqDu@sDa@iCg@uEwDg`@kI_y@mAsMg@eGsKqfAwLioAgCgUoAmKwBmVwCkZiCmXQ}AIiAe@gEWqDk@aFg@_GEm@Aw@?@E}@WuBcCk`@y@gLYoBq@yCmBwG}A}FOk@AO?O@Eh@q@rB{ClGoJdI_NtEuHdB}CpAqBrA_CfAeCr@aCf@wC\\}CD}@BkBAcE[uUGoCIaBUmDe@{EeE_`@yAwNa@qEM{BMkDCgC@wCVyIDmB@yDFq@HWTe@FS@WG{DFcCJcB`@kCpE_UjBaKDGHCF@xAb@jDvAN?NMJe@VqBRgAf@wDDG`@Yz@{@z@_ADKBKA[Oi@Gk@B[Rc@EEGBMp@?f@DTHPXb@NANS\\Kl@IjBGV?NGFK@aBZgN@kDK{BuAiO_@qC{@mF[sCoAoSu@oM@qAJaA~@eELkAFoAIeMKyDOkCYcDw@uHG}@Ai@BgIZaDX}E?_AGwAOgBMq@Qm@iBaFoB_HiAyC_BoD_@cAKe@O{@KoBFsFAy@M{B_@sESyAYuAc@mAa@q@g@k@k@c@mC{AUSuAyAo@i@o@c@wDwB{JsGy@m@c@i@_@m@_DaG[y@k@y@Sk@Q[a@}@u@oB{@sCk@sBuAeIGg@Eg@?uAV}CHk@h@mCJ}@JaB@SAe@EQO]IKa@Qe@KYCo@@wAPWAs@[gAq@mBgAaAe@o@a@uBw@SSs@QWA{@?a@Cq@WkDkBoB}@y@YKO?OBKfCiD|C}DdAyAxCuD`ByBjCiD\\e@nAyA|ByCFIDW@e@UcC_@kC_@wBkAwF]eAWk@c@{@u@kAiAsBWk@[{@Qq@UiAk@yE[eDKeBGUWqCG{DDmE?wBEuBKsBg@mE_@yBaCeKa@mB]oBYqBcBeNKgBAcAJmLB{AKgFOyCUcCmAwJCc@w@yFiAeKu@qFs@kESaBu@iK_AuLq@mGm@aJQqAg@sBSi@eC}DgEoG{AuB}I{M_@y@sCiEc@{@SYOa@i@aCi@sDa@yAq@{B_AcCaEyJcDuI]qAmCuLaAaDeB_FwByHs@wC[_BCo@MEEIc@_B]y@c@sAm@sCuAkLc@qBg@}AcCiG_AuCsAeDo@yBSa@o@u@w@oAcA_CY}@]y@_D}ESc@_@cAWi@eB_CoAiA_BeAqA_@WQw@w@_@c@[Yo@g@oBuA[Wc@i@gC}Em@aAgBkDyAiC{@oAGCqAeBcAwAu@y@iDuBuByAe@QYCcBHsBGu@Be@H_AXuCpAe@JW@o@LoFvA}Bh@o@DWA}@WQKGIq@kAsDcImCaFaBaEy@aBs@aBuD{HUk@aDyGmCoGOWQSi@aA}BiFoG_NeB_D@ShBcCn@eBXkAj@kDFGJAj@p@ZR^BPEZWJQFSZcBFSJOAMCAE@ILe@pBSb@SROBa@MW_@Wi@QUI?MJYhC]|Ai@hB_@v@]j@iApAEDK?MOkAsBK[mByD[u@OSe@iAaEkIm@wAuAwCcEeIe@u@gAsCeB{CcBqDq@kA[{@{@_BiAkCSa@W]M_@Wo@GWMUcBqCY_@}@cBgBkEm@kAkAiCmByDYw@_AwBg@{@eFmKmC{EaF{JECEASLS`@uAbBMRIX",
+    "resource_state": 3,
+    "summary_polyline": "ma`zGjp|yLF|DdNgA|Dc`@Fq^sRgDhSp@zA}q@uI_vAda@eUfGoJaBqEtGci@sJ}NpOqUtEP`Csu@gQgb@sWqGeJuKkSaHsZw\\g]qe@kqAsgCwRizBeu@wsAeh@gvAoE{sAkLko@uc@itAc_AaoB_v@isBmNclD{YezDcRuVkOok@yMmPopCeiA_fC}`BmqAgIg^jGgVyHwHeHoAq_@yGoMmfAoVmp@}i@im@_Uqg@{j@}e@eUwSaBoOoPoE}]zNe|AiZetBcIuhA}nAalB}Icy@kPyp@Yum@kPig@aMepCbIev@s@co@pSsnApK}rA{NqrAkyBqeC{Qof@yb@ah@sZw{@yIwq@kx@}kBkRqjAw^_r@sRkaAmJ{I}jBih@mj@{u@cmBksDeEka@|F_aFvb@gvB|wAgdEvNqgBmDshAgGiXuJyKcl@gKqHsK_EqVnJqzCpc@wpE?gUmM}gA{Zyi@s]u}@eRyy@_e@wcAyNe~@oBubAcI{{@f^ixBaPm_BsPi_@{~@kt@gZmw@s|@evAac@oiAqnAavMiH{Yte@yv@`E}Pe@uh@{K{tA|Aae@~Ime@lHpBhGoWZdDfGgARqZsI}bAbBuNoAmdA_N}b@uCg`@}`@sYiLcUkE}SlAwToh@iQr^yg@cOkl@{A_d@gKco@Yw`@oQaeB_a@yp@ok@{vBsYmp@{r@iv@ee@xE_s@azA`FuNlCx@|AsEmFxAiFfOcBoBqoAiiCeE|B"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "407587649",
+  "average_speed": 6.504,
+  "max_speed": 15.8,
+  "average_temp": 20,
+  "average_watts": 137.4,
+  "kilojoules": 2887.3,
+  "device_watts": false,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 157,
+  "elev_low": 59,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "Another great day of riding. Right now we're sitting outside a coffee shop in Quebec, already showered and checked in, having arrived about 3 hours earlier than we expected. Great wind, temperatures, roads, and traffic again today let us grind through 120km in 5 hours flat. It's no Dick Keough pace, but I'll take it. We are but men.\n\nWe arrived to meet my friend Brad here, since he was in town coaching at a swim meet. We only met up for a second so far, but we'll spend the evening with him and catch up. The last few weeks have been filled with good friends, it's so nice to roll into town 5000km away from your home and see a friendly face!\n\nWe'll take another rest day here tomorrow, not that we really need it, but because it's an awesome city and Paul and Rich gave us an extra week to play with. From here we likely won't rest until Halifax, which we have also added to the itinerary with our extra days. ",
+  "calories": 3219.4,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 2720852977145330000,
+      "resource_state": 2,
+      "name": "côte du passage",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 87,
+      "moving_time": 87,
+      "start_date": "2015-08-03T10:55:12Z",
+      "start_date_local": "2015-08-03T06:55:12Z",
+      "distance": 394.5,
+      "start_index": 612,
+      "end_index": 699,
+      "device_watts": false,
+      "average_watts": 120.7,
+      "segment": {
+        "id": 24987715,
+        "resource_state": 2,
+        "name": "côte du passage",
+        "activity_type": "Ride",
+        "distance": 394.5,
+        "average_grade": 2.1,
+        "maximum_grade": 6,
+        "elevation_high": 36.8,
+        "elevation_low": 28.2,
+        "start_latlng": [
+          46.369295,
+          -72.542619
+        ],
+        "end_latlng": [
+          46.369941,
+          -72.537585
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.369295,
+        "start_longitude": -72.542619,
+        "end_latitude": 46.369941,
+        "end_longitude": -72.537585,
+        "climb_category": 0,
+        "city": "Trois-Rivières",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2716676255739144000,
+      "resource_state": 2,
+      "name": "Notre-Dame-Est -> Red Mill",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 656,
+      "moving_time": 656,
+      "start_date": "2015-08-03T11:13:36Z",
+      "start_date_local": "2015-08-03T07:13:36Z",
+      "distance": 4163.2,
+      "start_index": 1653,
+      "end_index": 2309,
+      "device_watts": false,
+      "average_watts": 102.9,
+      "segment": {
+        "id": 24826778,
+        "resource_state": 2,
+        "name": "Notre-Dame-Est -> Red Mill",
+        "activity_type": "Ride",
+        "distance": 4163.2,
+        "average_grade": -0.2,
+        "maximum_grade": 3.3,
+        "elevation_high": 23,
+        "elevation_low": 12.2,
+        "start_latlng": [
+          46.376168,
+          -72.49268
+        ],
+        "end_latlng": [
+          46.396203,
+          -72.449237
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.376168,
+        "start_longitude": -72.49268,
+        "end_latitude": 46.396203,
+        "end_longitude": -72.449237,
+        "climb_category": 0,
+        "city": "Trois-Rivières",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2737693404891443000,
+      "resource_state": 2,
+      "name": "20tt",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 3324,
+      "moving_time": 3231,
+      "start_date": "2015-08-03T11:13:55Z",
+      "start_date_local": "2015-08-03T07:13:55Z",
+      "distance": 20079.8,
+      "start_index": 1672,
+      "end_index": 4898,
+      "device_watts": false,
+      "average_watts": 96.6,
+      "segment": {
+        "id": 25606995,
+        "resource_state": 2,
+        "name": "20tt",
+        "activity_type": "Ride",
+        "distance": 20079.8,
+        "average_grade": 0,
+        "maximum_grade": 5.8,
+        "elevation_high": 13.2,
+        "elevation_low": 3.2,
+        "start_latlng": [
+          46.376946,
+          -72.491508
+        ],
+        "end_latlng": [
+          46.460337,
+          -72.272289
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.376946,
+        "start_longitude": -72.491508,
+        "end_latitude": 46.460337,
+        "end_longitude": -72.272289,
+        "climb_category": 0,
+        "city": "Trois-Rivières",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527083,
+      "resource_state": 2,
+      "name": "Finale Garneau",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 10919,
+      "moving_time": 9444,
+      "start_date": "2015-08-03T11:16:35Z",
+      "start_date_local": "2015-08-03T07:16:35Z",
+      "distance": 62229.8,
+      "start_index": 1832,
+      "end_index": 11268,
+      "device_watts": false,
+      "average_watts": 124,
+      "segment": {
+        "id": 931492,
+        "resource_state": 2,
+        "name": "Finale Garneau",
+        "activity_type": "Ride",
+        "distance": 62229.8,
+        "average_grade": 0,
+        "maximum_grade": 11,
+        "elevation_high": 52.2,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          46.383476285263896,
+          -72.4823650997132
+        ],
+        "end_latlng": [
+          46.68218535371125,
+          -71.90041878260672
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.383476285263896,
+        "start_longitude": -72.4823650997132,
+        "end_latitude": 46.68218535371125,
+        "end_longitude": -71.90041878260672,
+        "climb_category": 0,
+        "city": "Trois Rivières",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596526888,
+      "resource_state": 2,
+      "name": "cap/champlain",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2130,
+      "moving_time": 2037,
+      "start_date": "2015-08-03T11:16:51Z",
+      "start_date_local": "2015-08-03T07:16:51Z",
+      "distance": 12620.3,
+      "start_index": 1848,
+      "end_index": 3886,
+      "device_watts": false,
+      "average_watts": 97.5,
+      "segment": {
+        "id": 4868726,
+        "resource_state": 2,
+        "name": "cap/champlain",
+        "activity_type": "Ride",
+        "distance": 12620.3,
+        "average_grade": 0,
+        "maximum_grade": 3,
+        "elevation_high": 16,
+        "elevation_low": 3,
+        "start_latlng": [
+          46.384079,
+          -72.481314
+        ],
+        "end_latlng": [
+          46.440907,
+          -72.344411
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.384079,
+        "start_longitude": -72.481314,
+        "end_latitude": 46.440907,
+        "end_longitude": -72.344411,
+        "climb_category": 0,
+        "city": "Trois Rivières",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527027,
+      "resource_state": 2,
+      "name": "Route 138",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 5209,
+      "moving_time": 4338,
+      "start_date": "2015-08-03T11:30:01Z",
+      "start_date_local": "2015-08-03T07:30:01Z",
+      "distance": 27498.9,
+      "start_index": 2546,
+      "end_index": 6878,
+      "device_watts": false,
+      "average_watts": 107.7,
+      "segment": {
+        "id": 1815321,
+        "resource_state": 2,
+        "name": "Route 138",
+        "activity_type": "Ride",
+        "distance": 27498.9,
+        "average_grade": 0,
+        "maximum_grade": 6.9,
+        "elevation_high": 52.6,
+        "elevation_low": 41,
+        "start_latlng": [
+          46.40323913656175,
+          -72.43606673553586
+        ],
+        "end_latlng": [
+          46.56278078444302,
+          -72.21292538568377
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.40323913656175,
+        "start_longitude": -72.43606673553586,
+        "end_latitude": 46.56278078444302,
+        "end_longitude": -72.21292538568377,
+        "climb_category": 0,
+        "city": "Trois Rivières",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596526872,
+      "resource_state": 2,
+      "name": "Sprint de la pancarte de Champlain",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1246,
+      "moving_time": 1246,
+      "start_date": "2015-08-03T11:30:15Z",
+      "start_date_local": "2015-08-03T07:30:15Z",
+      "distance": 7740.6,
+      "start_index": 2560,
+      "end_index": 3806,
+      "device_watts": false,
+      "average_watts": 97.9,
+      "segment": {
+        "id": 5435858,
+        "resource_state": 2,
+        "name": "Sprint de la pancarte de Champlain",
+        "activity_type": "Ride",
+        "distance": 7740.6,
+        "average_grade": -0.1,
+        "maximum_grade": 7.8,
+        "elevation_high": 45.6,
+        "elevation_low": 39,
+        "start_latlng": [
+          46.403793,
+          -72.435237
+        ],
+        "end_latlng": [
+          46.438734,
+          -72.35025
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.403793,
+        "start_longitude": -72.435237,
+        "end_latitude": 46.438734,
+        "end_longitude": -72.35025,
+        "climb_category": 0,
+        "city": "Trois Rivières",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527059,
+      "resource_state": 2,
+      "name": "champlain/st-anne",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 4028,
+      "moving_time": 3157,
+      "start_date": "2015-08-03T11:52:00Z",
+      "start_date_local": "2015-08-03T07:52:00Z",
+      "distance": 20262.2,
+      "start_index": 3865,
+      "end_index": 7015,
+      "device_watts": false,
+      "average_watts": 113.1,
+      "segment": {
+        "id": 4868760,
+        "resource_state": 2,
+        "name": "champlain/st-anne",
+        "activity_type": "Ride",
+        "distance": 20262.2,
+        "average_grade": 0,
+        "maximum_grade": 3.9,
+        "elevation_high": 10.1,
+        "elevation_low": 1,
+        "start_latlng": [
+          46.440633,
+          -72.346014
+        ],
+        "end_latlng": [
+          46.570311,
+          -72.208852
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.440633,
+        "start_longitude": -72.346014,
+        "end_latitude": 46.570311,
+        "end_longitude": -72.208852,
+        "climb_category": 0,
+        "city": "Champlain",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 28066747650,
+      "resource_state": 2,
+      "name": "138 est (Champlain Bastiscan)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1762,
+      "moving_time": 1762,
+      "start_date": "2015-08-03T11:52:45Z",
+      "start_date_local": "2015-08-03T07:52:45Z",
+      "distance": 11279.2,
+      "start_index": 3910,
+      "end_index": 5665,
+      "device_watts": false,
+      "average_watts": 106,
+      "segment": {
+        "id": 15768228,
+        "resource_state": 2,
+        "name": "138 est (Champlain Bastiscan)",
+        "activity_type": "Ride",
+        "distance": 11279.2,
+        "average_grade": -0.1,
+        "maximum_grade": 4.5,
+        "elevation_high": 12.2,
+        "elevation_low": 5.6,
+        "start_latlng": [
+          46.441095,
+          -72.342493
+        ],
+        "end_latlng": [
+          46.502036,
+          -72.247064
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.441095,
+        "start_longitude": -72.342493,
+        "end_latitude": 46.502036,
+        "end_longitude": -72.247064,
+        "climb_category": 0,
+        "city": "Champlain",
+        "state": "Quebec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 45860488623,
+      "resource_state": 2,
+      "name": "Lisa",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1523,
+      "moving_time": 1523,
+      "start_date": "2015-08-03T11:56:52Z",
+      "start_date_local": "2015-08-03T07:56:52Z",
+      "distance": 9874.1,
+      "start_index": 4155,
+      "end_index": 5673,
+      "device_watts": false,
+      "average_watts": 105.7,
+      "segment": {
+        "id": 18789739,
+        "resource_state": 2,
+        "name": "Lisa",
+        "activity_type": "Ride",
+        "distance": 9874.1,
+        "average_grade": 0,
+        "maximum_grade": 4.4,
+        "elevation_high": 10.3,
+        "elevation_low": 4.4,
+        "start_latlng": [
+          46.442844,
+          -72.322927
+        ],
+        "end_latlng": [
+          46.502553,
+          -72.247078
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.442844,
+        "start_longitude": -72.322927,
+        "end_latitude": 46.502553,
+        "end_longitude": -72.247078,
+        "climb_category": 0,
+        "city": "Champlain",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527004,
+      "resource_state": 2,
+      "name": "Batiscan Au Pont",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2640,
+      "moving_time": 1769,
+      "start_date": "2015-08-03T11:57:42Z",
+      "start_date_local": "2015-08-03T07:57:42Z",
+      "distance": 11171.7,
+      "start_index": 4204,
+      "end_index": 5970,
+      "device_watts": false,
+      "average_watts": 104.8,
+      "segment": {
+        "id": 4669452,
+        "resource_state": 2,
+        "name": "Batiscan Au Pont",
+        "activity_type": "Ride",
+        "distance": 11171.7,
+        "average_grade": 0,
+        "maximum_grade": 1.7,
+        "elevation_high": 9.7,
+        "elevation_low": 4.6,
+        "start_latlng": [
+          46.443017,
+          -72.318875
+        ],
+        "end_latlng": [
+          46.517377,
+          -72.246417
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.443017,
+        "start_longitude": -72.318875,
+        "end_latitude": 46.517377,
+        "end_longitude": -72.246417,
+        "climb_category": 0,
+        "city": "Champlain",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2709243797828970500,
+      "resource_state": 2,
+      "name": "Sprint du pont de Champlain vers l'est (belle asphalte)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 87,
+      "moving_time": 87,
+      "start_date": "2015-08-03T12:05:12Z",
+      "start_date_local": "2015-08-03T08:05:12Z",
+      "distance": 473.7,
+      "start_index": 4651,
+      "end_index": 4738,
+      "device_watts": false,
+      "average_watts": 83.4,
+      "segment": {
+        "id": 24545643,
+        "resource_state": 2,
+        "name": "Sprint du pont de Champlain vers l'est (belle asphalte)",
+        "activity_type": "Ride",
+        "distance": 473.7,
+        "average_grade": 0.1,
+        "maximum_grade": 0.7,
+        "elevation_high": 3.8,
+        "elevation_low": 3.2,
+        "start_latlng": [
+          46.450443,
+          -72.284592
+        ],
+        "end_latlng": [
+          46.452374,
+          -72.279137
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.450443,
+        "start_longitude": -72.284592,
+        "end_latitude": 46.452374,
+        "end_longitude": -72.279137,
+        "climb_category": 0,
+        "city": "Champlain",
+        "state": "Quebec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 14440002490,
+      "resource_state": 2,
+      "name": "138, Village Batiscan Nord",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1274,
+      "moving_time": 403,
+      "start_date": "2015-08-03T12:22:35Z",
+      "start_date_local": "2015-08-03T08:22:35Z",
+      "distance": 2293.8,
+      "start_index": 5693,
+      "end_index": 6097,
+      "device_watts": false,
+      "average_watts": 104.5,
+      "segment": {
+        "id": 12228912,
+        "resource_state": 2,
+        "name": "138, Village Batiscan Nord",
+        "activity_type": "Ride",
+        "distance": 2293.8,
+        "average_grade": 0,
+        "maximum_grade": 10.3,
+        "elevation_high": 7.8,
+        "elevation_low": 2.4,
+        "start_latlng": [
+          46.503695,
+          -72.247181
+        ],
+        "end_latlng": [
+          46.523842,
+          -72.24496
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.503695,
+        "start_longitude": -72.247181,
+        "end_latitude": 46.523842,
+        "end_longitude": -72.24496,
+        "climb_category": 0,
+        "city": "Batiscan",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527078,
+      "resource_state": 2,
+      "name": "Pousse vers la Perade",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1003,
+      "moving_time": 1003,
+      "start_date": "2015-08-03T12:43:28Z",
+      "start_date_local": "2015-08-03T08:43:28Z",
+      "distance": 6737.2,
+      "start_index": 6076,
+      "end_index": 7078,
+      "device_watts": false,
+      "average_watts": 129.1,
+      "segment": {
+        "id": 4669471,
+        "resource_state": 2,
+        "name": "Pousse vers la Perade",
+        "activity_type": "Ride",
+        "distance": 6737.2,
+        "average_grade": 0,
+        "maximum_grade": 4.6,
+        "elevation_high": 9,
+        "elevation_low": 2,
+        "start_latlng": [
+          46.522141,
+          -72.245438
+        ],
+        "end_latlng": [
+          46.572053,
+          -72.205112
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.522141,
+        "start_longitude": -72.245438,
+        "end_latitude": 46.572053,
+        "end_longitude": -72.205112,
+        "climb_category": 0,
+        "city": "Batiscan",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 45858535940,
+      "resource_state": 2,
+      "name": "DomTheMachine",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 771,
+      "moving_time": 771,
+      "start_date": "2015-08-03T12:44:10Z",
+      "start_date_local": "2015-08-03T08:44:10Z",
+      "distance": 5202.4,
+      "start_index": 6118,
+      "end_index": 6889,
+      "device_watts": false,
+      "average_watts": 128.3,
+      "segment": {
+        "id": 18789389,
+        "resource_state": 2,
+        "name": "DomTheMachine",
+        "activity_type": "Ride",
+        "distance": 5202.4,
+        "average_grade": 0,
+        "maximum_grade": 3.5,
+        "elevation_high": 7.4,
+        "elevation_low": 3,
+        "start_latlng": [
+          46.523991,
+          -72.242684
+        ],
+        "end_latlng": [
+          46.563377,
+          -72.212561
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.523991,
+        "start_longitude": -72.242684,
+        "end_latitude": 46.563377,
+        "end_longitude": -72.212561,
+        "climb_category": 0,
+        "city": "Batiscan",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 60868804261,
+      "resource_state": 2,
+      "name": "75 km Rivère Batiscan à St-Augustin",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 12441,
+      "moving_time": 10692,
+      "start_date": "2015-08-03T12:44:48Z",
+      "start_date_local": "2015-08-03T08:44:48Z",
+      "distance": 75093.5,
+      "start_index": 6156,
+      "end_index": 16835,
+      "device_watts": false,
+      "average_watts": 155.6,
+      "segment": {
+        "id": 20747794,
+        "resource_state": 2,
+        "name": "75 km Rivère Batiscan à St-Augustin",
+        "activity_type": "Ride",
+        "distance": 75093.5,
+        "average_grade": 0.1,
+        "maximum_grade": 9.1,
+        "elevation_high": 97,
+        "elevation_low": 3.6,
+        "start_latlng": [
+          46.523978,
+          -72.239763
+        ],
+        "end_latlng": [
+          46.745836,
+          -71.445362
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.523978,
+        "start_longitude": -72.239763,
+        "end_latitude": 46.745836,
+        "end_longitude": -71.445362,
+        "climb_category": 0,
+        "city": "Batiscan",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2737667199936705500,
+      "resource_state": 2,
+      "name": "138 vers la perade",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 641,
+      "moving_time": 641,
+      "start_date": "2015-08-03T12:46:29Z",
+      "start_date_local": "2015-08-03T08:46:29Z",
+      "distance": 4415.2,
+      "start_index": 6257,
+      "end_index": 6898,
+      "device_watts": false,
+      "average_watts": 132.3,
+      "segment": {
+        "id": 25606983,
+        "resource_state": 2,
+        "name": "138 vers la perade",
+        "activity_type": "Ride",
+        "distance": 4415.2,
+        "average_grade": 0.1,
+        "maximum_grade": 1.7,
+        "elevation_high": 11.2,
+        "elevation_low": 7,
+        "start_latlng": [
+          46.528036,
+          -72.23538
+        ],
+        "end_latlng": [
+          46.563914,
+          -72.212299
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.528036,
+        "start_longitude": -72.23538,
+        "end_latitude": 46.563914,
+        "end_longitude": -72.212299,
+        "climb_category": 0,
+        "city": "Batiscan",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2737665909084417000,
+      "resource_state": 2,
+      "name": "El pont",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2015-08-03T12:59:08Z",
+      "start_date_local": "2015-08-03T08:59:08Z",
+      "distance": 375.2,
+      "start_index": 7015,
+      "end_index": 7079,
+      "device_watts": false,
+      "average_watts": 129.7,
+      "segment": {
+        "id": 25606960,
+        "resource_state": 2,
+        "name": "El pont",
+        "activity_type": "Ride",
+        "distance": 375.2,
+        "average_grade": 0.4,
+        "maximum_grade": 3.8,
+        "elevation_high": 14.4,
+        "elevation_low": 10.8,
+        "start_latlng": [
+          46.570315,
+          -72.208897
+        ],
+        "end_latlng": [
+          46.572066,
+          -72.205015
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.570315,
+        "start_longitude": -72.208897,
+        "end_latitude": 46.572066,
+        "end_longitude": -72.205015,
+        "climb_category": 0,
+        "city": "Sainte-Anne-de-la-Pérade",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 64204480488,
+      "resource_state": 2,
+      "name": "Ste-Anne @ Grondines 138 est",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2273,
+      "moving_time": 2256,
+      "start_date": "2015-08-03T13:00:19Z",
+      "start_date_local": "2015-08-03T09:00:19Z",
+      "distance": 15146.7,
+      "start_index": 7086,
+      "end_index": 9341,
+      "device_watts": false,
+      "average_watts": 137.8,
+      "segment": {
+        "id": 21242405,
+        "resource_state": 2,
+        "name": "Ste-Anne @ Grondines 138 est",
+        "activity_type": "Ride",
+        "distance": 15146.7,
+        "average_grade": 0.1,
+        "maximum_grade": 2.6,
+        "elevation_high": 22.7,
+        "elevation_low": 4.9,
+        "start_latlng": [
+          46.572053,
+          -72.204327
+        ],
+        "end_latlng": [
+          46.599085,
+          -72.023821
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.572053,
+        "start_longitude": -72.204327,
+        "end_latitude": 46.599085,
+        "end_longitude": -72.023821,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2687051272588292000,
+      "resource_state": 2,
+      "name": "Accélération 138",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1516,
+      "moving_time": 1516,
+      "start_date": "2015-08-03T13:09:52Z",
+      "start_date_local": "2015-08-03T09:09:52Z",
+      "distance": 10672.9,
+      "start_index": 7658,
+      "end_index": 9173,
+      "device_watts": false,
+      "average_watts": 137.5,
+      "segment": {
+        "id": 23524549,
+        "resource_state": 2,
+        "name": "Accélération 138",
+        "activity_type": "Ride",
+        "distance": 10672.9,
+        "average_grade": 0,
+        "maximum_grade": 3,
+        "elevation_high": -73,
+        "elevation_low": -82.8,
+        "start_latlng": [
+          46.575545,
+          -72.157694
+        ],
+        "end_latlng": [
+          46.593495,
+          -72.031594
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.575545,
+        "start_longitude": -72.157694,
+        "end_latitude": 46.593495,
+        "end_longitude": -72.031594,
+        "climb_category": 0,
+        "city": "Sainte-Anne-de-la-Pérade",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 44719869605,
+      "resource_state": 2,
+      "name": "For Erik",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 3314,
+      "moving_time": 2803,
+      "start_date": "2015-08-03T13:22:07Z",
+      "start_date_local": "2015-08-03T09:22:07Z",
+      "distance": 19563.9,
+      "start_index": 8393,
+      "end_index": 11195,
+      "device_watts": false,
+      "average_watts": 151.9,
+      "segment": {
+        "id": 18578552,
+        "resource_state": 2,
+        "name": "For Erik",
+        "activity_type": "Ride",
+        "distance": 19563.9,
+        "average_grade": 0,
+        "maximum_grade": 7.1,
+        "elevation_high": 40,
+        "elevation_low": 0.1,
+        "start_latlng": [
+          46.59683,
+          -72.099564
+        ],
+        "end_latlng": [
+          46.678987,
+          -71.90565
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.59683,
+        "start_longitude": -72.099564,
+        "end_latitude": 46.678987,
+        "end_longitude": -71.90565,
+        "climb_category": 0,
+        "city": "Grondines",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527362,
+      "resource_state": 2,
+      "name": "Grondines-St-Augustin",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 9418,
+      "moving_time": 7669,
+      "start_date": "2015-08-03T13:35:23Z",
+      "start_date_local": "2015-08-03T09:35:23Z",
+      "distance": 54388.5,
+      "start_index": 9188,
+      "end_index": 16847,
+      "device_watts": false,
+      "average_watts": 164.7,
+      "segment": {
+        "id": 9507734,
+        "resource_state": 2,
+        "name": "Grondines-St-Augustin",
+        "activity_type": "Ride",
+        "distance": 54388.5,
+        "average_grade": 0.1,
+        "maximum_grade": 10.6,
+        "elevation_high": 89.2,
+        "elevation_low": 0.1,
+        "start_latlng": [
+          46.59379,
+          -72.030246
+        ],
+        "end_latlng": [
+          46.746159,
+          -71.444512
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.59379,
+        "start_longitude": -72.030246,
+        "end_latitude": 46.746159,
+        "end_longitude": -71.444512,
+        "climb_category": 0,
+        "city": "Deschambault",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 26482827122,
+      "resource_state": 2,
+      "name": "Chevrotiere to Portneuf",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2174,
+      "moving_time": 1680,
+      "start_date": "2015-08-03T13:44:30Z",
+      "start_date_local": "2015-08-03T09:44:30Z",
+      "distance": 12341.6,
+      "start_index": 9719,
+      "end_index": 11398,
+      "device_watts": false,
+      "average_watts": 148.2,
+      "segment": {
+        "id": 15380952,
+        "resource_state": 2,
+        "name": "Chevrotiere to Portneuf",
+        "activity_type": "Ride",
+        "distance": 12341.6,
+        "average_grade": -0.2,
+        "maximum_grade": 8.2,
+        "elevation_high": 37.7,
+        "elevation_low": -2.6,
+        "start_latlng": [
+          46.61549,
+          -72.004103
+        ],
+        "end_latlng": [
+          46.68742,
+          -71.891752
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.61549,
+        "start_longitude": -72.004103,
+        "end_latitude": 46.68742,
+        "end_longitude": -71.891752,
+        "climb_category": 0,
+        "city": "Grondines",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 45858823494,
+      "resource_state": 2,
+      "name": "Chaumonti!",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1707,
+      "moving_time": 1213,
+      "start_date": "2015-08-03T13:50:17Z",
+      "start_date_local": "2015-08-03T09:50:17Z",
+      "distance": 8243.3,
+      "start_index": 10065,
+      "end_index": 11278,
+      "device_watts": false,
+      "average_watts": 137.1,
+      "segment": {
+        "id": 18789429,
+        "resource_state": 2,
+        "name": "Chaumonti!",
+        "activity_type": "Ride",
+        "distance": 8243.3,
+        "average_grade": -0.1,
+        "maximum_grade": 7.1,
+        "elevation_high": 23,
+        "elevation_low": 0.1,
+        "start_latlng": [
+          46.632331,
+          -71.970145
+        ],
+        "end_latlng": [
+          46.682626,
+          -71.899713
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.632331,
+        "start_longitude": -71.970145,
+        "end_latitude": 46.682626,
+        "end_longitude": -71.899713,
+        "climb_category": 0,
+        "city": "Grondines",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527091,
+      "resource_state": 2,
+      "name": "porneuf",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2015-08-03T14:24:32Z",
+      "start_date_local": "2015-08-03T10:24:32Z",
+      "distance": 536.406,
+      "start_index": 11568,
+      "end_index": 11632,
+      "device_watts": false,
+      "average_watts": 192.7,
+      "segment": {
+        "id": 2123531,
+        "resource_state": 2,
+        "name": "porneuf",
+        "activity_type": "Ride",
+        "distance": 536.406,
+        "average_grade": 0,
+        "maximum_grade": 2.4,
+        "elevation_high": 9.3,
+        "elevation_low": 2.8,
+        "start_latlng": [
+          46.6924056,
+          -71.8838043
+        ],
+        "end_latlng": [
+          46.693492,
+          -71.8770462
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.6924056,
+        "start_longitude": -71.8838043,
+        "end_latitude": 46.693492,
+        "end_longitude": -71.8770462,
+        "climb_category": 0,
+        "city": "Portneuf",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 60866382449,
+      "resource_state": 2,
+      "name": "Port-Neuf à Cap-Santé",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2209,
+      "moving_time": 1375,
+      "start_date": "2015-08-03T14:24:53Z",
+      "start_date_local": "2015-08-03T10:24:53Z",
+      "distance": 8742.8,
+      "start_index": 11589,
+      "end_index": 12962,
+      "device_watts": false,
+      "average_watts": 162.5,
+      "segment": {
+        "id": 20747429,
+        "resource_state": 2,
+        "name": "Port-Neuf à Cap-Santé",
+        "activity_type": "Ride",
+        "distance": 8742.8,
+        "average_grade": 0.6,
+        "maximum_grade": 8,
+        "elevation_high": 66,
+        "elevation_low": 7.2,
+        "start_latlng": [
+          46.69306,
+          -71.881351
+        ],
+        "end_latlng": [
+          46.669892,
+          -71.775652
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.69306,
+        "start_longitude": -71.881351,
+        "end_latitude": 46.669892,
+        "end_longitude": -71.775652,
+        "climb_category": 0,
+        "city": "Portneuf",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 60866246065,
+      "resource_state": 2,
+      "name": "Bosse des Aulnes",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 280,
+      "moving_time": 280,
+      "start_date": "2015-08-03T14:33:41Z",
+      "start_date_local": "2015-08-03T10:33:41Z",
+      "distance": 1380.2,
+      "start_index": 12115,
+      "end_index": 12394,
+      "device_watts": false,
+      "average_watts": 175.4,
+      "segment": {
+        "id": 20747421,
+        "resource_state": 2,
+        "name": "Bosse des Aulnes",
+        "activity_type": "Ride",
+        "distance": 1380.2,
+        "average_grade": 1.9,
+        "maximum_grade": 6.6,
+        "elevation_high": 34.6,
+        "elevation_low": 7.4,
+        "start_latlng": [
+          46.688483,
+          -71.828885
+        ],
+        "end_latlng": [
+          46.682324,
+          -71.813306
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.688483,
+        "start_longitude": -71.828885,
+        "end_latitude": 46.682324,
+        "end_longitude": -71.813306,
+        "climb_category": 0,
+        "city": "Cap-Santé",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527105,
+      "resource_state": 2,
+      "name": "côte de l'église, cap-santé, 138",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2015-08-03T14:58:24Z",
+      "start_date_local": "2015-08-03T10:58:24Z",
+      "distance": 534.9,
+      "start_index": 12764,
+      "end_index": 12884,
+      "device_watts": false,
+      "average_watts": 236.8,
+      "segment": {
+        "id": 7849002,
+        "resource_state": 2,
+        "name": "côte de l'église, cap-santé, 138",
+        "activity_type": "Ride",
+        "distance": 534.9,
+        "average_grade": 3.3,
+        "maximum_grade": 7.6,
+        "elevation_high": 68.2,
+        "elevation_low": 50.4,
+        "start_latlng": [
+          46.671538,
+          -71.787849
+        ],
+        "end_latlng": [
+          46.670453,
+          -71.781039
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.671538,
+        "start_longitude": -71.787849,
+        "end_latitude": 46.670453,
+        "end_longitude": -71.781039,
+        "climb_category": 0,
+        "city": "Cap Santé",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527118,
+      "resource_state": 2,
+      "name": "Québec 138 Climb",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 103,
+      "moving_time": 103,
+      "start_date": "2015-08-03T15:01:28Z",
+      "start_date_local": "2015-08-03T11:01:28Z",
+      "distance": 607.999,
+      "start_index": 12948,
+      "end_index": 13051,
+      "device_watts": false,
+      "average_watts": 118.3,
+      "segment": {
+        "id": 2344551,
+        "resource_state": 2,
+        "name": "Québec 138 Climb",
+        "activity_type": "Ride",
+        "distance": 607.999,
+        "average_grade": 23.3,
+        "maximum_grade": 42.5,
+        "elevation_high": 205,
+        "elevation_low": 63.6,
+        "start_latlng": [
+          46.67000167071819,
+          -71.77673114463687
+        ],
+        "end_latlng": [
+          46.66996344923973,
+          -71.76882499828935
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.67000167071819,
+        "start_longitude": -71.77673114463687,
+        "end_latitude": 46.66996344923973,
+        "end_longitude": -71.76882499828935,
+        "climb_category": 1,
+        "city": "Cap Santé",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527133,
+      "resource_state": 2,
+      "name": "Côte Chemin du Roy Donnaconna",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 92,
+      "moving_time": 92,
+      "start_date": "2015-08-03T15:08:55Z",
+      "start_date_local": "2015-08-03T11:08:55Z",
+      "distance": 552.54,
+      "start_index": 13395,
+      "end_index": 13487,
+      "device_watts": false,
+      "average_watts": 299.1,
+      "segment": {
+        "id": 1756379,
+        "resource_state": 2,
+        "name": "Côte Chemin du Roy Donnaconna",
+        "activity_type": "Ride",
+        "distance": 552.54,
+        "average_grade": 3.1,
+        "maximum_grade": 6.6,
+        "elevation_high": 34.2,
+        "elevation_low": 17.2,
+        "start_latlng": [
+          46.683156564831734,
+          -71.74228915013373
+        ],
+        "end_latlng": [
+          46.68262272141874,
+          -71.73510787077248
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.683156564831734,
+        "start_longitude": -71.74228915013373,
+        "end_latitude": 46.68262272141874,
+        "end_longitude": -71.73510787077248,
+        "climb_category": 0,
+        "city": "Donnacona",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527141,
+      "resource_state": 2,
+      "name": "Montée Donnacona",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2015-08-03T15:08:59Z",
+      "start_date_local": "2015-08-03T11:08:59Z",
+      "distance": 855.3,
+      "start_index": 13399,
+      "end_index": 13565,
+      "device_watts": false,
+      "average_watts": 266.7,
+      "segment": {
+        "id": 4653439,
+        "resource_state": 2,
+        "name": "Montée Donnacona",
+        "activity_type": "Ride",
+        "distance": 855.3,
+        "average_grade": 3.1,
+        "maximum_grade": 7.2,
+        "elevation_high": 64.4,
+        "elevation_low": 35.2,
+        "start_latlng": [
+          46.683127,
+          -71.74175
+        ],
+        "end_latlng": [
+          46.682246,
+          -71.730644
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.683127,
+        "start_longitude": -71.74175,
+        "end_latitude": 46.682246,
+        "end_longitude": -71.730644,
+        "climb_category": 0,
+        "city": "Donnacona",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527149,
+      "resource_state": 2,
+      "name": "donnacona",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 204,
+      "start_date": "2015-08-03T15:09:01Z",
+      "start_date_local": "2015-08-03T11:09:01Z",
+      "distance": 972.6,
+      "start_index": 13401,
+      "end_index": 13602,
+      "device_watts": false,
+      "average_watts": 227.4,
+      "segment": {
+        "id": 2100111,
+        "resource_state": 2,
+        "name": "donnacona",
+        "activity_type": "Ride",
+        "distance": 972.6,
+        "average_grade": 2.5,
+        "maximum_grade": 6,
+        "elevation_high": 61.2,
+        "elevation_low": 34.2,
+        "start_latlng": [
+          46.68318162672222,
+          -71.74152346327901
+        ],
+        "end_latlng": [
+          46.68214679695666,
+          -71.72908974811435
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.68318162672222,
+        "start_longitude": -71.74152346327901,
+        "end_latitude": 46.68214679695666,
+        "end_longitude": -71.72908974811435,
+        "climb_category": 0,
+        "city": "Donnacona",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527331,
+      "resource_state": 2,
+      "name": "Route 138 Ouest-Est Donnacona St-Aug",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2929,
+      "moving_time": 2885,
+      "start_date": "2015-08-03T15:16:41Z",
+      "start_date_local": "2015-08-03T11:16:41Z",
+      "distance": 22359.4,
+      "start_index": 13749,
+      "end_index": 16629,
+      "device_watts": false,
+      "average_watts": 176.7,
+      "segment": {
+        "id": 4931255,
+        "resource_state": 2,
+        "name": "Route 138 Ouest-Est Donnacona St-Aug",
+        "activity_type": "Ride",
+        "distance": 22359.4,
+        "average_grade": 0,
+        "maximum_grade": 8.5,
+        "elevation_high": 80,
+        "elevation_low": 13.8,
+        "start_latlng": [
+          46.680217,
+          -71.715339
+        ],
+        "end_latlng": [
+          46.74337,
+          -71.459137
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.680217,
+        "start_longitude": -71.715339,
+        "end_latitude": 46.74337,
+        "end_longitude": -71.459137,
+        "climb_category": 0,
+        "city": "Donnacona",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2753787939012712000,
+      "resource_state": 2,
+      "name": "138 Est Neuville à St-Augustin",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1954,
+      "moving_time": 1954,
+      "start_date": "2015-08-03T15:33:32Z",
+      "start_date_local": "2015-08-03T11:33:32Z",
+      "distance": 14971.7,
+      "start_index": 14715,
+      "end_index": 16665,
+      "device_watts": false,
+      "average_watts": 183.5,
+      "segment": {
+        "id": 26129272,
+        "resource_state": 2,
+        "name": "138 Est Neuville à St-Augustin",
+        "activity_type": "Ride",
+        "distance": 14971.7,
+        "average_grade": 0.2,
+        "maximum_grade": 12.2,
+        "elevation_high": 53.2,
+        "elevation_low": -19.8,
+        "start_latlng": [
+          46.699293,
+          -71.626947
+        ],
+        "end_latlng": [
+          46.743755,
+          -71.456594
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.699293,
+        "start_longitude": -71.626947,
+        "end_latitude": 46.743755,
+        "end_longitude": -71.456594,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527162,
+      "resource_state": 2,
+      "name": "Grande Côte de Neuville",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 358,
+      "moving_time": 358,
+      "start_date": "2015-08-03T15:41:51Z",
+      "start_date_local": "2015-08-03T11:41:51Z",
+      "distance": 1764.77,
+      "start_index": 15211,
+      "end_index": 15568,
+      "device_watts": false,
+      "average_watts": 209.8,
+      "segment": {
+        "id": 2213343,
+        "resource_state": 2,
+        "name": "Grande Côte de Neuville",
+        "activity_type": "Ride",
+        "distance": 1764.77,
+        "average_grade": 2.6,
+        "maximum_grade": 9.6,
+        "elevation_high": 53.5,
+        "elevation_low": 5.3,
+        "start_latlng": [
+          46.70000065383637,
+          -71.5702561797972
+        ],
+        "end_latlng": [
+          46.712697576105214,
+          -71.5575647211515
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.70000065383637,
+        "start_longitude": -71.5702561797972,
+        "end_latitude": 46.712697576105214,
+        "end_longitude": -71.5575647211515,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527258,
+      "resource_state": 2,
+      "name": "Sortir Neuville Est 1",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 355,
+      "moving_time": 355,
+      "start_date": "2015-08-03T15:42:26Z",
+      "start_date_local": "2015-08-03T11:42:26Z",
+      "distance": 1705.55,
+      "start_index": 15246,
+      "end_index": 15600,
+      "device_watts": false,
+      "average_watts": 193.3,
+      "segment": {
+        "id": 2123991,
+        "resource_state": 2,
+        "name": "Sortir Neuville Est 1",
+        "activity_type": "Ride",
+        "distance": 1705.55,
+        "average_grade": 2.5,
+        "maximum_grade": 11.7,
+        "elevation_high": 63.2,
+        "elevation_low": 20.2,
+        "start_latlng": [
+          46.70145258307457,
+          -71.56772084534168
+        ],
+        "end_latlng": [
+          46.7138465680182,
+          -71.55508101917803
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.70145258307457,
+        "start_longitude": -71.56772084534168,
+        "end_latitude": 46.7138465680182,
+        "end_longitude": -71.55508101917803,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527276,
+      "resource_state": 2,
+      "name": "Petite Côte de Neuville",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 132,
+      "start_date": "2015-08-03T15:49:33Z",
+      "start_date_local": "2015-08-03T11:49:33Z",
+      "distance": 726.784,
+      "start_index": 15672,
+      "end_index": 15804,
+      "device_watts": false,
+      "average_watts": 235.2,
+      "segment": {
+        "id": 2213349,
+        "resource_state": 2,
+        "name": "Petite Côte de Neuville",
+        "activity_type": "Ride",
+        "distance": 726.784,
+        "average_grade": 3,
+        "maximum_grade": 6.9,
+        "elevation_high": 66.3,
+        "elevation_low": 44.7,
+        "start_latlng": [
+          46.71735075640158,
+          -71.54825741967089
+        ],
+        "end_latlng": [
+          46.72206099503569,
+          -71.54167504991635
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.71735075640158,
+        "start_longitude": -71.54825741967089,
+        "end_latitude": 46.72206099503569,
+        "end_longitude": -71.54167504991635,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527267,
+      "resource_state": 2,
+      "name": "Cöte de Neuville vers l'est",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 105,
+      "moving_time": 105,
+      "start_date": "2015-08-03T15:49:53Z",
+      "start_date_local": "2015-08-03T11:49:53Z",
+      "distance": 527.5,
+      "start_index": 15692,
+      "end_index": 15797,
+      "device_watts": false,
+      "average_watts": 245,
+      "segment": {
+        "id": 4479032,
+        "resource_state": 2,
+        "name": "Cöte de Neuville vers l'est",
+        "activity_type": "Ride",
+        "distance": 527.5,
+        "average_grade": 3.5,
+        "maximum_grade": 6.3,
+        "elevation_high": 69.8,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          46.718353,
+          -71.54688
+        ],
+        "end_latlng": [
+          46.721776,
+          -71.542129
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.718353,
+        "start_longitude": -71.54688,
+        "end_latitude": 46.721776,
+        "end_longitude": -71.542129,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527312,
+      "resource_state": 2,
+      "name": "Down wind to St-Aug",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 698,
+      "moving_time": 698,
+      "start_date": "2015-08-03T15:51:45Z",
+      "start_date_local": "2015-08-03T11:51:45Z",
+      "distance": 6079.9,
+      "start_index": 15804,
+      "end_index": 16502,
+      "device_watts": false,
+      "average_watts": 183.9,
+      "segment": {
+        "id": 7856556,
+        "resource_state": 2,
+        "name": "Down wind to St-Aug",
+        "activity_type": "Ride",
+        "distance": 6079.9,
+        "average_grade": -0.1,
+        "maximum_grade": 5,
+        "elevation_high": 66.1,
+        "elevation_low": 51.4,
+        "start_latlng": [
+          46.722056,
+          -71.541622
+        ],
+        "end_latlng": [
+          46.741564,
+          -71.469228
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.722056,
+        "start_longitude": -71.541622,
+        "end_latitude": 46.741564,
+        "end_longitude": -71.469228,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16858101042,
+      "resource_state": 2,
+      "name": "La Flamme Jaune",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 259,
+      "moving_time": 259,
+      "start_date": "2015-08-03T15:52:58Z",
+      "start_date_local": "2015-08-03T11:52:58Z",
+      "distance": 2312,
+      "start_index": 15877,
+      "end_index": 16136,
+      "device_watts": false,
+      "average_watts": 177.5,
+      "segment": {
+        "id": 13000338,
+        "resource_state": 2,
+        "name": "La Flamme Jaune",
+        "activity_type": "Ride",
+        "distance": 2312,
+        "average_grade": -0.4,
+        "maximum_grade": 1.9,
+        "elevation_high": 64,
+        "elevation_low": 53.8,
+        "start_latlng": [
+          46.725865,
+          -71.536332
+        ],
+        "end_latlng": [
+          46.734697,
+          -71.509642
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.725865,
+        "start_longitude": -71.536332,
+        "end_latitude": 46.734697,
+        "end_longitude": -71.509642,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527293,
+      "resource_state": 2,
+      "name": "Back Straight - Lunch Ride Garneau",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 408,
+      "moving_time": 408,
+      "start_date": "2015-08-03T15:55:13Z",
+      "start_date_local": "2015-08-03T11:55:13Z",
+      "distance": 3792.7,
+      "start_index": 16012,
+      "end_index": 16420,
+      "device_watts": false,
+      "average_watts": 200.7,
+      "segment": {
+        "id": 4044615,
+        "resource_state": 2,
+        "name": "Back Straight - Lunch Ride Garneau",
+        "activity_type": "Ride",
+        "distance": 3792.7,
+        "average_grade": -0.2,
+        "maximum_grade": 3,
+        "elevation_high": 60.5,
+        "elevation_low": 51.4,
+        "start_latlng": [
+          46.731631,
+          -71.525419
+        ],
+        "end_latlng": [
+          46.740165,
+          -71.477395
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.731631,
+        "start_longitude": -71.525419,
+        "end_latitude": 46.740165,
+        "end_longitude": -71.477395,
+        "climb_category": 0,
+        "city": "Neuville",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527303,
+      "resource_state": 2,
+      "name": "138",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 358,
+      "moving_time": 358,
+      "start_date": "2015-08-03T15:56:10Z",
+      "start_date_local": "2015-08-03T11:56:10Z",
+      "distance": 3252.3,
+      "start_index": 16069,
+      "end_index": 16427,
+      "device_watts": false,
+      "average_watts": 193,
+      "segment": {
+        "id": 9903053,
+        "resource_state": 2,
+        "name": "138",
+        "activity_type": "Ride",
+        "distance": 3252.3,
+        "average_grade": -0.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 58.9,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          46.733154,
+          -71.517829
+        ],
+        "end_latlng": [
+          46.740352,
+          -71.47659
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.733154,
+        "start_longitude": -71.517829,
+        "end_latitude": 46.740352,
+        "end_longitude": -71.47659,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16858108249,
+      "resource_state": 2,
+      "name": "La Flamme Orange",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 162,
+      "moving_time": 162,
+      "start_date": "2015-08-03T15:57:24Z",
+      "start_date_local": "2015-08-03T11:57:24Z",
+      "distance": 1421.6,
+      "start_index": 16143,
+      "end_index": 16305,
+      "device_watts": false,
+      "average_watts": 220.8,
+      "segment": {
+        "id": 13000330,
+        "resource_state": 2,
+        "name": "La Flamme Orange",
+        "activity_type": "Ride",
+        "distance": 1421.6,
+        "average_grade": 0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 59.3,
+        "elevation_low": 51.7,
+        "start_latlng": [
+          46.734857,
+          -71.508696
+        ],
+        "end_latlng": [
+          46.737876,
+          -71.490702
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.734857,
+        "start_longitude": -71.508696,
+        "end_latitude": 46.737876,
+        "end_longitude": -71.490702,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527298,
+      "resource_state": 2,
+      "name": "La Flamme Rouge",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2015-08-03T16:00:11Z",
+      "start_date_local": "2015-08-03T12:00:11Z",
+      "distance": 1007.7,
+      "start_index": 16310,
+      "end_index": 16421,
+      "device_watts": false,
+      "average_watts": 160.3,
+      "segment": {
+        "id": 7151944,
+        "resource_state": 2,
+        "name": "La Flamme Rouge",
+        "activity_type": "Ride",
+        "distance": 1007.7,
+        "average_grade": -0.4,
+        "maximum_grade": 6.6,
+        "elevation_high": 45,
+        "elevation_low": 38,
+        "start_latlng": [
+          46.737951,
+          -71.490125
+        ],
+        "end_latlng": [
+          46.740204,
+          -71.477354
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.737951,
+        "start_longitude": -71.490125,
+        "end_latitude": 46.740204,
+        "end_longitude": -71.477354,
+        "climb_category": 0,
+        "city": "Canada",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527322,
+      "resource_state": 2,
+      "name": "138 St-Augustin faux plat en revenant Vers Est",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 115,
+      "moving_time": 115,
+      "start_date": "2015-08-03T16:03:31Z",
+      "start_date_local": "2015-08-03T12:03:31Z",
+      "distance": 705.472,
+      "start_index": 16510,
+      "end_index": 16625,
+      "device_watts": false,
+      "average_watts": 239.9,
+      "segment": {
+        "id": 1590841,
+        "resource_state": 2,
+        "name": "138 St-Augustin faux plat en revenant Vers Est",
+        "activity_type": "Ride",
+        "distance": 705.472,
+        "average_grade": 2,
+        "maximum_grade": 3.3,
+        "elevation_high": 62.6,
+        "elevation_low": 48.6,
+        "start_latlng": [
+          46.74177045933902,
+          -71.46849277429283
+        ],
+        "end_latlng": [
+          46.74328004010022,
+          -71.45951265469193
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.74177045933902,
+        "start_longitude": -71.46849277429283,
+        "end_latitude": 46.74328004010022,
+        "end_longitude": -71.45951265469193,
+        "climb_category": 0,
+        "city": "Saint Augustin De Desmaures",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527356,
+      "resource_state": 2,
+      "name": "Côte du metro",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 107,
+      "moving_time": 107,
+      "start_date": "2015-08-03T16:10:16Z",
+      "start_date_local": "2015-08-03T12:10:16Z",
+      "distance": 580.238,
+      "start_index": 16722,
+      "end_index": 16829,
+      "device_watts": false,
+      "average_watts": 206.7,
+      "segment": {
+        "id": 2415650,
+        "resource_state": 2,
+        "name": "Côte du metro",
+        "activity_type": "Ride",
+        "distance": 580.238,
+        "average_grade": 2.3,
+        "maximum_grade": 3.5,
+        "elevation_high": 89.6,
+        "elevation_low": 75.9,
+        "start_latlng": [
+          46.744156917604464,
+          -71.45305060236207
+        ],
+        "end_latlng": [
+          46.745599020090786,
+          -71.44582648457518
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.744156917604464,
+        "start_longitude": -71.45305060236207,
+        "end_latitude": 46.745599020090786,
+        "end_longitude": -71.44582648457518,
+        "climb_category": 0,
+        "city": "Saint Augustin De Desmaures",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527409,
+      "resource_state": 2,
+      "name": "De la shop vers la Vallée des Garneau",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 233,
+      "moving_time": 233,
+      "start_date": "2015-08-03T16:12:37Z",
+      "start_date_local": "2015-08-03T12:12:37Z",
+      "distance": 1884.2,
+      "start_index": 16863,
+      "end_index": 17096,
+      "device_watts": false,
+      "average_watts": 128.1,
+      "segment": {
+        "id": 7660655,
+        "resource_state": 2,
+        "name": "De la shop vers la Vallée des Garneau",
+        "activity_type": "Ride",
+        "distance": 1884.2,
+        "average_grade": -1.1,
+        "maximum_grade": 1.5,
+        "elevation_high": 89,
+        "elevation_low": 67.5,
+        "start_latlng": [
+          46.746301,
+          -71.443821
+        ],
+        "end_latlng": [
+          46.739397,
+          -71.423493
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.746301,
+        "start_longitude": -71.443821,
+        "end_latitude": 46.739397,
+        "end_longitude": -71.423493,
+        "climb_category": 0,
+        "city": "Saint Augustin De Desmaures",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 17510105708,
+      "resource_state": 2,
+      "name": "Tessier (de 138 à Roy)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 105,
+      "moving_time": 105,
+      "start_date": "2015-08-03T16:13:11Z",
+      "start_date_local": "2015-08-03T12:13:11Z",
+      "distance": 870.5,
+      "start_index": 16897,
+      "end_index": 17002,
+      "device_watts": false,
+      "average_watts": 100.7,
+      "segment": {
+        "id": 13205217,
+        "resource_state": 2,
+        "name": "Tessier (de 138 à Roy)",
+        "activity_type": "Ride",
+        "distance": 870.5,
+        "average_grade": -2.1,
+        "maximum_grade": 0,
+        "elevation_high": 88.5,
+        "elevation_low": 70.4,
+        "start_latlng": [
+          46.745171,
+          -71.442269
+        ],
+        "end_latlng": [
+          46.739703,
+          -71.434108
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.745171,
+        "start_longitude": -71.442269,
+        "end_latitude": 46.739703,
+        "end_longitude": -71.434108,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2701133695148437500,
+      "resource_state": 2,
+      "name": "descente butte à rond-point",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 68,
+      "moving_time": 68,
+      "start_date": "2015-08-03T16:17:04Z",
+      "start_date_local": "2015-08-03T12:17:04Z",
+      "distance": 809.9,
+      "start_index": 17130,
+      "end_index": 17198,
+      "device_watts": false,
+      "average_watts": 173.6,
+      "segment": {
+        "id": 24230665,
+        "resource_state": 2,
+        "name": "descente butte à rond-point",
+        "activity_type": "Ride",
+        "distance": 809.9,
+        "average_grade": -3.5,
+        "maximum_grade": 0,
+        "elevation_high": 75.4,
+        "elevation_low": 47.4,
+        "start_latlng": [
+          46.74038,
+          -71.419512
+        ],
+        "end_latlng": [
+          46.741251,
+          -71.409102
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.74038,
+        "start_longitude": -71.419512,
+        "end_latitude": 46.741251,
+        "end_longitude": -71.409102,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527416,
+      "resource_state": 2,
+      "name": "Montee du Seminaire Saint-Francois",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 177,
+      "moving_time": 177,
+      "start_date": "2015-08-03T16:25:25Z",
+      "start_date_local": "2015-08-03T12:25:25Z",
+      "distance": 895.37,
+      "start_index": 17494,
+      "end_index": 17671,
+      "device_watts": false,
+      "average_watts": 198.1,
+      "segment": {
+        "id": 1831733,
+        "resource_state": 2,
+        "name": "Montee du Seminaire Saint-Francois",
+        "activity_type": "Ride",
+        "distance": 895.37,
+        "average_grade": 2.4,
+        "maximum_grade": 10.6,
+        "elevation_high": 79.4,
+        "elevation_low": 57.8,
+        "start_latlng": [
+          46.73479185439646,
+          -71.39464393258095
+        ],
+        "end_latlng": [
+          46.73628257587552,
+          -71.38317363336682
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.73479185439646,
+        "start_longitude": -71.39464393258095,
+        "end_latitude": 46.73628257587552,
+        "end_longitude": -71.38317363336682,
+        "climb_category": 0,
+        "city": "Saint Augustin De Desmaures",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 63731585441,
+      "resource_state": 2,
+      "name": "Ça va gicler dans les bosses!",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 89,
+      "moving_time": 89,
+      "start_date": "2015-08-03T16:25:26Z",
+      "start_date_local": "2015-08-03T12:25:26Z",
+      "distance": 366.1,
+      "start_index": 17495,
+      "end_index": 17584,
+      "device_watts": false,
+      "average_watts": 204.4,
+      "segment": {
+        "id": 21170931,
+        "resource_state": 2,
+        "name": "Ça va gicler dans les bosses!",
+        "activity_type": "Ride",
+        "distance": 366.1,
+        "average_grade": 3.7,
+        "maximum_grade": 7.4,
+        "elevation_high": 70.7,
+        "elevation_low": 57.1,
+        "start_latlng": [
+          46.734782,
+          -71.394557
+        ],
+        "end_latlng": [
+          46.735125,
+          -71.389853
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.734782,
+        "start_longitude": -71.394557,
+        "end_latitude": 46.735125,
+        "end_longitude": -71.389853,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 39259912346,
+      "resource_state": 2,
+      "name": "St-Félix vers l'Est (de l'Hêtrière à la lumière des Grandes-Marées)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 388,
+      "moving_time": 388,
+      "start_date": "2015-08-03T16:25:32Z",
+      "start_date_local": "2015-08-03T12:25:32Z",
+      "distance": 2765.9,
+      "start_index": 17501,
+      "end_index": 17889,
+      "device_watts": false,
+      "average_watts": 190.9,
+      "segment": {
+        "id": 17656293,
+        "resource_state": 2,
+        "name": "St-Félix vers l'Est (de l'Hêtrière à la lumière des Grandes-Marées)",
+        "activity_type": "Ride",
+        "distance": 2765.9,
+        "average_grade": 0.4,
+        "maximum_grade": 10.4,
+        "elevation_high": 77.4,
+        "elevation_low": 52.2,
+        "start_latlng": [
+          46.73473,
+          -71.394252
+        ],
+        "end_latlng": [
+          46.738866,
+          -71.359722
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.73473,
+        "start_longitude": -71.394252,
+        "end_latitude": 46.738866,
+        "end_longitude": -71.359722,
+        "climb_category": 0,
+        "city": "Saint-Augustin-de-Desmaures",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527426,
+      "resource_state": 2,
+      "name": "descente côte St-Félix",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2015-08-03T16:32:11Z",
+      "start_date_local": "2015-08-03T12:32:11Z",
+      "distance": 943.5,
+      "start_index": 17900,
+      "end_index": 17979,
+      "device_watts": false,
+      "average_watts": 118.3,
+      "segment": {
+        "id": 9802899,
+        "resource_state": 2,
+        "name": "descente côte St-Félix",
+        "activity_type": "Ride",
+        "distance": 943.5,
+        "average_grade": -3.7,
+        "maximum_grade": -1.1,
+        "elevation_high": 51.6,
+        "elevation_low": 16.7,
+        "start_latlng": [
+          46.739069,
+          -71.358138
+        ],
+        "end_latlng": [
+          46.745779,
+          -71.351234
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.739069,
+        "start_longitude": -71.358138,
+        "end_latitude": 46.745779,
+        "end_longitude": -71.351234,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527487,
+      "resource_state": 2,
+      "name": "Fin Rue Saint Félix",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 69,
+      "moving_time": 69,
+      "start_date": "2015-08-03T16:32:28Z",
+      "start_date_local": "2015-08-03T12:32:28Z",
+      "distance": 785.3,
+      "start_index": 17917,
+      "end_index": 17986,
+      "device_watts": false,
+      "average_watts": 135.4,
+      "segment": {
+        "id": 9900810,
+        "resource_state": 2,
+        "name": "Fin Rue Saint Félix",
+        "activity_type": "Ride",
+        "distance": 785.3,
+        "average_grade": -3.3,
+        "maximum_grade": -1.2,
+        "elevation_high": 43.6,
+        "elevation_low": 15.4,
+        "start_latlng": [
+          46.740236,
+          -71.355929
+        ],
+        "end_latlng": [
+          46.746167,
+          -71.350597
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.740236,
+        "start_longitude": -71.355929,
+        "end_latitude": 46.746167,
+        "end_longitude": -71.350597,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 27391475730,
+      "resource_state": 2,
+      "name": "Cap-Rouge vers St-Louis",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 567,
+      "moving_time": 567,
+      "start_date": "2015-08-03T16:35:39Z",
+      "start_date_local": "2015-08-03T12:35:39Z",
+      "distance": 2129.5,
+      "start_index": 18077,
+      "end_index": 18631,
+      "device_watts": false,
+      "average_watts": 200.2,
+      "segment": {
+        "id": 15601416,
+        "resource_state": 2,
+        "name": "Cap-Rouge vers St-Louis",
+        "activity_type": "Ride",
+        "distance": 2129.5,
+        "average_grade": 3.6,
+        "maximum_grade": 18.5,
+        "elevation_high": 82,
+        "elevation_low": 4.9,
+        "start_latlng": [
+          46.7478,
+          -71.343783
+        ],
+        "end_latlng": [
+          46.751136,
+          -71.327696
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.7478,
+        "start_longitude": -71.343783,
+        "end_latitude": 46.751136,
+        "end_longitude": -71.327696,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2715971442064734700,
+      "resource_state": 2,
+      "name": "Côte de Cap-Rouge (Marina à Louis-Francoeur)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 299,
+      "start_date": "2015-08-03T16:35:56Z",
+      "start_date_local": "2015-08-03T12:35:56Z",
+      "distance": 795.3,
+      "start_index": 18094,
+      "end_index": 18394,
+      "device_watts": false,
+      "average_watts": 228.6,
+      "segment": {
+        "id": 24802662,
+        "resource_state": 2,
+        "name": "Côte de Cap-Rouge (Marina à Louis-Francoeur)",
+        "activity_type": "Ride",
+        "distance": 795.3,
+        "average_grade": 7.6,
+        "maximum_grade": 13.6,
+        "elevation_high": 68.5,
+        "elevation_low": 7.9,
+        "start_latlng": [
+          46.747698,
+          -71.341891
+        ],
+        "end_latlng": [
+          46.754348,
+          -71.339059
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.747698,
+        "start_longitude": -71.341891,
+        "end_latitude": 46.754348,
+        "end_longitude": -71.339059,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527516,
+      "resource_state": 2,
+      "name": "Côte de Cap-Rouge",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 257,
+      "moving_time": 257,
+      "start_date": "2015-08-03T16:36:50Z",
+      "start_date_local": "2015-08-03T12:36:50Z",
+      "distance": 612.766,
+      "start_index": 18135,
+      "end_index": 18392,
+      "device_watts": false,
+      "average_watts": 224.4,
+      "segment": {
+        "id": 766130,
+        "resource_state": 2,
+        "name": "Côte de Cap-Rouge",
+        "activity_type": "Ride",
+        "distance": 612.766,
+        "average_grade": 6.2,
+        "maximum_grade": 23.8,
+        "elevation_high": 78.6,
+        "elevation_low": 35.6,
+        "start_latlng": [
+          46.74939222403309,
+          -71.34194247674137
+        ],
+        "end_latlng": [
+          46.75440659921231,
+          -71.33909495031473
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.74939222403309,
+        "start_longitude": -71.34194247674137,
+        "end_latitude": 46.75440659921231,
+        "end_longitude": -71.33909495031473,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527507,
+      "resource_state": 2,
+      "name": "Côte de Cap Rouge - steep",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2015-08-03T16:36:53Z",
+      "start_date_local": "2015-08-03T12:36:53Z",
+      "distance": 418.1,
+      "start_index": 18138,
+      "end_index": 18331,
+      "device_watts": false,
+      "average_watts": 239.3,
+      "segment": {
+        "id": 8123577,
+        "resource_state": 2,
+        "name": "Côte de Cap Rouge - steep",
+        "activity_type": "Ride",
+        "distance": 418.1,
+        "average_grade": 10.8,
+        "maximum_grade": 17.7,
+        "elevation_high": 56.2,
+        "elevation_low": 11.2,
+        "start_latlng": [
+          46.749423,
+          -71.341724
+        ],
+        "end_latlng": [
+          46.752931,
+          -71.339887
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.749423,
+        "start_longitude": -71.341724,
+        "end_latitude": 46.752931,
+        "end_longitude": -71.339887,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "Quebec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 9785314447,
+      "resource_state": 2,
+      "name": "Louis-Francoeur (vers le sud)",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2015-08-03T16:41:12Z",
+      "start_date_local": "2015-08-03T12:41:12Z",
+      "distance": 720.4,
+      "start_index": 18397,
+      "end_index": 18543,
+      "device_watts": false,
+      "average_watts": 114.9,
+      "segment": {
+        "id": 10633745,
+        "resource_state": 2,
+        "name": "Louis-Francoeur (vers le sud)",
+        "activity_type": "Ride",
+        "distance": 720.4,
+        "average_grade": 0.2,
+        "maximum_grade": 5.4,
+        "elevation_high": 60.8,
+        "elevation_low": 56.4,
+        "start_latlng": [
+          46.75431,
+          -71.338977
+        ],
+        "end_latlng": [
+          46.749374,
+          -71.332868
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.75431,
+        "start_longitude": -71.338977,
+        "end_latitude": 46.749374,
+        "end_longitude": -71.332868,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2720720552160184300,
+      "resource_state": 2,
+      "name": "de Ch. St-Louis/Francoeur à Villa Bagatelle",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1630,
+      "moving_time": 1406,
+      "start_date": "2015-08-03T16:43:45Z",
+      "start_date_local": "2015-08-03T12:43:45Z",
+      "distance": 8521.7,
+      "start_index": 18550,
+      "end_index": 19954,
+      "device_watts": false,
+      "average_watts": 114.9,
+      "segment": {
+        "id": 24979030,
+        "resource_state": 2,
+        "name": "de Ch. St-Louis/Francoeur à Villa Bagatelle",
+        "activity_type": "Ride",
+        "distance": 8521.7,
+        "average_grade": 0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 81.6,
+        "elevation_low": 59.7,
+        "start_latlng": [
+          46.749235,
+          -71.332373
+        ],
+        "end_latlng": [
+          46.788025,
+          -71.247421
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.749235,
+        "start_longitude": -71.332373,
+        "end_latitude": 46.788025,
+        "end_longitude": -71.247421,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527566,
+      "resource_state": 2,
+      "name": "Saint-Louis vers ponts",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 353,
+      "moving_time": 335,
+      "start_date": "2015-08-03T16:46:37Z",
+      "start_date_local": "2015-08-03T12:46:37Z",
+      "distance": 2183.7,
+      "start_index": 18695,
+      "end_index": 19021,
+      "device_watts": false,
+      "average_watts": 130.1,
+      "segment": {
+        "id": 3776215,
+        "resource_state": 2,
+        "name": "Saint-Louis vers ponts",
+        "activity_type": "Ride",
+        "distance": 2183.7,
+        "average_grade": -0.7,
+        "maximum_grade": 1.9,
+        "elevation_high": 77.8,
+        "elevation_low": 56.2,
+        "start_latlng": [
+          46.75214231014252,
+          -71.32373521104455
+        ],
+        "end_latlng": [
+          46.756399143487215,
+          -71.29616268910468
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.75214231014252,
+        "start_longitude": -71.32373521104455,
+        "end_latitude": 46.756399143487215,
+        "end_longitude": -71.29616268910468,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527557,
+      "resource_state": 2,
+      "name": "St-Louis vers ponts vers Est - sécuritaire",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 318,
+      "moving_time": 300,
+      "start_date": "2015-08-03T16:46:39Z",
+      "start_date_local": "2015-08-03T12:46:39Z",
+      "distance": 2080.3,
+      "start_index": 18697,
+      "end_index": 18998,
+      "device_watts": false,
+      "average_watts": 135.3,
+      "segment": {
+        "id": 4291198,
+        "resource_state": 2,
+        "name": "St-Louis vers ponts vers Est - sécuritaire",
+        "activity_type": "Ride",
+        "distance": 2080.3,
+        "average_grade": -0.3,
+        "maximum_grade": 3.8,
+        "elevation_high": 93.2,
+        "elevation_low": 76.6,
+        "start_latlng": [
+          46.752235,
+          -71.323568
+        ],
+        "end_latlng": [
+          46.756337,
+          -71.297357
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.752235,
+        "start_longitude": -71.323568,
+        "end_latitude": 46.756337,
+        "end_longitude": -71.297357,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527525,
+      "resource_state": 2,
+      "name": "Faux plat montant St-Louis vers les ponts",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2015-08-03T16:50:05Z",
+      "start_date_local": "2015-08-03T12:50:05Z",
+      "distance": 551.3,
+      "start_index": 18886,
+      "end_index": 18984,
+      "device_watts": false,
+      "average_watts": 198.2,
+      "segment": {
+        "id": 9826413,
+        "resource_state": 2,
+        "name": "Faux plat montant St-Louis vers les ponts",
+        "activity_type": "Ride",
+        "distance": 551.3,
+        "average_grade": 2,
+        "maximum_grade": 3.9,
+        "elevation_high": 75,
+        "elevation_low": 64.2,
+        "start_latlng": [
+          46.754609,
+          -71.305183
+        ],
+        "end_latlng": [
+          46.756067,
+          -71.298322
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.754609,
+        "start_longitude": -71.305183,
+        "end_latitude": 46.756067,
+        "end_longitude": -71.298322,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527613,
+      "resource_state": 2,
+      "name": "Ch. St-Louis vers Québec",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1140,
+      "moving_time": 985,
+      "start_date": "2015-08-03T16:52:19Z",
+      "start_date_local": "2015-08-03T12:52:19Z",
+      "distance": 5737.61,
+      "start_index": 19010,
+      "end_index": 19978,
+      "device_watts": false,
+      "average_watts": 122.5,
+      "segment": {
+        "id": 2779495,
+        "resource_state": 2,
+        "name": "Ch. St-Louis vers Québec",
+        "activity_type": "Ride",
+        "distance": 5737.61,
+        "average_grade": 0.1,
+        "maximum_grade": 3.9,
+        "elevation_high": 81.9,
+        "elevation_low": 58.6,
+        "start_latlng": [
+          46.756355,
+          -71.296888
+        ],
+        "end_latlng": [
+          46.788862,
+          -71.246848
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.756355,
+        "start_longitude": -71.296888,
+        "end_latitude": 46.788862,
+        "end_longitude": -71.246848,
+        "climb_category": 0,
+        "city": "Quebec City",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2680804834071405000,
+      "resource_state": 2,
+      "name": "aweille a maison",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1008,
+      "moving_time": 877,
+      "start_date": "2015-08-03T16:54:10Z",
+      "start_date_local": "2015-08-03T12:54:10Z",
+      "distance": 5204.4,
+      "start_index": 19098,
+      "end_index": 19957,
+      "device_watts": false,
+      "average_watts": 129.2,
+      "segment": {
+        "id": 23297374,
+        "resource_state": 2,
+        "name": "aweille a maison",
+        "activity_type": "Ride",
+        "distance": 5204.4,
+        "average_grade": 0,
+        "maximum_grade": 7.4,
+        "elevation_high": 9,
+        "elevation_low": -11.6,
+        "start_latlng": [
+          46.757209,
+          -71.291151
+        ],
+        "end_latlng": [
+          46.788221,
+          -71.247471
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.757209,
+        "start_longitude": -71.291151,
+        "end_latitude": 46.788221,
+        "end_longitude": -71.247471,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527573,
+      "resource_state": 2,
+      "name": "Manoir - rte de l'Église",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 153,
+      "moving_time": 153,
+      "start_date": "2015-08-03T16:54:10Z",
+      "start_date_local": "2015-08-03T12:54:10Z",
+      "distance": 930.8,
+      "start_index": 19098,
+      "end_index": 19240,
+      "device_watts": false,
+      "average_watts": 141.9,
+      "segment": {
+        "id": 7317895,
+        "resource_state": 2,
+        "name": "Manoir - rte de l'Église",
+        "activity_type": "Ride",
+        "distance": 930.8,
+        "average_grade": 0.2,
+        "maximum_grade": 2.6,
+        "elevation_high": 72.1,
+        "elevation_low": 66.8,
+        "start_latlng": [
+          46.75714,
+          -71.291151
+        ],
+        "end_latlng": [
+          46.762658,
+          -71.2822
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.75714,
+        "start_longitude": -71.291151,
+        "end_latitude": 46.762658,
+        "end_longitude": -71.2822,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527585,
+      "resource_state": 2,
+      "name": "Chemin St-Louis vers l'est petite bosse avant Maguire",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 290,
+      "moving_time": 290,
+      "start_date": "2015-08-03T17:02:50Z",
+      "start_date_local": "2015-08-03T13:02:50Z",
+      "distance": 1568.7,
+      "start_index": 19477,
+      "end_index": 19767,
+      "device_watts": false,
+      "average_watts": 145.9,
+      "segment": {
+        "id": 4000136,
+        "resource_state": 2,
+        "name": "Chemin St-Louis vers l'est petite bosse avant Maguire",
+        "activity_type": "Ride",
+        "distance": 1568.7,
+        "average_grade": 0.8,
+        "maximum_grade": 8.1,
+        "elevation_high": -49,
+        "elevation_low": -64,
+        "start_latlng": [
+          46.769384,
+          -71.265233
+        ],
+        "end_latlng": [
+          46.778562,
+          -71.250588
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.769384,
+        "start_longitude": -71.265233,
+        "end_latitude": 46.778562,
+        "end_longitude": -71.250588,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 13934420822,
+      "resource_state": 2,
+      "name": "St-Louis de Parc Beauvoir à du Buisson",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 205,
+      "moving_time": 205,
+      "start_date": "2015-08-03T17:03:29Z",
+      "start_date_local": "2015-08-03T13:03:29Z",
+      "distance": 1107.3,
+      "start_index": 19516,
+      "end_index": 19721,
+      "device_watts": false,
+      "average_watts": 169.8,
+      "segment": {
+        "id": 12067042,
+        "resource_state": 2,
+        "name": "St-Louis de Parc Beauvoir à du Buisson",
+        "activity_type": "Ride",
+        "distance": 1107.3,
+        "average_grade": 1.4,
+        "maximum_grade": 5,
+        "elevation_high": 73.8,
+        "elevation_low": 58.2,
+        "start_latlng": [
+          46.769832,
+          -71.263114
+        ],
+        "end_latlng": [
+          46.776435,
+          -71.252609
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.769832,
+        "start_longitude": -71.263114,
+        "end_latitude": 46.776435,
+        "end_longitude": -71.252609,
+        "climb_category": 0,
+        "city": "Ville de Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527590,
+      "resource_state": 2,
+      "name": "Petite montée Ch. St-Louis vers l'Est",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 313,
+      "start_date": "2015-08-03T17:03:34Z",
+      "start_date_local": "2015-08-03T13:03:34Z",
+      "distance": 1663.29,
+      "start_index": 19521,
+      "end_index": 19827,
+      "device_watts": false,
+      "average_watts": 150.3,
+      "segment": {
+        "id": 3857749,
+        "resource_state": 2,
+        "name": "Petite montée Ch. St-Louis vers l'Est",
+        "activity_type": "Ride",
+        "distance": 1663.29,
+        "average_grade": 1.4,
+        "maximum_grade": 3.9,
+        "elevation_high": 82,
+        "elevation_low": 58.5,
+        "start_latlng": [
+          46.769981,
+          -71.262789
+        ],
+        "end_latlng": [
+          46.780551,
+          -71.247771
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.769981,
+        "start_longitude": -71.262789,
+        "end_latitude": 46.780551,
+        "end_longitude": -71.247771,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2715592916518569000,
+      "resource_state": 2,
+      "name": "des Gouverneurs à Grande-Allée sur St-Louis",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 364,
+      "moving_time": 364,
+      "start_date": "2015-08-03T17:05:02Z",
+      "start_date_local": "2015-08-03T13:05:02Z",
+      "distance": 2091.2,
+      "start_index": 19609,
+      "end_index": 19965,
+      "device_watts": false,
+      "average_watts": 142.8,
+      "segment": {
+        "id": 24787887,
+        "resource_state": 2,
+        "name": "des Gouverneurs à Grande-Allée sur St-Louis",
+        "activity_type": "Ride",
+        "distance": 2091.2,
+        "average_grade": 0.5,
+        "maximum_grade": 3.9,
+        "elevation_high": 79.8,
+        "elevation_low": 64,
+        "start_latlng": [
+          46.772721,
+          -71.257474
+        ],
+        "end_latlng": [
+          46.788452,
+          -71.247326
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.772721,
+        "start_longitude": -71.257474,
+        "end_latitude": 46.788452,
+        "end_longitude": -71.247326,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527627,
+      "resource_state": 2,
+      "name": "Ch St-Louis à Braves",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 312,
+      "moving_time": 234,
+      "start_date": "2015-08-03T17:11:10Z",
+      "start_date_local": "2015-08-03T13:11:10Z",
+      "distance": 1201.9,
+      "start_index": 19969,
+      "end_index": 20198,
+      "device_watts": false,
+      "average_watts": 150.4,
+      "segment": {
+        "id": 5731288,
+        "resource_state": 2,
+        "name": "Ch St-Louis à Braves",
+        "activity_type": "Ride",
+        "distance": 1201.9,
+        "average_grade": 0.9,
+        "maximum_grade": 4.5,
+        "elevation_high": 85.9,
+        "elevation_low": 72,
+        "start_latlng": [
+          46.788626,
+          -71.247288
+        ],
+        "end_latlng": [
+          46.795458,
+          -71.235217
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.788626,
+        "start_longitude": -71.247288,
+        "end_latitude": 46.795458,
+        "end_longitude": -71.235217,
+        "climb_category": 0,
+        "city": "Sillery",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 2711830043589320700,
+      "resource_state": 2,
+      "name": "Pif pouf vers les Plaines",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 285,
+      "moving_time": 207,
+      "start_date": "2015-08-03T17:11:38Z",
+      "start_date_local": "2015-08-03T13:11:38Z",
+      "distance": 1115.1,
+      "start_index": 19990,
+      "end_index": 20199,
+      "device_watts": false,
+      "average_watts": 117,
+      "segment": {
+        "id": 24641694,
+        "resource_state": 2,
+        "name": "Pif pouf vers les Plaines",
+        "activity_type": "Ride",
+        "distance": 1115.1,
+        "average_grade": 1.1,
+        "maximum_grade": 3.9,
+        "elevation_high": 85.4,
+        "elevation_low": 71.1,
+        "start_latlng": [
+          46.789156,
+          -71.246484
+        ],
+        "end_latlng": [
+          46.795499,
+          -71.23518
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.789156,
+        "start_longitude": -71.246484,
+        "end_latitude": 46.795499,
+        "end_longitude": -71.23518,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 8596527637,
+      "resource_state": 2,
+      "name": "Montée RAMQ à Plaines",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 304,
+      "moving_time": 226,
+      "start_date": "2015-08-03T17:11:57Z",
+      "start_date_local": "2015-08-03T13:11:57Z",
+      "distance": 1206.1,
+      "start_index": 20009,
+      "end_index": 20237,
+      "device_watts": false,
+      "average_watts": 169.4,
+      "segment": {
+        "id": 7711848,
+        "resource_state": 2,
+        "name": "Montée RAMQ à Plaines",
+        "activity_type": "Ride",
+        "distance": 1206.1,
+        "average_grade": 1.3,
+        "maximum_grade": 3.8,
+        "elevation_high": 87.9,
+        "elevation_low": 72.1,
+        "start_latlng": [
+          46.78984,
+          -71.245029
+        ],
+        "end_latlng": [
+          46.796763,
+          -71.232868
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.78984,
+        "start_longitude": -71.245029,
+        "end_latitude": 46.796763,
+        "end_longitude": -71.232868,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8596527622,
+      "resource_state": 2,
+      "name": "Bosse Industriel Alliance",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2015-08-03T17:13:32Z",
+      "start_date_local": "2015-08-03T13:13:32Z",
+      "distance": 329.5,
+      "start_index": 20060,
+      "end_index": 20127,
+      "device_watts": false,
+      "average_watts": 222.4,
+      "segment": {
+        "id": 7610424,
+        "resource_state": 2,
+        "name": "Bosse Industriel Alliance",
+        "activity_type": "Ride",
+        "distance": 329.5,
+        "average_grade": 2.7,
+        "maximum_grade": 5.4,
+        "elevation_high": 101.4,
+        "elevation_low": 92.4,
+        "start_latlng": [
+          46.791658,
+          -71.242033
+        ],
+        "end_latlng": [
+          46.793509,
+          -71.23866
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.791658,
+        "start_longitude": -71.242033,
+        "end_latitude": 46.793509,
+        "end_longitude": -71.23866,
+        "climb_category": 0,
+        "city": "Quebec",
+        "state": "QC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2757178479050269000,
+      "resource_state": 2,
+      "name": "BLAST GRANDE ALLÉE",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 97,
+      "start_date": "2015-08-03T17:29:03Z",
+      "start_date_local": "2015-08-03T13:29:03Z",
+      "distance": 502.2,
+      "start_index": 20695,
+      "end_index": 20789,
+      "device_watts": false,
+      "average_watts": 56.7,
+      "segment": {
+        "id": 26223547,
+        "resource_state": 2,
+        "name": "BLAST GRANDE ALLÉE",
+        "activity_type": "Ride",
+        "distance": 502.2,
+        "average_grade": -2.2,
+        "maximum_grade": 6.4,
+        "elevation_high": 91.8,
+        "elevation_low": 77.8,
+        "start_latlng": [
+          46.804596,
+          -71.219531
+        ],
+        "end_latlng": [
+          46.807517,
+          -71.214523
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.804596,
+        "start_longitude": -71.219531,
+        "end_latitude": 46.807517,
+        "end_longitude": -71.214523,
+        "climb_category": 0,
+        "city": "Québec",
+        "state": "Québec",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1005.3,
+      "elapsed_time": 220,
+      "elevation_difference": -18,
+      "moving_time": 172,
+      "split": 1,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 3710,
+      "elevation_difference": 23.2,
+      "moving_time": 226,
+      "split": 2,
+      "average_speed": 4.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996,
+      "elapsed_time": 174,
+      "elevation_difference": 2.6,
+      "moving_time": 174,
+      "split": 3,
+      "average_speed": 5.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 189,
+      "elevation_difference": -2.4,
+      "moving_time": 189,
+      "split": 4,
+      "average_speed": 5.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 222,
+      "elevation_difference": -0.6,
+      "moving_time": 170,
+      "split": 5,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 184,
+      "elevation_difference": -0.6,
+      "moving_time": 184,
+      "split": 6,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 216,
+      "elevation_difference": 1.2,
+      "moving_time": 206,
+      "split": 7,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 154,
+      "elevation_difference": -0.8,
+      "moving_time": 154,
+      "split": 8,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 171,
+      "elevation_difference": 0.8,
+      "moving_time": 171,
+      "split": 9,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 160,
+      "elevation_difference": -0.6,
+      "moving_time": 160,
+      "split": 10,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 156,
+      "elevation_difference": -0.2,
+      "moving_time": 156,
+      "split": 11,
+      "average_speed": 6.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002,
+      "elapsed_time": 157,
+      "elevation_difference": -0.4,
+      "moving_time": 157,
+      "split": 12,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997,
+      "elapsed_time": 156,
+      "elevation_difference": -1,
+      "moving_time": 156,
+      "split": 13,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 283,
+      "elevation_difference": 0.4,
+      "moving_time": 191,
+      "split": 14,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 159,
+      "elevation_difference": -1.4,
+      "moving_time": 159,
+      "split": 15,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 165,
+      "elevation_difference": 0.8,
+      "moving_time": 165,
+      "split": 16,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 160,
+      "elevation_difference": -1.2,
+      "moving_time": 160,
+      "split": 17,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 158,
+      "elevation_difference": -1.8,
+      "moving_time": 158,
+      "split": 18,
+      "average_speed": 6.34,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 166,
+      "elevation_difference": 2,
+      "moving_time": 166,
+      "split": 19,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 158,
+      "elevation_difference": 0.6,
+      "moving_time": 158,
+      "split": 20,
+      "average_speed": 6.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 160,
+      "elevation_difference": -0.6,
+      "moving_time": 160,
+      "split": 21,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 160,
+      "elevation_difference": 0.8,
+      "moving_time": 160,
+      "split": 22,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 158,
+      "elevation_difference": 0.2,
+      "moving_time": 158,
+      "split": 23,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 163,
+      "elevation_difference": 1.4,
+      "moving_time": 163,
+      "split": 24,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 160,
+      "elevation_difference": 0,
+      "moving_time": 160,
+      "split": 25,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 159,
+      "elevation_difference": -0.2,
+      "moving_time": 159,
+      "split": 26,
+      "average_speed": 6.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 161,
+      "elevation_difference": 0.6,
+      "moving_time": 161,
+      "split": 27,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998,
+      "elapsed_time": 169,
+      "elevation_difference": -2.4,
+      "moving_time": 169,
+      "split": 28,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 150,
+      "elevation_difference": -2,
+      "moving_time": 150,
+      "split": 29,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 150,
+      "elevation_difference": -0.6,
+      "moving_time": 150,
+      "split": 30,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003,
+      "elapsed_time": 158,
+      "elevation_difference": 0.2,
+      "moving_time": 158,
+      "split": 31,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 148,
+      "elevation_difference": 0.6,
+      "moving_time": 148,
+      "split": 32,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 147,
+      "elevation_difference": 0.2,
+      "moving_time": 147,
+      "split": 33,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 156,
+      "elevation_difference": -0.6,
+      "moving_time": 156,
+      "split": 34,
+      "average_speed": 6.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 1041,
+      "elevation_difference": 1.4,
+      "moving_time": 171,
+      "split": 35,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 166,
+      "elevation_difference": 0,
+      "moving_time": 166,
+      "split": 36,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 170,
+      "elevation_difference": -0.2,
+      "moving_time": 170,
+      "split": 37,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 161,
+      "elevation_difference": 0.8,
+      "moving_time": 161,
+      "split": 38,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 148,
+      "elevation_difference": 0.4,
+      "moving_time": 148,
+      "split": 39,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 148,
+      "elevation_difference": 0,
+      "moving_time": 148,
+      "split": 40,
+      "average_speed": 6.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 141,
+      "elevation_difference": -0.2,
+      "moving_time": 141,
+      "split": 41,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 141,
+      "elevation_difference": -0.4,
+      "moving_time": 141,
+      "split": 42,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 149,
+      "elevation_difference": 0,
+      "moving_time": 149,
+      "split": 43,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 163,
+      "elevation_difference": -0.8,
+      "moving_time": 163,
+      "split": 44,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 151,
+      "elevation_difference": 0,
+      "moving_time": 151,
+      "split": 45,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 155,
+      "elevation_difference": -0.8,
+      "moving_time": 155,
+      "split": 46,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 153,
+      "elevation_difference": -0.2,
+      "moving_time": 153,
+      "split": 47,
+      "average_speed": 6.51,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 147,
+      "elevation_difference": 0.6,
+      "moving_time": 147,
+      "split": 48,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 144,
+      "elevation_difference": 2.2,
+      "moving_time": 144,
+      "split": 49,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 124,
+      "elevation_difference": -1.4,
+      "moving_time": 124,
+      "split": 50,
+      "average_speed": 8.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 139,
+      "elevation_difference": 1,
+      "moving_time": 139,
+      "split": 51,
+      "average_speed": 7.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004,
+      "elapsed_time": 142,
+      "elevation_difference": -0.8,
+      "moving_time": 142,
+      "split": 52,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 141,
+      "elevation_difference": -1.2,
+      "moving_time": 141,
+      "split": 53,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 141,
+      "elevation_difference": 1.2,
+      "moving_time": 141,
+      "split": 54,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 151,
+      "elevation_difference": 3,
+      "moving_time": 151,
+      "split": 55,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 164,
+      "elevation_difference": 1.4,
+      "moving_time": 164,
+      "split": 56,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 138,
+      "elevation_difference": -2.4,
+      "moving_time": 138,
+      "split": 57,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 135,
+      "elevation_difference": -0.2,
+      "moving_time": 135,
+      "split": 58,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995,
+      "elapsed_time": 217,
+      "elevation_difference": 21.2,
+      "moving_time": 201,
+      "split": 59,
+      "average_speed": 4.95,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 149,
+      "elevation_difference": 4,
+      "moving_time": 149,
+      "split": 60,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 157,
+      "elevation_difference": 9,
+      "moving_time": 157,
+      "split": 61,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 108,
+      "elevation_difference": -16,
+      "moving_time": 108,
+      "split": 62,
+      "average_speed": 9.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 83,
+      "elevation_difference": -15.6,
+      "moving_time": 83,
+      "split": 63,
+      "average_speed": 11.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 121,
+      "elevation_difference": 1.8,
+      "moving_time": 121,
+      "split": 64,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 129,
+      "elevation_difference": -5.4,
+      "moving_time": 129,
+      "split": 65,
+      "average_speed": 7.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 125,
+      "elevation_difference": 1,
+      "moving_time": 125,
+      "split": 66,
+      "average_speed": 7.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 155,
+      "elevation_difference": 6,
+      "moving_time": 155,
+      "split": 67,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 158,
+      "elevation_difference": 3.8,
+      "moving_time": 158,
+      "split": 68,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 129,
+      "elevation_difference": -12.6,
+      "moving_time": 129,
+      "split": 69,
+      "average_speed": 7.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 662,
+      "elevation_difference": 0.4,
+      "moving_time": 169,
+      "split": 70,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 165,
+      "elevation_difference": -0.6,
+      "moving_time": 165,
+      "split": 71,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 148,
+      "elevation_difference": 1.8,
+      "moving_time": 148,
+      "split": 72,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 141,
+      "elevation_difference": -1,
+      "moving_time": 141,
+      "split": 73,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 251,
+      "elevation_difference": 2.2,
+      "moving_time": 193,
+      "split": 74,
+      "average_speed": 5.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 121,
+      "elevation_difference": -0.8,
+      "moving_time": 121,
+      "split": 75,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 127,
+      "elevation_difference": 4.2,
+      "moving_time": 127,
+      "split": 76,
+      "average_speed": 7.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 114,
+      "elevation_difference": -7,
+      "moving_time": 114,
+      "split": 77,
+      "average_speed": 8.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 136,
+      "elevation_difference": -1,
+      "moving_time": 136,
+      "split": 78,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 148,
+      "elevation_difference": 0.6,
+      "moving_time": 148,
+      "split": 79,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 220,
+      "elevation_difference": 22,
+      "moving_time": 220,
+      "split": 80,
+      "average_speed": 4.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 139,
+      "elevation_difference": -0.2,
+      "moving_time": 139,
+      "split": 81,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 162,
+      "elevation_difference": 6,
+      "moving_time": 162,
+      "split": 82,
+      "average_speed": 6.14,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 1049,
+      "elevation_difference": 16.6,
+      "moving_time": 217,
+      "split": 83,
+      "average_speed": 4.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003,
+      "elapsed_time": 171,
+      "elevation_difference": 5.4,
+      "moving_time": 171,
+      "split": 84,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 124,
+      "elevation_difference": -5,
+      "moving_time": 124,
+      "split": 85,
+      "average_speed": 8.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 119,
+      "elevation_difference": -7,
+      "moving_time": 119,
+      "split": 86,
+      "average_speed": 8.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 101,
+      "elevation_difference": -17,
+      "moving_time": 101,
+      "split": 87,
+      "average_speed": 9.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 323,
+      "elevation_difference": 26.4,
+      "moving_time": 211,
+      "split": 88,
+      "average_speed": 4.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 135,
+      "elevation_difference": 3.6,
+      "moving_time": 135,
+      "split": 89,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 154,
+      "elevation_difference": 1.8,
+      "moving_time": 154,
+      "split": 90,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 189,
+      "elevation_difference": 0.2,
+      "moving_time": 146,
+      "split": 91,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 119,
+      "elevation_difference": -12.2,
+      "moving_time": 119,
+      "split": 92,
+      "average_speed": 8.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 102,
+      "elevation_difference": -6.2,
+      "moving_time": 102,
+      "split": 93,
+      "average_speed": 9.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001,
+      "elapsed_time": 119,
+      "elevation_difference": -1.2,
+      "moving_time": 119,
+      "split": 94,
+      "average_speed": 8.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 121,
+      "elevation_difference": 1.8,
+      "moving_time": 121,
+      "split": 95,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 128,
+      "elevation_difference": -0.4,
+      "moving_time": 128,
+      "split": 96,
+      "average_speed": 7.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 117,
+      "elevation_difference": 3,
+      "moving_time": 117,
+      "split": 97,
+      "average_speed": 8.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 119,
+      "elevation_difference": -3.4,
+      "moving_time": 119,
+      "split": 98,
+      "average_speed": 8.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 96,
+      "elevation_difference": -28,
+      "moving_time": 96,
+      "split": 99,
+      "average_speed": 10.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 102,
+      "elevation_difference": -10.2,
+      "moving_time": 102,
+      "split": 100,
+      "average_speed": 9.79,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006,
+      "elapsed_time": 122,
+      "elevation_difference": 0.6,
+      "moving_time": 122,
+      "split": 101,
+      "average_speed": 8.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 219,
+      "elevation_difference": 38,
+      "moving_time": 219,
+      "split": 102,
+      "average_speed": 4.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 174,
+      "elevation_difference": 4.6,
+      "moving_time": 174,
+      "split": 103,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 132,
+      "elevation_difference": 7.8,
+      "moving_time": 132,
+      "split": 104,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004,
+      "elapsed_time": 150,
+      "elevation_difference": 2,
+      "moving_time": 150,
+      "split": 105,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 127,
+      "elevation_difference": -3.4,
+      "moving_time": 127,
+      "split": 106,
+      "average_speed": 7.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.8,
+      "elapsed_time": 99,
+      "elevation_difference": -2.2,
+      "moving_time": 99,
+      "split": 107,
+      "average_speed": 10.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 110,
+      "elevation_difference": -0.2,
+      "moving_time": 110,
+      "split": 108,
+      "average_speed": 9.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 115,
+      "elevation_difference": 2.4,
+      "moving_time": 115,
+      "split": 109,
+      "average_speed": 8.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 110,
+      "elevation_difference": -4.2,
+      "moving_time": 110,
+      "split": 110,
+      "average_speed": 9.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 145,
+      "elevation_difference": 15.8,
+      "moving_time": 145,
+      "split": 111,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 386,
+      "elevation_difference": 13.4,
+      "moving_time": 193,
+      "split": 112,
+      "average_speed": 5.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 162,
+      "elevation_difference": -6.4,
+      "moving_time": 162,
+      "split": 113,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.2,
+      "elapsed_time": 117,
+      "elevation_difference": -7.6,
+      "moving_time": 117,
+      "split": 114,
+      "average_speed": 8.62,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 93,
+      "elevation_difference": -25,
+      "moving_time": 93,
+      "split": 115,
+      "average_speed": 10.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 111,
+      "elevation_difference": -3.8,
+      "moving_time": 111,
+      "split": 116,
+      "average_speed": 8.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996,
+      "elapsed_time": 334,
+      "elevation_difference": 13,
+      "moving_time": 197,
+      "split": 117,
+      "average_speed": 5.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 199,
+      "elevation_difference": 22,
+      "moving_time": 199,
+      "split": 118,
+      "average_speed": 5.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 126,
+      "elevation_difference": -1.2,
+      "moving_time": 126,
+      "split": 119,
+      "average_speed": 7.96,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 105,
+      "elevation_difference": -17.4,
+      "moving_time": 105,
+      "split": 120,
+      "average_speed": 9.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 84,
+      "elevation_difference": -39.6,
+      "moving_time": 84,
+      "split": 121,
+      "average_speed": 11.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998,
+      "elapsed_time": 207,
+      "elevation_difference": 0,
+      "moving_time": 163,
+      "split": 122,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 345,
+      "elevation_difference": 50.2,
+      "moving_time": 345,
+      "split": 123,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 185,
+      "elevation_difference": 11.4,
+      "moving_time": 185,
+      "split": 124,
+      "average_speed": 5.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 165,
+      "elevation_difference": -8,
+      "moving_time": 139,
+      "split": 125,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 172,
+      "elevation_difference": -1.2,
+      "moving_time": 155,
+      "split": 126,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 216,
+      "elevation_difference": -3.4,
+      "moving_time": 183,
+      "split": 127,
+      "average_speed": 5.5,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.3,
+      "elapsed_time": 158,
+      "elevation_difference": -1.8,
+      "moving_time": 147,
+      "split": 128,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 249,
+      "elevation_difference": -5,
+      "moving_time": 159,
+      "split": 129,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 228,
+      "elevation_difference": 1,
+      "moving_time": 189,
+      "split": 130,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 194,
+      "elevation_difference": 11,
+      "moving_time": 187,
+      "split": 131,
+      "average_speed": 5.34,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 166,
+      "elevation_difference": -7.6,
+      "moving_time": 159,
+      "split": 132,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 265,
+      "elevation_difference": 10.4,
+      "moving_time": 189,
+      "split": 133,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 360,
+      "elevation_difference": 3.2,
+      "moving_time": 216,
+      "split": 134,
+      "average_speed": 4.62,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 300,
+      "elevation_difference": 5,
+      "moving_time": 198,
+      "split": 135,
+      "average_speed": 5.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 201,
+      "elevation_difference": -0.6,
+      "moving_time": 185,
+      "split": 136,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 695.3,
+      "elapsed_time": 152,
+      "elevation_difference": -28,
+      "moving_time": 128,
+      "split": 137,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.3,
+      "elapsed_time": 3860,
+      "elevation_difference": 15.8,
+      "moving_time": 328,
+      "split": 1,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 283,
+      "elevation_difference": -4.6,
+      "moving_time": 283,
+      "split": 2,
+      "average_speed": 5.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 274,
+      "elevation_difference": -8,
+      "moving_time": 274,
+      "split": 3,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 379,
+      "elevation_difference": 4.2,
+      "moving_time": 327,
+      "split": 4,
+      "average_speed": 4.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 283,
+      "elevation_difference": -2.8,
+      "moving_time": 273,
+      "split": 5,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 268,
+      "elevation_difference": 1.4,
+      "moving_time": 268,
+      "split": 6,
+      "average_speed": 6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 253,
+      "elevation_difference": -0.2,
+      "moving_time": 253,
+      "split": 7,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 249,
+      "elevation_difference": -2.4,
+      "moving_time": 249,
+      "split": 8,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 379,
+      "elevation_difference": -0.8,
+      "moving_time": 287,
+      "split": 9,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 263,
+      "elevation_difference": 0.2,
+      "moving_time": 263,
+      "split": 10,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 256,
+      "elevation_difference": -1.4,
+      "moving_time": 256,
+      "split": 11,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 264,
+      "elevation_difference": 1,
+      "moving_time": 264,
+      "split": 12,
+      "average_speed": 6.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 254,
+      "elevation_difference": 0.2,
+      "moving_time": 254,
+      "split": 13,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 256,
+      "elevation_difference": -0.6,
+      "moving_time": 256,
+      "split": 14,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 260,
+      "elevation_difference": 1.2,
+      "moving_time": 260,
+      "split": 15,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 258,
+      "elevation_difference": 1.2,
+      "moving_time": 258,
+      "split": 16,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 257,
+      "elevation_difference": 0,
+      "moving_time": 257,
+      "split": 17,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608,
+      "elapsed_time": 257,
+      "elevation_difference": -4.2,
+      "moving_time": 257,
+      "split": 18,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 248,
+      "elevation_difference": -0.4,
+      "moving_time": 248,
+      "split": 19,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 239,
+      "elevation_difference": 1,
+      "moving_time": 239,
+      "split": 20,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.3,
+      "elapsed_time": 246,
+      "elevation_difference": 0,
+      "moving_time": 246,
+      "split": 21,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 1141,
+      "elevation_difference": 0.6,
+      "moving_time": 271,
+      "split": 22,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 269,
+      "elevation_difference": 0,
+      "moving_time": 269,
+      "split": 23,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 250,
+      "elevation_difference": 1,
+      "moving_time": 250,
+      "split": 24,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 238,
+      "elevation_difference": 0.2,
+      "moving_time": 238,
+      "split": 25,
+      "average_speed": 6.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 227,
+      "elevation_difference": -0.8,
+      "moving_time": 227,
+      "split": 26,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 246,
+      "elevation_difference": 0.6,
+      "moving_time": 246,
+      "split": 27,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 249,
+      "elevation_difference": -1.4,
+      "moving_time": 249,
+      "split": 28,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 250,
+      "elevation_difference": -1.2,
+      "moving_time": 250,
+      "split": 29,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 236,
+      "elevation_difference": 2.6,
+      "moving_time": 236,
+      "split": 30,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 213,
+      "elevation_difference": -0.8,
+      "moving_time": 213,
+      "split": 31,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 225,
+      "elevation_difference": -0.2,
+      "moving_time": 225,
+      "split": 32,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 226,
+      "elevation_difference": -0.6,
+      "moving_time": 226,
+      "split": 33,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 234,
+      "elevation_difference": 3.4,
+      "moving_time": 234,
+      "split": 34,
+      "average_speed": 6.89,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 254,
+      "elevation_difference": 1.2,
+      "moving_time": 254,
+      "split": 35,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 218,
+      "elevation_difference": -1.6,
+      "moving_time": 218,
+      "split": 36,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 305,
+      "elevation_difference": 21.8,
+      "moving_time": 289,
+      "split": 37,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.5,
+      "elapsed_time": 249,
+      "elevation_difference": 11.6,
+      "moving_time": 249,
+      "split": 38,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1621.7,
+      "elapsed_time": 150,
+      "elevation_difference": -31.4,
+      "moving_time": 150,
+      "split": 39,
+      "average_speed": 10.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1597.2,
+      "elapsed_time": 189,
+      "elevation_difference": 2.6,
+      "moving_time": 189,
+      "split": 40,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 202,
+      "elevation_difference": -5.2,
+      "moving_time": 202,
+      "split": 41,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 246,
+      "elevation_difference": 10.2,
+      "moving_time": 246,
+      "split": 42,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 228,
+      "elevation_difference": -12.8,
+      "moving_time": 228,
+      "split": 43,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 768,
+      "elevation_difference": 0.2,
+      "moving_time": 275,
+      "split": 44,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 234,
+      "elevation_difference": 0.2,
+      "moving_time": 234,
+      "split": 45,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 339,
+      "elevation_difference": 2.6,
+      "moving_time": 281,
+      "split": 46,
+      "average_speed": 5.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.8,
+      "elapsed_time": 198,
+      "elevation_difference": -1.8,
+      "moving_time": 198,
+      "split": 47,
+      "average_speed": 8.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 192,
+      "elevation_difference": -1,
+      "moving_time": 192,
+      "split": 48,
+      "average_speed": 8.37,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 230,
+      "elevation_difference": -2,
+      "moving_time": 230,
+      "split": 49,
+      "average_speed": 7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 306,
+      "elevation_difference": 22.8,
+      "moving_time": 306,
+      "split": 50,
+      "average_speed": 5.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 1094,
+      "elevation_difference": 3.4,
+      "moving_time": 262,
+      "split": 51,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 315,
+      "elevation_difference": 24,
+      "moving_time": 315,
+      "split": 52,
+      "average_speed": 5.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 209,
+      "elevation_difference": -5.2,
+      "moving_time": 209,
+      "split": 53,
+      "average_speed": 7.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 170,
+      "elevation_difference": -26,
+      "moving_time": 170,
+      "split": 54,
+      "average_speed": 9.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 400,
+      "elevation_difference": 31,
+      "moving_time": 288,
+      "split": 55,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 241,
+      "elevation_difference": 3,
+      "moving_time": 241,
+      "split": 56,
+      "average_speed": 6.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 266,
+      "elevation_difference": -6,
+      "moving_time": 223,
+      "split": 57,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 167,
+      "elevation_difference": -11.8,
+      "moving_time": 167,
+      "split": 58,
+      "average_speed": 9.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 194,
+      "elevation_difference": -0.4,
+      "moving_time": 194,
+      "split": 59,
+      "average_speed": 8.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 204,
+      "elevation_difference": 3.4,
+      "moving_time": 204,
+      "split": 60,
+      "average_speed": 7.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.8,
+      "elapsed_time": 183,
+      "elevation_difference": -7.6,
+      "moving_time": 183,
+      "split": 61,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 157,
+      "elevation_difference": -34.4,
+      "moving_time": 157,
+      "split": 62,
+      "average_speed": 10.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 213,
+      "elevation_difference": 15,
+      "moving_time": 213,
+      "split": 63,
+      "average_speed": 7.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 327,
+      "elevation_difference": 28.8,
+      "moving_time": 327,
+      "split": 64,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 234,
+      "elevation_difference": 11,
+      "moving_time": 234,
+      "split": 65,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614,
+      "elapsed_time": 196,
+      "elevation_difference": -8.2,
+      "moving_time": 196,
+      "split": 66,
+      "average_speed": 8.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.1,
+      "elapsed_time": 167,
+      "elevation_difference": 1.4,
+      "moving_time": 167,
+      "split": 67,
+      "average_speed": 9.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 185,
+      "elevation_difference": 0,
+      "moving_time": 185,
+      "split": 68,
+      "average_speed": 8.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 214,
+      "elevation_difference": 15.2,
+      "moving_time": 214,
+      "split": 69,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 496,
+      "elevation_difference": 13.6,
+      "moving_time": 303,
+      "split": 70,
+      "average_speed": 5.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 189,
+      "elevation_difference": -15.8,
+      "moving_time": 189,
+      "split": 71,
+      "average_speed": 8.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.5,
+      "elapsed_time": 159,
+      "elevation_difference": -28,
+      "moving_time": 159,
+      "split": 72,
+      "average_speed": 10.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 464,
+      "elevation_difference": 26.4,
+      "moving_time": 327,
+      "split": 73,
+      "average_speed": 4.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 222,
+      "elevation_difference": 5.8,
+      "moving_time": 222,
+      "split": 74,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 147,
+      "elevation_difference": -55,
+      "moving_time": 147,
+      "split": 75,
+      "average_speed": 10.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 385,
+      "elevation_difference": 31.2,
+      "moving_time": 341,
+      "split": 76,
+      "average_speed": 4.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 369,
+      "elevation_difference": 28.4,
+      "moving_time": 369,
+      "split": 77,
+      "average_speed": 4.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 268,
+      "elevation_difference": -17.8,
+      "moving_time": 225,
+      "split": 78,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 318,
+      "elevation_difference": 6.4,
+      "moving_time": 285,
+      "split": 79,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 241,
+      "elevation_difference": -7.2,
+      "moving_time": 230,
+      "split": 80,
+      "average_speed": 7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608,
+      "elapsed_time": 449,
+      "elevation_difference": 9.6,
+      "moving_time": 320,
+      "split": 81,
+      "average_speed": 5.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 268,
+      "elevation_difference": -4.2,
+      "moving_time": 261,
+      "split": 82,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 429,
+      "elevation_difference": 12.6,
+      "moving_time": 306,
+      "split": 83,
+      "average_speed": 5.26,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 576,
+      "elevation_difference": 7,
+      "moving_time": 354,
+      "split": 84,
+      "average_speed": 4.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1507.7,
+      "elapsed_time": 292,
+      "elevation_difference": -30.4,
+      "moving_time": 268,
+      "split": 85,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1128191531,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 360425386,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 28000,
+      "moving_time": 20929,
+      "start_date": "2015-08-03T09:46:07Z",
+      "start_date_local": "2015-08-03T05:46:07Z",
+      "distance": 136610,
+      "start_index": 0,
+      "end_index": 20900,
+      "total_elevation_gain": 529,
+      "average_speed": 6.53,
+      "max_speed": 15.8,
+      "device_watts": false,
+      "average_watts": 137.4,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "08c31a737d3e4d54989e914477c50dd2c4fa2d81",
+  "available_zones": [
+    "power"
+  ]
+}

@@ -1,0 +1,2922 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "Meeting the Ottawa River",
+  "distance": 127639,
+  "moving_time": 20754,
+  "elapsed_time": 30911,
+  "total_elevation_gain": 1102,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 355465140,
+  "external_id": "garmin_push_846716438",
+  "upload_id": 402317611,
+  "start_date": "2015-07-27T13:36:16Z",
+  "start_date_local": "2015-07-27T09:36:16Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400,
+  "start_latlng": [
+    46.211966,
+    -79.208434
+  ],
+  "end_latlng": [
+    46.191734,
+    -77.849673
+  ],
+  "location_city": "Corbeil",
+  "location_state": "Ontario",
+  "location_country": "Canada",
+  "start_latitude": 46.211966,
+  "start_longitude": -79.208434,
+  "achievement_count": 3,
+  "kudos_count": 7,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a355465140",
+    "polyline": "ww`yGvkmbNMr@OXi@x@_A~@KFCFEGC_@Q[UW}@u@]S{As@uBs@aAWuEs@c@CYB[H]PURU\\KVUr@c@fBWp@Yb@YXa@TeB^m@VQLUXS^iAnCQ\\Y\\u@j@eCrAYHYDY?WCkBs@QCk@Em@@m@LSFk@\\k@`@m@r@a@j@O\\YdAO~BIj@Od@KTMPc@`@oBfAuAdA[^u@fAcBxCWZg@d@[Rw@ZyIbCeARc@FmEZm@J_@Js@XuBlAg@Zg@f@Y`@e@bAk@jBYr@Ub@a@d@q@j@i@j@U\\Sd@Oj@Gj@Ah@@pCOvAMb@uB|EWb@]b@c@ZkD`Bm@VaAXuBz@qA|@cC|BeAv@i@XsAh@}A|@UFI?IEEKG[s@aF{BaNiAgGWgB[_DGeAE_@gAwFaC}MCGEB@`@`@rBJLFBN?NEdKmG|@q@pAoAhBeCv@y@p@e@XKrAEjAQfG_BnAe@h@Wf@_@j@o@Zg@Xi@fBaF`BaEtA{C`@w@fHyL|B_DXe@b@{@n@eBr@wCXcBh@wDhAeJ\\qBjBwJn@mDTcBbAiGVsATu@f@}@xAqBR]Zq@j@{A\\q@~AwBjDiFZ_@v@o@n@c@tB}@~GsCvHqD^[NYZ}@Js@f@qHvA{QDoA@iAAoAIuASqBWkB]cBYkAm@iBe@aAiAeBuBmC}CcEmFsIsEaHe@_Ay@uBi@cBo@cCsBuKWyAMiAm@_b@?wBCi@?eCCoBS}Ak@sCqD_P_BgG}@iC]{@g@aAcA_BqF_GwBsCgAuBeAeCaB_Du@eBa@qACa@Bk@Jk@Dm@@q@Ce@_@eCScAGq@GSGIyAf@[Dc@@YGa@SsBqA[Ws@_@UIc@A{@P[T[J[Pg@\\m@VsCzAaJbFcFfCORELE^@Nh@jCDb@APGNKLKFiBLeGr@qADq@?aAE}@GkBYuEsAmBe@}@K_A?oBNyEh@oIt@cD^iGf@cHp@uB@mBScAQcAYmAe@sAu@g~@_q@yCmB}@s@MGyFaE}@s@aEuC[_@SOSKUCG@?FF?JEHQ@g@Ca@CEMGCOWMKc@IESAOM?kDIkJKu@]yDiBgQkB}RAg@E[I[mIe{@]uCe@oDi@wCmBqJqAcGuDkRcAkGo@_HGcBk@gJu@}KG}BAaCBqBHwBZ{Ch@aDdFmT\\yBtE}Rb@_C|@yDzBmKToAd@cD^cDNcCJkCFoCAyBCkCUeIm@wXAaB@eCFeDX_FT{BpCiTvCqTnBsO\\gDZaFd@eMRuHHiFA}EGuCKiC}Bmf@YmH]}FOuDCsFBeKCkAAuLBqGLgD?m@J}D|Bsz@PsFJgBDkBDi@BwCHeCd@sG`@aD~@gF|BmKf@qC^yC\\_ENsCDwB@gB?oBCwAM}C}@_NsBo]wCye@yEqy@{AsVYgHSkIIuFOmEMiCQiBi@wDg@qC{BoJoBeJ}AuHUuAo@wCm@_Du@cDa@yBk@qEW}Cg@cMU{BmB_NkCgQmDiTU}AeAaGsAiHuBeMmA{HaBsJwAyIaD_R{Ker@sKmo@_D_Ss@kFWaDWaEq@iN@YEk@kBa`@IoBMqEAwCNwDLiBX{BzD_YbIsm@lAyI`AcFzFgUd@qB\\sBTwBPmCD}B?uBEqB_F{dAOyEk@yWM{IWoKMoH[gNCqCUyGKmHCeEQsEoAsn@yBweA[gPc@yRK}FC{DE_@Ko@a@iDcOy`Aw@sFWeCk@kH]eHqE{iAMkEEyB?yBnAwcA@_CCaCO{DMoB_@kDc@sCs@oDs@mCqA}DWq@}@kBoBmDo_Ak|AeAoBiAiC{@cCw@kCs@}Ca@{BiD_Us@gFgCoPe@eDSkBSoCQaECuA?iCNkZ?iEPk\\Ly_@JmJDuPHmJAuEQ}CMgASeAOq@eFkRI_@GOOSIUCAQRI`@mBkMsCoK_CiJoAeGa@oCi@gE{AyOKq@Sk@Ya@SSSQWK_GiByDaA_GgB{FiByAk@m@WOQUo@Eo@^aGV_Df@gFr@oIHi@Ni@CDKx@m@hHIdB@FB@EUA]LoBz@cJb@uF~@oJBWASKa@AGD]@g@H_@?YCPHCLFDAFSD_Ap@yHLy@TgA@WVs@^_BVyAL_Ah@yFPgAxI_~@~Ewf@fD{]L{@NgBRcBb@mFd@aENuBfAuKZ{DdAwK@a@b@_Ex@wJjBiYhAmSf@oHxAkX~@uOb@mQn@i\\f@c\\V_NH_D?m@Bc@?kAn@s`@`@wc@Zwc@JwGt@_n@n@at@\\k[JkO\\wXFeBToD\\gCv@wDxPwx@`BqHrAuGT{@f@oCnFoWxy@i}DrIib@rGuZv@mDd@kCpDoP`@uBB[^iBpCkMb^_dBzA{Hr@kE|@eGl@uEr@uGt@oHb@wFb@gHf@kK|BucAHuE@wDCwCMiEQkDsAoRiI}fAcBqWcAqL{A_SSaDgD}c@c@kFuAuRgA}SI_Cc@eIa@}Ky@yOU}CmFilA{Aq^C}D@_AHaCV_DZ}BdEuVViBRgCHoAHcCDwHD}BNqCL{A`@uCn@}Cr@_ChAyCfTeh@dH_Qpn@u{Afi@apAxMm\\bHiQxB}Gx@{ChAwEr@wDx@cFf@yDl@iGp@yIb@wDVmB\\kBz@sDbAoDl@eB^_AjCaGpAoCfNsZlD_JhCqHdBqFhDyLn@oBR{ANu@`@kC\\qEHe@Bs@?{CCiBGsAq@kJWuEIy@_B{XEQ_@aEmAsPKcAYgB_@cBWaAcAqC_FyKqJwSa@y@sBoEcA_Ce@}Ac@_Bk@uCc@yD_Foq@Gc@W{@IIICSBGNUdBWlAFvABLPRC_E@YNaANa@@EE[FGBI?_@Xe@?Sm@_IOqC_AcMsAaP}@}LuC__@QaDeBiVaDaa@YqFQaFGuEAcFDoFl@_\\ReMVwMLaKFyCLqI`@qSh@{`@t@u`@JaHt@{a@NcFTuE^eFXyC^{Cx@}Ft@aEpAaGtAaF`FmOpEiMfGmQrDaLbB_FdCyHxBuHxDcOxAeGtEwQtBwI|AyFjEeQnCcKn@yBv@sC\\{AX_AzBeJrFiTn@mC`AsFd@}DNeBJsBL_E?sDEgDoFcwAs@_MW_CeAkMi@gHcBiRa@{GMuCGyC?mEf@c^?iABiD?yGEwHOmJg@gNoDqx@UkGEoGD_ENaFTkDLqAf@iEXoBr@{Dv@kDb@{Ap@{BfA{CpEcKzHsPlFqLbAoBxBaFtP}^hAcCz@{AlAkBz@iAf@m@bBcBz@m@rPkMrDyCx@u@v@w@vBkCbFyH`B}BdAmApCwC`@e@ZWn@q@nA{AvA{Bh@kAf@uA\\mAf@iCfA_JdCiRv@cHxAiLdAcHxKum@`BqIbGe\\lJkg@x@uElCqN|Fe[`@eCTqBVqDdBm\\XkEJ}BtA}Td@iEXwBpAiIz@_Fr@sEx@eGp@yFh@mFp@eIr@_Mb@qKb@_Q`@wMBwAPqG?q@J{D?s@Bc@BcBFw@AQH_C@kAF}@@_BCa@?a@RoJzAwm@^gRn@_WNeM?_JCsHKqFSuIk@yLeG_~@sEiu@uG}cA_Dmh@sByZcDsi@UsDc@aFU_GKkASuDYoDCgAa@{FC_AIyAIiBCoCBmCZ_Kj@mK@sAf@{K@SEa@M]MSAO?E^AJu@@UGMLFNADCJOVqCb@oCh@oCbAkDJg@vD{KxEaMxAaDjAwB~@wAjA}A~@aAjBgB`As@nA{@|Aw@bBq@^KjFkBxAe@tCeAjEqAxG}BvKgDhE{A|JaD|FcBtAg@nGmBjBq@dB{@lA{@nAeAzA}Az@gAn@}@~@aBp@wAfAqCd@aBp@{ChBqLxBmMfCyOtBeMxB_NtBqL~Gib@jAeGrAuFb@yAdKy\\hBsFp@aD^kATy@\\_Ad@yA@QASEMIKk@Sc@CuAJwDHaFBa@BgB?s@B]A]Bi@AmCDsDB}AAuBGc@?s@EoDKoDCUE}@Bo@Ak@IOMu@l@iAdCWbAATKj@GfA?`ACb@@~ANfB@nAB\\?bDEhA@h@Tl@`@p@p@tAXvAJfA?r@E`@MjA]jBOXIFq@VSNOFGPBDCGQMUm@m@{@SOq@u@y@oAMGI@",
+    "resource_state": 3,
+    "summary_polyline": "ww`yGvkmbNwCvEiFyEkM_C}EvIaFtBuEpHqPvAkC~CoAlHmNdOm`@nLcIjNg@jJyDhIw]bR}O{`AvA`DhVuRnSqGj[kn@bOi|@bPoWtXwMvAgDdC}]u@mMkC{I_Xm`@yD}KyCyPu@wn@qFqWcFoOmLsNeHaO}AkRyCn@uJ_Dc[pPKxHuP`AkRgDoq@vEiHgCixAkdAZaBgBeBIwO_R{kBgPk}@cDik@rAgPrWeoA]qdAbOuqA`Ace@yEofAAmk@nEw_BlIwi@p@{VuVysEgRa_AaCo\\yFg`@my@waFeGadA\\wZlQmrA`Kqc@l@yNuFgoAqMytGgSmtA{Gm|Ah@u_BeC_R{EiN_cAyaBcGiO{OuiAd@i|CsGcWaAEaKee@wGue@ib@}NyAiClG}y@bH}d@|`@mdEpLamBfN}kK`_DwgOzFc^pDeb@~CqgBi^__FqPuqD^_PlGeb@|@wZnEmQdoCuwGpHiYvIgq@nc@mfA~H{WlBuOuIyvAm]qy@wJebAqAvGtAiL_UcyCu@m[fI}_F~Bu]vGc\\re@wwAhp@whCrDyWF{OoFcwAoIoiA\\qcA}Fs{Ad@}YxIgb@tr@y{Ajd@ia@|^sg@jNscAtq@mtDnGyeAlJ_q@nCs^zJksEoAuh@ej@izIdA}v@|Ssq@|MyRd~A_j@`OsNzEwN|`@abCrWe~@a_AaAiChEg@|GPdQdCtGM~FkC~DqF{G"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "402317611",
+  "average_speed": 6.15,
+  "max_speed": 17.3,
+  "average_cadence": 50.6,
+  "average_temp": 28,
+  "average_watts": 12.5,
+  "weighted_average_watts": 96,
+  "kilojoules": 260.3,
+  "device_watts": true,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "max_watts": 436,
+  "elev_high": 283.8,
+  "elev_low": 124,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "A good day overall, though a hot one, nearing 37 with humidity. Tomorrow is supposed to be the same so we're planning an early rise.\n\nYesterday we took a rest day at the VanderMarel cottage just east of North Bay. Joel has told me a lot about this place, and it was great to see it in person, and get to spend a down day there. We mostly tuned bikes, ate, and stretched, but I also got a swim in and a great call with Emily while I lay in the shade on the dock. It's great to take a day to break up the routine. It was our first since Winnipeg, and around 1800km.\n\nSpeaking of routine, one theme that keeps popping into my head, and has come up in a few conversations is how there's both too much and too little routine.\n\nEvery day is too much the same, and every day is too different.\n\nThe same:\n- wake up in a tent\n- put in a cycling kit\n- pack up sleeping bag and anything in the tent\n- try to remember which town I'm in\n- get out and start eating breakfast while packing the bike\n- ride all day, as long as one would normally spend at work\n- stuff my face as much as possible on the bike\n- stop riding at a campground\n- shower, set up tent, make dinner, eat dinner, dishes, laundry, phone calls, blog posts, bike maintenance, hydrate, hang food, etc etc\n- attempt to finish all this and get in the tent before the sun is down or the mosquito cloud will devour you.\n\nDifferent: nothing is static, every day it's new town and a new grocery store to navigate and a new set of insects to deal with and no stability.\n\nSo it's a strange duality of routine and chaos. The rest days help mellow out both.\n",
+  "calories": 290.2,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 40121324456,
+      "resource_state": 2,
+      "name": "The Wrong Side Of The Tracks",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 96,
+      "moving_time": 96,
+      "start_date": "2015-07-27T13:51:56Z",
+      "start_date_local": "2015-07-27T09:51:56Z",
+      "distance": 301.8,
+      "start_index": 835,
+      "end_index": 930,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 17798293,
+        "resource_state": 2,
+        "name": "The Wrong Side Of The Tracks",
+        "activity_type": "Ride",
+        "distance": 301.8,
+        "average_grade": 5.8,
+        "maximum_grade": 15.3,
+        "elevation_high": 250.4,
+        "elevation_low": 232.6,
+        "start_latlng": [
+          46.240058,
+          -79.22388
+        ],
+        "end_latlng": [
+          46.240933,
+          -79.220192
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.240058,
+        "start_longitude": -79.22388,
+        "end_latitude": 46.240933,
+        "end_longitude": -79.220192,
+        "climb_category": 0,
+        "city": "Corbeil",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2763552640172130000,
+      "resource_state": 2,
+      "name": "Quae Quae to Bonfield",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1110,
+      "moving_time": 1110,
+      "start_date": "2015-07-27T13:55:45Z",
+      "start_date_local": "2015-07-27T09:55:45Z",
+      "distance": 7182,
+      "start_index": 1003,
+      "end_index": 2112,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 26445840,
+        "resource_state": 2,
+        "name": "Quae Quae to Bonfield",
+        "activity_type": "Ride",
+        "distance": 7182,
+        "average_grade": -0.3,
+        "maximum_grade": 11,
+        "elevation_high": 257.6,
+        "elevation_low": 236.8,
+        "start_latlng": [
+          46.241142,
+          -79.218356
+        ],
+        "end_latlng": [
+          46.232361,
+          -79.147967
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.241142,
+        "start_longitude": -79.218356,
+        "end_latitude": 46.232361,
+        "end_longitude": -79.147967,
+        "climb_category": 0,
+        "city": "Corbeil",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16136065380,
+      "resource_state": 2,
+      "name": "Store-to-store eastbound",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2015-07-27T15:06:30Z",
+      "start_date_local": "2015-07-27T11:06:30Z",
+      "distance": 397.6,
+      "start_index": 4064,
+      "end_index": 4129,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 12769183,
+        "resource_state": 2,
+        "name": "Store-to-store eastbound",
+        "activity_type": "Ride",
+        "distance": 397.6,
+        "average_grade": 1,
+        "maximum_grade": 3,
+        "elevation_high": 243.6,
+        "elevation_low": 239.1,
+        "start_latlng": [
+          46.270472,
+          -79.040617
+        ],
+        "end_latlng": [
+          46.270335,
+          -79.03547
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.270472,
+        "start_longitude": -79.040617,
+        "end_latitude": 46.270335,
+        "end_longitude": -79.03547,
+        "climb_category": 0,
+        "city": "Bonfield",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16135886463,
+      "resource_state": 2,
+      "name": "Talon Lake Rd to Pimisi Bay (Eastbound)",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 528,
+      "moving_time": 528,
+      "start_date": "2015-07-27T15:07:42Z",
+      "start_date_local": "2015-07-27T11:07:42Z",
+      "distance": 4194.1,
+      "start_index": 4136,
+      "end_index": 4664,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 12769141,
+        "resource_state": 2,
+        "name": "Talon Lake Rd to Pimisi Bay (Eastbound)",
+        "activity_type": "Ride",
+        "distance": 4194.1,
+        "average_grade": -1.4,
+        "maximum_grade": 12.5,
+        "elevation_high": 254.6,
+        "elevation_low": 182.7,
+        "start_latlng": [
+          46.270279,
+          -79.034852
+        ],
+        "end_latlng": [
+          46.270968,
+          -78.981451
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.270279,
+        "start_longitude": -79.034852,
+        "end_latitude": 46.270968,
+        "end_longitude": -78.981451,
+        "climb_category": 0,
+        "city": "Bonfield",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 16136198526,
+      "resource_state": 2,
+      "name": "Hwy 630 to Amable du Fond River",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 399,
+      "moving_time": 153,
+      "start_date": "2015-07-27T15:29:13Z",
+      "start_date_local": "2015-07-27T11:29:13Z",
+      "distance": 1126,
+      "start_index": 5427,
+      "end_index": 5581,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 12769222,
+        "resource_state": 2,
+        "name": "Hwy 630 to Amable du Fond River",
+        "activity_type": "Ride",
+        "distance": 1126,
+        "average_grade": -1.5,
+        "maximum_grade": 10.7,
+        "elevation_high": 194.5,
+        "elevation_low": 168.1,
+        "start_latlng": [
+          46.286066,
+          -78.918887
+        ],
+        "end_latlng": [
+          46.286647,
+          -78.904475
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.286066,
+        "start_longitude": -78.918887,
+        "end_latitude": 46.286647,
+        "end_longitude": -78.904475,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2715190675828486700,
+      "resource_state": 2,
+      "name": "Highway 17: Algonquin North Outfitters to Mattawa",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 2536,
+      "moving_time": 2290,
+      "start_date": "2015-07-27T15:29:14Z",
+      "start_date_local": "2015-07-27T11:29:14Z",
+      "distance": 15492,
+      "start_index": 5428,
+      "end_index": 7717,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 24772773,
+        "resource_state": 2,
+        "name": "Highway 17: Algonquin North Outfitters to Mattawa",
+        "activity_type": "Ride",
+        "distance": 15492,
+        "average_grade": -0.1,
+        "maximum_grade": 25.5,
+        "elevation_high": 232.7,
+        "elevation_low": 171.2,
+        "start_latlng": [
+          46.286006,
+          -78.918795
+        ],
+        "end_latlng": [
+          46.306066,
+          -78.728367
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.286006,
+        "start_longitude": -78.918795,
+        "end_latitude": 46.306066,
+        "end_longitude": -78.728367,
+        "climb_category": 0,
+        "city": "Mattawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 2740737402665328600,
+      "resource_state": 2,
+      "name": "Samuel de Champlain Provincial Park to Chenier",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1519,
+      "moving_time": 1519,
+      "start_date": "2015-07-27T15:46:34Z",
+      "start_date_local": "2015-07-27T11:46:34Z",
+      "distance": 10618.6,
+      "start_index": 6221,
+      "end_index": 7740,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 25718857,
+        "resource_state": 2,
+        "name": "Samuel de Champlain Provincial Park to Chenier",
+        "activity_type": "Ride",
+        "distance": 10618.6,
+        "average_grade": -0.2,
+        "maximum_grade": 9.3,
+        "elevation_high": 232.7,
+        "elevation_low": 169.1,
+        "start_latlng": [
+          46.283726,
+          -78.854006
+        ],
+        "end_latlng": [
+          46.306129,
+          -78.72566
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.283726,
+        "start_longitude": -78.854006,
+        "end_latitude": 46.306129,
+        "end_longitude": -78.72566,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 43283360348,
+      "resource_state": 2,
+      "name": "Mattawa hwy 17 climb",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 4266,
+      "moving_time": 1148,
+      "start_date": "2015-07-27T16:50:39Z",
+      "start_date_local": "2015-07-27T12:50:39Z",
+      "distance": 4859.8,
+      "start_index": 8287,
+      "end_index": 9437,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 18337192,
+        "resource_state": 2,
+        "name": "Mattawa hwy 17 climb",
+        "activity_type": "Ride",
+        "distance": 4859.8,
+        "average_grade": 2.1,
+        "maximum_grade": 8.9,
+        "elevation_high": 268.5,
+        "elevation_low": 153.3,
+        "start_latlng": [
+          46.316254,
+          -78.695283
+        ],
+        "end_latlng": [
+          46.306625,
+          -78.634096
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.316254,
+        "start_longitude": -78.695283,
+        "end_latitude": 46.306625,
+        "end_longitude": -78.634096,
+        "climb_category": 0,
+        "city": "Mattawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8463841930,
+      "resource_state": 2,
+      "name": "Trans Canada Hwy Climb",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 558,
+      "moving_time": 558,
+      "start_date": "2015-07-27T17:50:36Z",
+      "start_date_local": "2015-07-27T13:50:36Z",
+      "distance": 1541.06,
+      "start_index": 8768,
+      "end_index": 9326,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 1408910,
+        "resource_state": 2,
+        "name": "Trans Canada Hwy Climb",
+        "activity_type": "Ride",
+        "distance": 1541.06,
+        "average_grade": 5.5,
+        "maximum_grade": 8.9,
+        "elevation_high": 273.5,
+        "elevation_low": 189,
+        "start_latlng": [
+          46.311010709032416,
+          -78.66593177430332
+        ],
+        "end_latlng": [
+          46.30799858830869,
+          -78.64641359075904
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.311010709032416,
+        "start_longitude": -78.66593177430332,
+        "end_latitude": 46.30799858830869,
+        "end_longitude": -78.64641359075904,
+        "climb_category": 1,
+        "city": "Papineau Cameron",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [
+        {
+          "type_id": 5,
+          "type": "year_overall",
+          "rank": 3
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8463841992,
+      "resource_state": 2,
+      "name": "Ontario 17 Climb",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 211,
+      "moving_time": 211,
+      "start_date": "2015-07-27T19:49:06Z",
+      "start_date_local": "2015-07-27T15:49:06Z",
+      "distance": 814.76,
+      "start_index": 14725,
+      "end_index": 14936,
+      "average_cadence": 48,
+      "device_watts": true,
+      "average_watts": 0,
+      "segment": {
+        "id": 1408911,
+        "resource_state": 2,
+        "name": "Ontario 17 Climb",
+        "activity_type": "Ride",
+        "distance": 814.76,
+        "average_grade": 5.5,
+        "maximum_grade": 11.7,
+        "elevation_high": 271.8,
+        "elevation_low": 227.1,
+        "start_latlng": [
+          46.25869531184435,
+          -78.2398746907711
+        ],
+        "end_latlng": [
+          46.25815979205072,
+          -78.22933595627546
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.25869531184435,
+        "start_longitude": -78.2398746907711,
+        "end_latitude": 46.25815979205072,
+        "end_longitude": -78.22933595627546,
+        "climb_category": 0,
+        "city": "Head, Clara And Maria",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [
+        {
+          "type_id": 5,
+          "type": "year_overall",
+          "rank": 2
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8463842001,
+      "resource_state": 2,
+      "name": "Trans Canada Hwy Climb",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 250,
+      "moving_time": 250,
+      "start_date": "2015-07-27T20:32:49Z",
+      "start_date_local": "2015-07-27T16:32:49Z",
+      "distance": 1249.3,
+      "start_index": 17031,
+      "end_index": 17281,
+      "average_cadence": 71.8,
+      "device_watts": true,
+      "average_watts": 197.8,
+      "segment": {
+        "id": 1408912,
+        "resource_state": 2,
+        "name": "Trans Canada Hwy Climb",
+        "activity_type": "Ride",
+        "distance": 1249.3,
+        "average_grade": 3.4,
+        "maximum_grade": 8.6,
+        "elevation_high": 198.2,
+        "elevation_low": 155.8,
+        "start_latlng": [
+          46.22366256080568,
+          -78.06760822422802
+        ],
+        "end_latlng": [
+          46.21961737051606,
+          -78.05266873911023
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.22366256080568,
+        "start_longitude": -78.06760822422802,
+        "end_latitude": 46.21961737051606,
+        "end_longitude": -78.05266873911023,
+        "climb_category": 0,
+        "city": "Head, Clara And Maria",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 8463842008,
+      "resource_state": 2,
+      "name": "Trans Canada Hwy Climb",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 332,
+      "moving_time": 248,
+      "start_date": "2015-07-27T20:48:16Z",
+      "start_date_local": "2015-07-27T16:48:16Z",
+      "distance": 661.36,
+      "start_index": 17957,
+      "end_index": 18206,
+      "average_cadence": 65.3,
+      "device_watts": true,
+      "average_watts": 136.1,
+      "segment": {
+        "id": 1408913,
+        "resource_state": 2,
+        "name": "Trans Canada Hwy Climb",
+        "activity_type": "Ride",
+        "distance": 661.36,
+        "average_grade": 7.9,
+        "maximum_grade": 12.9,
+        "elevation_high": 243.5,
+        "elevation_low": 191.5,
+        "start_latlng": [
+          46.207762928679585,
+          -77.9941276833415
+        ],
+        "end_latlng": [
+          46.2072941288352,
+          -77.98558442853391
+        ],
+        "elevation_profile": null,
+        "start_latitude": 46.207762928679585,
+        "start_longitude": -77.9941276833415,
+        "end_latitude": 46.2072941288352,
+        "end_longitude": -77.98558442853391,
+        "climb_category": 0,
+        "city": "Head, Clara And Maria",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [
+        {
+          "type_id": 5,
+          "type": "year_overall",
+          "rank": 4
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.5,
+      "elapsed_time": 325,
+      "elevation_difference": -0.2,
+      "moving_time": 230,
+      "split": 1,
+      "average_speed": 4.35,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 204,
+      "elevation_difference": -2,
+      "moving_time": 204,
+      "split": 2,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 206,
+      "elevation_difference": 13.2,
+      "moving_time": 206,
+      "split": 3,
+      "average_speed": 4.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 191,
+      "elevation_difference": -13.4,
+      "moving_time": 185,
+      "split": 4,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 282,
+      "elevation_difference": 10,
+      "moving_time": 223,
+      "split": 5,
+      "average_speed": 4.5,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 134,
+      "elevation_difference": -9.4,
+      "moving_time": 134,
+      "split": 6,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 163,
+      "elevation_difference": 0.2,
+      "moving_time": 163,
+      "split": 7,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.9,
+      "elapsed_time": 174,
+      "elevation_difference": 1.4,
+      "moving_time": 174,
+      "split": 8,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 156,
+      "elevation_difference": 1.4,
+      "moving_time": 156,
+      "split": 9,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 142,
+      "elevation_difference": -2.6,
+      "moving_time": 142,
+      "split": 10,
+      "average_speed": 7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 156,
+      "elevation_difference": 0.2,
+      "moving_time": 156,
+      "split": 11,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 173,
+      "elevation_difference": 0,
+      "moving_time": 173,
+      "split": 12,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 166,
+      "elevation_difference": -8,
+      "moving_time": 166,
+      "split": 13,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 143,
+      "elevation_difference": -1.8,
+      "moving_time": 143,
+      "split": 14,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 135,
+      "elevation_difference": -7.4,
+      "moving_time": 135,
+      "split": 15,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 162,
+      "elevation_difference": -0.2,
+      "moving_time": 162,
+      "split": 16,
+      "average_speed": 6.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 1310,
+      "elevation_difference": -40,
+      "moving_time": 202,
+      "split": 17,
+      "average_speed": 4.95,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 248,
+      "elevation_difference": 5.6,
+      "moving_time": 175,
+      "split": 18,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 137,
+      "elevation_difference": 3.6,
+      "moving_time": 137,
+      "split": 19,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 179,
+      "elevation_difference": 18.2,
+      "moving_time": 179,
+      "split": 20,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 171,
+      "elevation_difference": 5,
+      "moving_time": 171,
+      "split": 21,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 96,
+      "elevation_difference": -27,
+      "moving_time": 96,
+      "split": 22,
+      "average_speed": 10.45,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 148,
+      "elevation_difference": 14.6,
+      "moving_time": 148,
+      "split": 23,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 127,
+      "elevation_difference": -7.2,
+      "moving_time": 127,
+      "split": 24,
+      "average_speed": 7.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 173,
+      "elevation_difference": 8.8,
+      "moving_time": 173,
+      "split": 25,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 171,
+      "elevation_difference": 5.2,
+      "moving_time": 171,
+      "split": 26,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 135,
+      "elevation_difference": -21.8,
+      "moving_time": 135,
+      "split": 27,
+      "average_speed": 7.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.7,
+      "elapsed_time": 100,
+      "elevation_difference": -14.8,
+      "moving_time": 100,
+      "split": 28,
+      "average_speed": 10.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 101,
+      "elevation_difference": -24.8,
+      "moving_time": 101,
+      "split": 29,
+      "average_speed": 9.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994,
+      "elapsed_time": 135,
+      "elevation_difference": 8.8,
+      "moving_time": 135,
+      "split": 30,
+      "average_speed": 7.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 220,
+      "elevation_difference": 24,
+      "moving_time": 220,
+      "split": 31,
+      "average_speed": 4.55,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 203,
+      "elevation_difference": 18,
+      "moving_time": 203,
+      "split": 32,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 86,
+      "elevation_difference": -24.6,
+      "moving_time": 86,
+      "split": 33,
+      "average_speed": 11.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 92,
+      "elevation_difference": -28.4,
+      "moving_time": 92,
+      "split": 34,
+      "average_speed": 10.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 399,
+      "elevation_difference": -4.4,
+      "moving_time": 154,
+      "split": 35,
+      "average_speed": 6.49,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 139,
+      "elevation_difference": -5.4,
+      "moving_time": 139,
+      "split": 36,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 176,
+      "elevation_difference": 10.2,
+      "moving_time": 176,
+      "split": 37,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 149,
+      "elevation_difference": 1.8,
+      "moving_time": 149,
+      "split": 38,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998,
+      "elapsed_time": 141,
+      "elevation_difference": -0.2,
+      "moving_time": 141,
+      "split": 39,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 174,
+      "elevation_difference": 7.2,
+      "moving_time": 174,
+      "split": 40,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 152,
+      "elevation_difference": 0.6,
+      "moving_time": 152,
+      "split": 41,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 227,
+      "elevation_difference": 22.8,
+      "moving_time": 227,
+      "split": 42,
+      "average_speed": 4.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 179,
+      "elevation_difference": 8,
+      "moving_time": 179,
+      "split": 43,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 155,
+      "elevation_difference": 0.4,
+      "moving_time": 155,
+      "split": 44,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 111,
+      "elevation_difference": -19.2,
+      "moving_time": 111,
+      "split": 45,
+      "average_speed": 9.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 102,
+      "elevation_difference": -14.4,
+      "moving_time": 102,
+      "split": 46,
+      "average_speed": 9.78,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 106,
+      "elevation_difference": -12,
+      "moving_time": 106,
+      "split": 47,
+      "average_speed": 9.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 140,
+      "elevation_difference": 1,
+      "moving_time": 140,
+      "split": 48,
+      "average_speed": 7.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 141,
+      "elevation_difference": 0.8,
+      "moving_time": 141,
+      "split": 49,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 111,
+      "elevation_difference": -12.4,
+      "moving_time": 111,
+      "split": 50,
+      "average_speed": 9.04,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 1837,
+      "elevation_difference": 7.6,
+      "moving_time": 145,
+      "split": 51,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 165,
+      "elevation_difference": 0.2,
+      "moving_time": 165,
+      "split": 52,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 198,
+      "elevation_difference": -15.4,
+      "moving_time": 164,
+      "split": 53,
+      "average_speed": 6.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 3413,
+      "elevation_difference": 19.4,
+      "moving_time": 244,
+      "split": 54,
+      "average_speed": 4.1,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 217,
+      "elevation_difference": 16.4,
+      "moving_time": 217,
+      "split": 55,
+      "average_speed": 4.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 206,
+      "elevation_difference": 21.8,
+      "moving_time": 206,
+      "split": 56,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 371,
+      "elevation_difference": 54,
+      "moving_time": 371,
+      "split": 57,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.4,
+      "elapsed_time": 159,
+      "elevation_difference": -8.4,
+      "moving_time": 159,
+      "split": 58,
+      "average_speed": 6.34,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 109,
+      "elevation_difference": -16.8,
+      "moving_time": 109,
+      "split": 59,
+      "average_speed": 9.15,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 386,
+      "elevation_difference": -12.2,
+      "moving_time": 122,
+      "split": 60,
+      "average_speed": 8.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 98,
+      "elevation_difference": -23.4,
+      "moving_time": 98,
+      "split": 61,
+      "average_speed": 10.15,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 104,
+      "elevation_difference": -4.8,
+      "moving_time": 104,
+      "split": 62,
+      "average_speed": 9.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 104,
+      "elevation_difference": -21.6,
+      "moving_time": 104,
+      "split": 63,
+      "average_speed": 9.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 176,
+      "elevation_difference": 23.8,
+      "moving_time": 176,
+      "split": 64,
+      "average_speed": 5.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 179,
+      "elevation_difference": 1.8,
+      "moving_time": 179,
+      "split": 65,
+      "average_speed": 5.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003,
+      "elapsed_time": 95,
+      "elevation_difference": -17.6,
+      "moving_time": 95,
+      "split": 66,
+      "average_speed": 10.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 117,
+      "elevation_difference": -3.6,
+      "moving_time": 117,
+      "split": 67,
+      "average_speed": 8.52,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 156,
+      "elevation_difference": 5.8,
+      "moving_time": 156,
+      "split": 68,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 231,
+      "elevation_difference": 7.4,
+      "moving_time": 231,
+      "split": 69,
+      "average_speed": 4.35,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.8,
+      "elapsed_time": 134,
+      "elevation_difference": -5.8,
+      "moving_time": 134,
+      "split": 70,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 212,
+      "elevation_difference": 12.2,
+      "moving_time": 212,
+      "split": 71,
+      "average_speed": 4.73,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 213,
+      "elevation_difference": 19.4,
+      "moving_time": 213,
+      "split": 72,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 155,
+      "elevation_difference": -4,
+      "moving_time": 155,
+      "split": 73,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 174,
+      "elevation_difference": -0.6,
+      "moving_time": 174,
+      "split": 74,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 123,
+      "elevation_difference": -14,
+      "moving_time": 123,
+      "split": 75,
+      "average_speed": 8.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 220,
+      "elevation_difference": 7.6,
+      "moving_time": 220,
+      "split": 76,
+      "average_speed": 4.54,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.3,
+      "elapsed_time": 152,
+      "elevation_difference": -11.2,
+      "moving_time": 152,
+      "split": 77,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 89,
+      "elevation_difference": -28.2,
+      "moving_time": 89,
+      "split": 78,
+      "average_speed": 11.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 109,
+      "elevation_difference": -13.4,
+      "moving_time": 109,
+      "split": 79,
+      "average_speed": 9.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 130,
+      "elevation_difference": 2,
+      "moving_time": 130,
+      "split": 80,
+      "average_speed": 7.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 138,
+      "elevation_difference": -1.8,
+      "moving_time": 138,
+      "split": 81,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994,
+      "elapsed_time": 133,
+      "elevation_difference": 0.2,
+      "moving_time": 133,
+      "split": 82,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 155,
+      "elevation_difference": 5.8,
+      "moving_time": 155,
+      "split": 83,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996,
+      "elapsed_time": 137,
+      "elevation_difference": -2.4,
+      "moving_time": 137,
+      "split": 84,
+      "average_speed": 7.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 170,
+      "elevation_difference": 9,
+      "moving_time": 170,
+      "split": 85,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 336,
+      "elevation_difference": 28.6,
+      "moving_time": 336,
+      "split": 86,
+      "average_speed": 2.98,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 363,
+      "elevation_difference": -42.6,
+      "moving_time": 104,
+      "split": 87,
+      "average_speed": 9.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 130,
+      "elevation_difference": -2.8,
+      "moving_time": 130,
+      "split": 88,
+      "average_speed": 7.72,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 926,
+      "elevation_difference": 27.4,
+      "moving_time": 301,
+      "split": 89,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 212,
+      "elevation_difference": 15,
+      "moving_time": 212,
+      "split": 90,
+      "average_speed": 4.7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 273,
+      "elevation_difference": 30.2,
+      "moving_time": 273,
+      "split": 91,
+      "average_speed": 3.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 250,
+      "elevation_difference": 33.2,
+      "moving_time": 250,
+      "split": 92,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 160,
+      "elevation_difference": -3,
+      "moving_time": 160,
+      "split": 93,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 138,
+      "elevation_difference": -1,
+      "moving_time": 138,
+      "split": 94,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 196,
+      "elevation_difference": 15.8,
+      "moving_time": 196,
+      "split": 95,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 199,
+      "elevation_difference": 13.2,
+      "moving_time": 199,
+      "split": 96,
+      "average_speed": 5.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 142,
+      "elevation_difference": -5,
+      "moving_time": 142,
+      "split": 97,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 283,
+      "elevation_difference": 29,
+      "moving_time": 283,
+      "split": 98,
+      "average_speed": 3.52,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 109,
+      "elevation_difference": -19,
+      "moving_time": 109,
+      "split": 99,
+      "average_speed": 9.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 199,
+      "elevation_difference": 10.4,
+      "moving_time": 199,
+      "split": 100,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 466,
+      "elevation_difference": -6.6,
+      "moving_time": 151,
+      "split": 101,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 147,
+      "elevation_difference": -9,
+      "moving_time": 147,
+      "split": 102,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.1,
+      "elapsed_time": 97,
+      "elevation_difference": -32.2,
+      "moving_time": 97,
+      "split": 103,
+      "average_speed": 10.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.5,
+      "elapsed_time": 79,
+      "elevation_difference": -38.8,
+      "moving_time": 79,
+      "split": 104,
+      "average_speed": 12.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008,
+      "elapsed_time": 71,
+      "elevation_difference": -44,
+      "moving_time": 71,
+      "split": 105,
+      "average_speed": 14.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988,
+      "elapsed_time": 138,
+      "elevation_difference": -0.6,
+      "moving_time": 138,
+      "split": 106,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 207,
+      "elevation_difference": 25.6,
+      "moving_time": 207,
+      "split": 107,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 153,
+      "elevation_difference": 13.2,
+      "moving_time": 153,
+      "split": 108,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 94,
+      "elevation_difference": -23,
+      "moving_time": 94,
+      "split": 109,
+      "average_speed": 10.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 135,
+      "elevation_difference": 9.4,
+      "moving_time": 135,
+      "split": 110,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 183,
+      "elevation_difference": 12.4,
+      "moving_time": 183,
+      "split": 111,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 214,
+      "elevation_difference": 10,
+      "moving_time": 214,
+      "split": 112,
+      "average_speed": 4.66,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 313,
+      "elevation_difference": 9.6,
+      "moving_time": 230,
+      "split": 113,
+      "average_speed": 4.36,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 128,
+      "elevation_difference": -6.2,
+      "moving_time": 128,
+      "split": 114,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 196,
+      "elevation_difference": 14.2,
+      "moving_time": 196,
+      "split": 115,
+      "average_speed": 5.08,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 91,
+      "elevation_difference": -42,
+      "moving_time": 91,
+      "split": 116,
+      "average_speed": 11.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 82,
+      "elevation_difference": -29.6,
+      "moving_time": 82,
+      "split": 117,
+      "average_speed": 12.23,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 128,
+      "elevation_difference": 0,
+      "moving_time": 128,
+      "split": 118,
+      "average_speed": 7.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 239,
+      "elevation_difference": 24,
+      "moving_time": 239,
+      "split": 119,
+      "average_speed": 4.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 1531,
+      "elevation_difference": -5.8,
+      "moving_time": 192,
+      "split": 120,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 161,
+      "elevation_difference": -1,
+      "moving_time": 161,
+      "split": 121,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 163,
+      "elevation_difference": 0.6,
+      "moving_time": 163,
+      "split": 122,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 130,
+      "elevation_difference": -3.4,
+      "moving_time": 130,
+      "split": 123,
+      "average_speed": 7.66,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 183,
+      "elevation_difference": 15.8,
+      "moving_time": 183,
+      "split": 124,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 139,
+      "elevation_difference": -2.8,
+      "moving_time": 139,
+      "split": 125,
+      "average_speed": 7.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 141,
+      "elevation_difference": -11.6,
+      "moving_time": 141,
+      "split": 126,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 1079,
+      "elevation_difference": 11.2,
+      "moving_time": 232,
+      "split": 127,
+      "average_speed": 4.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 636.3,
+      "elapsed_time": 196,
+      "elevation_difference": -24.2,
+      "moving_time": 196,
+      "split": 128,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.5,
+      "elapsed_time": 445,
+      "elevation_difference": -1.2,
+      "moving_time": 350,
+      "split": 1,
+      "average_speed": 4.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 372,
+      "elevation_difference": 18.2,
+      "moving_time": 366,
+      "split": 2,
+      "average_speed": 4.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 370,
+      "elevation_difference": -5.2,
+      "moving_time": 311,
+      "split": 3,
+      "average_speed": 5.18,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 229,
+      "elevation_difference": -13.2,
+      "moving_time": 229,
+      "split": 4,
+      "average_speed": 7.04,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 269,
+      "elevation_difference": 0.4,
+      "moving_time": 269,
+      "split": 5,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 242,
+      "elevation_difference": -1,
+      "moving_time": 242,
+      "split": 6,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 257,
+      "elevation_difference": 5.8,
+      "moving_time": 257,
+      "split": 7,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 273,
+      "elevation_difference": -8.8,
+      "moving_time": 273,
+      "split": 8,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 223,
+      "elevation_difference": -11,
+      "moving_time": 223,
+      "split": 9,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 244,
+      "elevation_difference": -5,
+      "moving_time": 244,
+      "split": 10,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 1509,
+      "elevation_difference": -32,
+      "moving_time": 328,
+      "split": 11,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 232,
+      "elevation_difference": 9,
+      "moving_time": 232,
+      "split": 12,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 283,
+      "elevation_difference": 18.6,
+      "moving_time": 283,
+      "split": 13,
+      "average_speed": 5.68,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 182,
+      "elevation_difference": -19,
+      "moving_time": 182,
+      "split": 14,
+      "average_speed": 8.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 229,
+      "elevation_difference": 3.4,
+      "moving_time": 229,
+      "split": 15,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 241,
+      "elevation_difference": -0.6,
+      "moving_time": 241,
+      "split": 16,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 238,
+      "elevation_difference": -19.6,
+      "moving_time": 238,
+      "split": 17,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619.4,
+      "elapsed_time": 168,
+      "elevation_difference": -29.4,
+      "moving_time": 168,
+      "split": 18,
+      "average_speed": 9.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.9,
+      "elapsed_time": 271,
+      "elevation_difference": 24.2,
+      "moving_time": 271,
+      "split": 19,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.2,
+      "elapsed_time": 306,
+      "elevation_difference": 14.8,
+      "moving_time": 306,
+      "split": 20,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 141,
+      "elevation_difference": -44,
+      "moving_time": 141,
+      "split": 21,
+      "average_speed": 11.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 462,
+      "elevation_difference": -10.6,
+      "moving_time": 217,
+      "split": 22,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 274,
+      "elevation_difference": 11.2,
+      "moving_time": 274,
+      "split": 23,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 224,
+      "elevation_difference": -8.6,
+      "moving_time": 224,
+      "split": 24,
+      "average_speed": 7.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 285,
+      "elevation_difference": 20.4,
+      "moving_time": 285,
+      "split": 25,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606,
+      "elapsed_time": 298,
+      "elevation_difference": 17.8,
+      "moving_time": 298,
+      "split": 26,
+      "average_speed": 5.39,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.6,
+      "elapsed_time": 297,
+      "elevation_difference": 14.6,
+      "moving_time": 297,
+      "split": 27,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 187,
+      "elevation_difference": -25,
+      "moving_time": 187,
+      "split": 28,
+      "average_speed": 8.59,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 161,
+      "elevation_difference": -24,
+      "moving_time": 161,
+      "split": 29,
+      "average_speed": 10.01,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 221,
+      "elevation_difference": 0.8,
+      "moving_time": 221,
+      "split": 30,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 201,
+      "elevation_difference": -10.4,
+      "moving_time": 201,
+      "split": 31,
+      "average_speed": 7.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 1934,
+      "elevation_difference": 6.4,
+      "moving_time": 242,
+      "split": 32,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 367,
+      "elevation_difference": -14.6,
+      "moving_time": 280,
+      "split": 33,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 3498,
+      "elevation_difference": 36.2,
+      "moving_time": 382,
+      "split": 34,
+      "average_speed": 4.21,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 389,
+      "elevation_difference": 43,
+      "moving_time": 389,
+      "split": 35,
+      "average_speed": 4.13,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614,
+      "elapsed_time": 384,
+      "elevation_difference": 24.8,
+      "moving_time": 384,
+      "split": 36,
+      "average_speed": 4.2,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 453,
+      "elevation_difference": -25.4,
+      "moving_time": 189,
+      "split": 37,
+      "average_speed": 8.52,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 158,
+      "elevation_difference": -31.2,
+      "moving_time": 158,
+      "split": 38,
+      "average_speed": 10.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.5,
+      "elapsed_time": 179,
+      "elevation_difference": -15.6,
+      "moving_time": 179,
+      "split": 39,
+      "average_speed": 9.03,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.2,
+      "elapsed_time": 279,
+      "elevation_difference": 25,
+      "moving_time": 279,
+      "split": 40,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 186,
+      "elevation_difference": -24.4,
+      "moving_time": 186,
+      "split": 41,
+      "average_speed": 8.64,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 207,
+      "elevation_difference": -3,
+      "moving_time": 207,
+      "split": 42,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 323,
+      "elevation_difference": 9.8,
+      "moving_time": 323,
+      "split": 43,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.9,
+      "elapsed_time": 288,
+      "elevation_difference": 6.4,
+      "moving_time": 288,
+      "split": 44,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 311,
+      "elevation_difference": 14.2,
+      "moving_time": 311,
+      "split": 45,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 269,
+      "elevation_difference": 1.6,
+      "moving_time": 269,
+      "split": 46,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 274,
+      "elevation_difference": -4.6,
+      "moving_time": 274,
+      "split": 47,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 237,
+      "elevation_difference": -23.4,
+      "moving_time": 237,
+      "split": 48,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 165,
+      "elevation_difference": -27.2,
+      "moving_time": 165,
+      "split": 49,
+      "average_speed": 9.77,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 220,
+      "elevation_difference": 4.6,
+      "moving_time": 220,
+      "split": 50,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 205,
+      "elevation_difference": -7.4,
+      "moving_time": 205,
+      "split": 51,
+      "average_speed": 7.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603,
+      "elapsed_time": 236,
+      "elevation_difference": 3.2,
+      "moving_time": 236,
+      "split": 52,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 315,
+      "elevation_difference": 22.6,
+      "moving_time": 315,
+      "split": 53,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 590,
+      "elevation_difference": -23.8,
+      "moving_time": 331,
+      "split": 54,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 907,
+      "elevation_difference": 1.4,
+      "moving_time": 282,
+      "split": 55,
+      "average_speed": 5.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 405,
+      "elevation_difference": 39.6,
+      "moving_time": 405,
+      "split": 56,
+      "average_speed": 3.97,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611,
+      "elapsed_time": 434,
+      "elevation_difference": 52.8,
+      "moving_time": 434,
+      "split": 57,
+      "average_speed": 3.71,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 274,
+      "elevation_difference": 3.8,
+      "moving_time": 274,
+      "split": 58,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 261,
+      "elevation_difference": 12.6,
+      "moving_time": 261,
+      "split": 59,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 299,
+      "elevation_difference": 11,
+      "moving_time": 299,
+      "split": 60,
+      "average_speed": 5.38,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 356,
+      "elevation_difference": 20.2,
+      "moving_time": 356,
+      "split": 61,
+      "average_speed": 4.52,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.9,
+      "elapsed_time": 262,
+      "elevation_difference": 1.8,
+      "moving_time": 262,
+      "split": 62,
+      "average_speed": 6.17,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606,
+      "elapsed_time": 573,
+      "elevation_difference": -7.8,
+      "moving_time": 258,
+      "split": 63,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.5,
+      "elapsed_time": 165,
+      "elevation_difference": -43,
+      "moving_time": 165,
+      "split": 64,
+      "average_speed": 9.81,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.5,
+      "elapsed_time": 118,
+      "elevation_difference": -69.2,
+      "moving_time": 118,
+      "split": 65,
+      "average_speed": 13.58,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.5,
+      "elapsed_time": 207,
+      "elevation_difference": -13.6,
+      "moving_time": 207,
+      "split": 66,
+      "average_speed": 7.75,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 297,
+      "elevation_difference": 35.6,
+      "moving_time": 297,
+      "split": 67,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.6,
+      "elapsed_time": 167,
+      "elevation_difference": -18.6,
+      "moving_time": 167,
+      "split": 68,
+      "average_speed": 9.67,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 277,
+      "elevation_difference": 19,
+      "moving_time": 277,
+      "split": 69,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 480,
+      "elevation_difference": 26.2,
+      "moving_time": 397,
+      "split": 70,
+      "average_speed": 4.05,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 229,
+      "elevation_difference": -4,
+      "moving_time": 229,
+      "split": 71,
+      "average_speed": 7,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 218,
+      "elevation_difference": -30.4,
+      "moving_time": 218,
+      "split": 72,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 145,
+      "elevation_difference": -34.8,
+      "moving_time": 145,
+      "split": 73,
+      "average_speed": 11.07,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 325,
+      "elevation_difference": 21.8,
+      "moving_time": 325,
+      "split": 74,
+      "average_speed": 4.96,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 1615,
+      "elevation_difference": -9.6,
+      "moving_time": 276,
+      "split": 75,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 277,
+      "elevation_difference": 7.4,
+      "moving_time": 277,
+      "split": 76,
+      "average_speed": 5.82,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.7,
+      "elapsed_time": 248,
+      "elevation_difference": 9.6,
+      "moving_time": 248,
+      "split": 77,
+      "average_speed": 6.46,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 221,
+      "elevation_difference": -12,
+      "moving_time": 221,
+      "split": 78,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 1211,
+      "elevation_difference": 15.2,
+      "moving_time": 364,
+      "split": 79,
+      "average_speed": 4.42,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    },
+    {
+      "distance": 496.3,
+      "elapsed_time": 139,
+      "elevation_difference": -29.6,
+      "moving_time": 139,
+      "split": 80,
+      "average_speed": 3.57,
+      "average_grade_adjusted_speed": null,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1114892097,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 355465140,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 30911,
+      "moving_time": 20701,
+      "start_date": "2015-07-27T13:36:16Z",
+      "start_date_local": "2015-07-27T09:36:16Z",
+      "distance": 127338,
+      "start_index": 0,
+      "end_index": 20674,
+      "total_elevation_gain": 1102,
+      "average_speed": 6.15,
+      "max_speed": 17.3,
+      "average_cadence": 50.6,
+      "device_watts": true,
+      "average_watts": 12.5,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "9b372fb56774c1d85de5716e48790d4d42b14779",
+  "available_zones": [
+    "power"
+  ]
+}

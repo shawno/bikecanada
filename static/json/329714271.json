@@ -1,0 +1,396 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 436112,
+    "resource_state": 1
+  },
+  "name": "To YYJ",
+  "distance": 7219.3,
+  "moving_time": 1225,
+  "elapsed_time": 1352,
+  "total_elevation_gain": 55,
+  "type": "Ride",
+  "workout_type": null,
+  "id": 329714271,
+  "external_id": "garmin_push_810177579",
+  "upload_id": 373340993,
+  "start_date": "2015-06-21T06:14:06Z",
+  "start_date_local": "2015-06-20T23:14:06Z",
+  "timezone": "(GMT-08:00) America/Vancouver",
+  "utc_offset": -25200,
+  "start_latlng": [
+    48.673346,
+    -123.425801
+  ],
+  "end_latlng": [
+    48.640363,
+    -123.430799
+  ],
+  "location_city": "North Saanich",
+  "location_state": "British Columbia",
+  "location_country": "Canada",
+  "start_latitude": 48.673346,
+  "start_longitude": -123.425801,
+  "achievement_count": 1,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a329714271",
+    "polyline": "koahHhripVDBLGHI`@eBFq@?m@D{@Gg@EIMxBYlA_@X[JSLW@MDAFG?AAE@AABAD@XPd@Jf@@NEf@gAL}@DeAFe@NQ`Au@r@y@Ze@nAiC`@mA|CuLlAmKTk@^]`@MvCm@nOmCv@Kt@ErDEjDMdB?H@d@Pf@Kz@CVM\\c@b@_@n@WlGkDrUaOfFiDzDaChFgDpMqI~H{F`CmAfAw@DADJD@`@Uv@i@Ha@FK|FoDr@]t@Y~Ae@h@IrBMhABx@HjAVvCdAjEfBbHhCl@Z@FCv@I\\C@_@OM?U~AAl@AvRC~@BzG?dYBHJLf@LfF~AbHfB~AZdA^r@ZRLn@n@bBxAlBpAnAjANPJd@Tp@Bh@DpECzBKhBQxBa@vC_CxLaAlEw@pCk@zBGLk@`@k@EmGgAWKg@g@QIgAYi@GMDOXAFa@tHM|AAJIHG@",
+    "resource_state": 3,
+    "summary_polyline": "koahHhripV~@aIg@fEiC`A`CXbAqFpFqHbI{]`WuEnSUpaBqeApLqBzXtJuA|E@bx@xWzHvK~KWzQgIl`@_QwBuAlM"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b2037348",
+  "from_accepted_tag": false,
+  "upload_id_str": "373340993",
+  "average_speed": 5.893,
+  "max_speed": 8.8,
+  "average_temp": 10,
+  "average_watts": 121.3,
+  "kilojoules": 148.6,
+  "device_watts": false,
+  "has_heartrate": true,
+  "average_heartrate": 121.3,
+  "max_heartrate": 153,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 28.2,
+  "elev_low": 2.8,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 7,
+  "description": "",
+  "calories": 165.7,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 23328516064,
+      "resource_state": 2,
+      "name": "2School Dash South",
+      "activity": {
+        "id": 329714271,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 116,
+      "moving_time": 116,
+      "start_date": "2015-06-21T06:19:12Z",
+      "start_date_local": "2015-06-20T23:19:12Z",
+      "distance": 816.3,
+      "start_index": 144,
+      "end_index": 186,
+      "device_watts": false,
+      "average_watts": 161.1,
+      "average_heartrate": 108.2,
+      "max_heartrate": 128,
+      "segment": {
+        "id": 14676007,
+        "resource_state": 2,
+        "name": "2School Dash South",
+        "activity_type": "Ride",
+        "distance": 816.3,
+        "average_grade": 0.5,
+        "maximum_grade": 3.4,
+        "elevation_high": 9.4,
+        "elevation_low": 5.2,
+        "start_latlng": [
+          48.67159,
+          -123.422349
+        ],
+        "end_latlng": [
+          48.666206,
+          -123.416898
+        ],
+        "elevation_profile": null,
+        "start_latitude": 48.67159,
+        "start_longitude": -123.422349,
+        "end_latitude": 48.666206,
+        "end_longitude": -123.416898,
+        "climb_category": 0,
+        "city": "North Saanich",
+        "state": "British Columbia",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 7806865617,
+      "resource_state": 2,
+      "name": "Lochside Sidney",
+      "activity": {
+        "id": 329714271,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 203,
+      "moving_time": 203,
+      "start_date": "2015-06-21T06:22:15Z",
+      "start_date_local": "2015-06-20T23:22:15Z",
+      "distance": 1635.7,
+      "start_index": 213,
+      "end_index": 257,
+      "device_watts": false,
+      "average_watts": 132.3,
+      "average_heartrate": 141.9,
+      "max_heartrate": 153,
+      "segment": {
+        "id": 4808190,
+        "resource_state": 2,
+        "name": "Lochside Sidney",
+        "activity_type": "Ride",
+        "distance": 1635.7,
+        "average_grade": -0.1,
+        "maximum_grade": 3.2,
+        "elevation_high": 4.8,
+        "elevation_low": -1,
+        "start_latlng": [
+          48.662398,
+          -123.416356
+        ],
+        "end_latlng": [
+          48.649199,
+          -123.406984
+        ],
+        "elevation_profile": null,
+        "start_latitude": 48.662398,
+        "start_longitude": -123.416356,
+        "end_latitude": 48.649199,
+        "end_longitude": -123.406984,
+        "climb_category": 0,
+        "city": "British Columbia V8L, Canada",
+        "state": "BC",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.9,
+      "elapsed_time": 357,
+      "elevation_difference": -17.8,
+      "moving_time": 252,
+      "split": 1,
+      "average_speed": 3.98,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 100.61181434599156,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1023.7,
+      "elapsed_time": 147,
+      "elevation_difference": 5.6,
+      "moving_time": 147,
+      "split": 2,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 109.9047619047619,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 121,
+      "elevation_difference": 0.8,
+      "moving_time": 121,
+      "split": 3,
+      "average_speed": 8.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.7520661157025,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 148,
+      "elevation_difference": -7,
+      "moving_time": 148,
+      "split": 4,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.55405405405406,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 187,
+      "elevation_difference": 12.4,
+      "moving_time": 187,
+      "split": 5,
+      "average_speed": 5.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.1711229946524,
+      "pace_zone": 0
+    },
+    {
+      "distance": 974.1,
+      "elapsed_time": 153,
+      "elevation_difference": 1,
+      "moving_time": 153,
+      "split": 6,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.91503267973856,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 162,
+      "elevation_difference": 0,
+      "moving_time": 162,
+      "split": 7,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.38888888888889,
+      "pace_zone": 0
+    },
+    {
+      "distance": 215.1,
+      "elapsed_time": 77,
+      "elevation_difference": 0,
+      "moving_time": 55,
+      "split": 8,
+      "average_speed": 3.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 102.9090909090909,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1636.8,
+      "elapsed_time": 449,
+      "elevation_difference": -11.8,
+      "moving_time": 344,
+      "split": 1,
+      "average_speed": 4.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 100.30699088145897,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.9,
+      "elapsed_time": 201,
+      "elevation_difference": -0.2,
+      "moving_time": 201,
+      "split": 2,
+      "average_speed": 7.96,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.1492537313433,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.7,
+      "elapsed_time": 276,
+      "elevation_difference": 3,
+      "moving_time": 276,
+      "split": 3,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.2572463768116,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 265,
+      "elevation_difference": 8,
+      "moving_time": 265,
+      "split": 4,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.40377358490566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 772.9,
+      "elapsed_time": 161,
+      "elevation_difference": -4,
+      "moving_time": 139,
+      "split": 5,
+      "average_speed": 5.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 117.76258992805755,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 1046191331,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 329714271,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 436112,
+        "resource_state": 1
+      },
+      "elapsed_time": 1353,
+      "moving_time": 1353,
+      "start_date": "2015-06-21T06:14:06Z",
+      "start_date_local": "2015-06-20T23:14:06Z",
+      "distance": 7219.7,
+      "start_index": 0,
+      "end_index": 459,
+      "total_elevation_gain": 55,
+      "average_speed": 5.34,
+      "max_speed": 8.8,
+      "device_watts": false,
+      "average_watts": 121.3,
+      "average_heartrate": 121.3,
+      "max_heartrate": 153,
+      "lap_index": 1,
+      "split": 1
+    }
+  ],
+  "gear": {
+    "id": "b2037348",
+    "primary": false,
+    "name": "Peter Mansbridge - Loaded",
+    "resource_state": 2,
+    "distance": 8447978
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "device_name": "Garmin Edge 510",
+  "embed_token": "f7d4cb469bebe6d6e3c143fa262ec9c97b86d968",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
